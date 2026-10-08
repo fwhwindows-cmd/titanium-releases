@@ -1,0 +1,85 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1465063,
+  "imdb_id": "tt36583977",
+  "title": "Forgotten Island",
+  "year": "2026",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & scary scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "friendship",
+    "island",
+    "mythology",
+    "female friendship",
+    "mythical creature",
+    "philippines",
+    "coming of age",
+    "memory loss",
+    "memory",
+    "best friend",
+    "demon",
+    "1990s",
+    "found family",
+    "grandmother granddaughter relationship",
+    "3d animation",
+    "filipino",
+    "filipino mythology",
+    "filipino culture",
+    "magic portal",
+    "art shift",
+    "animesque"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:04+00:00"
+}

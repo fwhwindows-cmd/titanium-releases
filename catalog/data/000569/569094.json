@@ -1,0 +1,102 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 569094,
+  "imdb_id": "tt9362722",
+  "title": "Spider-Man: Across the Spider-Verse",
+  "year": "2023",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.35,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence and coarse language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new york city",
+    "hero",
+    "double life",
+    "sacrifice",
+    "secret identity",
+    "superhero",
+    "villain",
+    "portal",
+    "based on comic",
+    "sequel",
+    "romance",
+    "alter ego",
+    "alternate dimension",
+    "parenting",
+    "family",
+    "alternate version",
+    "super power",
+    "brooklyn, new york city",
+    "superhero team",
+    "spider bite",
+    "super villain",
+    "cliffhanger",
+    "masked superhero",
+    "teenage romance",
+    "young heroes",
+    "teen superhero",
+    "teen social issues",
+    "chelsea",
+    "alternate universe",
+    "superhero teamup",
+    "female superhero",
+    "slow burn romance",
+    "interdimensional travel",
+    "ambiguous",
+    "cliché",
+    "enthusiastic",
+    "vibrant",
+    "multiverse"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:11+00:00"
+}

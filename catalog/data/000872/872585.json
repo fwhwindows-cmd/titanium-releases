@@ -1,0 +1,94 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 872585,
+  "imdb_id": "tt15398776",
+  "title": "Oppenheimer",
+  "year": "2023",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex scenes, offensive language, nudity & suicide",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "NUDITY",
+    "LANGUAGE",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "husband wife relationship",
+    "based on novel or book",
+    "atomic bomb",
+    "patriotism",
+    "new mexico",
+    "world war ii",
+    "atomic bomb test",
+    "physics",
+    "biography",
+    "based on true story",
+    "antisemitism",
+    "interrogation",
+    "guilt",
+    "historical event",
+    "nuclear weapons",
+    "communism",
+    "red scare",
+    "mccarthyism",
+    "top secret project",
+    "moral dilemma",
+    "usa politics",
+    "1940s",
+    "20th century",
+    "manhattan project",
+    "los alamos"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY",
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:09+00:00"
+}

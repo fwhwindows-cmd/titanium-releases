@@ -1,0 +1,73 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1419406,
+  "imdb_id": "tt34610311",
+  "title": "The Shadow's Edge",
+  "year": "2025",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.3,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "race against time",
+    "ex-cop",
+    "betrayal",
+    "nostalgic",
+    "macau",
+    "hand to hand combat",
+    "manhunt",
+    "hidden agenda",
+    "dramatic",
+    "hacked camera system",
+    "cryptocurrency",
+    "security breach",
+    "tracking expert",
+    "spectacular action scenes",
+    "surveillance city",
+    "family stakes"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:25:59+00:00"
+}

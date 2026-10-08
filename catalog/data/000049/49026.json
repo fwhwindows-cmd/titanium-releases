@@ -1,0 +1,83 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 49026,
+  "imdb_id": "tt1345836",
+  "title": "The Dark Knight Rises",
+  "year": "2012",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.798,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "airplane",
+    "fight",
+    "burglar",
+    "hostage",
+    "secret identity",
+    "crime fighter",
+    "superhero",
+    "villainess",
+    "time bomb",
+    "based on comic",
+    "cover-up",
+    "vigilante",
+    "tragic hero",
+    "mobile",
+    "terrorism",
+    "destruction",
+    "fighting",
+    "criminal underworld",
+    "cat burglar",
+    "flood"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "fighting"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:20+00:00"
+}

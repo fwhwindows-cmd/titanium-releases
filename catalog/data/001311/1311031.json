@@ -1,0 +1,75 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1311031,
+  "imdb_id": "tt32820897",
+  "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+  "year": "2025",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.798,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Bloody violence, suicide and content that may disturb",
+  "advisory_tags": [
+    "VIOLENCE",
+    "FRIGHTENING SCENES",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "supernatural",
+    "sequel",
+    "based on manga",
+    "demon",
+    "shounen",
+    "anime",
+    "brother sister relationship",
+    "taisho period"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:01+00:00"
+}

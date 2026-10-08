@@ -1,0 +1,83 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 693134,
+  "imdb_id": "tt15239678",
+  "title": "Dune: Part Two",
+  "year": "2024",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.1,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "sandstorm",
+    "chosen one",
+    "sequel",
+    "distant future",
+    "creature",
+    "planet",
+    "desert",
+    "destiny",
+    "giant worm",
+    "space opera",
+    "sand dune",
+    "allegorical",
+    "messiah",
+    "fall from grace",
+    "vengeance",
+    "religious allegory",
+    "giant creature",
+    "power",
+    "ambiguous",
+    "antagonistic",
+    "melodramatic"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:25:51+00:00"
+}

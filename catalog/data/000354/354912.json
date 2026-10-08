@@ -1,0 +1,80 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 354912,
+  "imdb_id": "tt2380307",
+  "title": "Coco",
+  "year": "2017",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.199,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "skeleton",
+    "mexico",
+    "guitar",
+    "afterlife",
+    "musician",
+    "holiday",
+    "villain",
+    "singer",
+    "murderer",
+    "life after death",
+    "kids",
+    "day of the dead",
+    "3d animation",
+    "music",
+    "boy",
+    "hilarious",
+    "hopeful",
+    "modest",
+    "pixar"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:15+00:00"
+}

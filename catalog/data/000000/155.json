@@ -1,0 +1,81 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 155,
+  "imdb_id": "tt0468569",
+  "title": "The Dark Knight",
+  "year": "2008",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Medium level violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "sadism",
+    "chaos",
+    "secret identity",
+    "crime fighter",
+    "superhero",
+    "anti hero",
+    "scarecrow",
+    "based on comic",
+    "vigilante",
+    "organized crime",
+    "tragic hero",
+    "anti villain",
+    "criminal mastermind",
+    "district attorney",
+    "super power",
+    "super villain",
+    "neo-noir",
+    "bold"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists organised crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "organised crime"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T19:26:10+00:00"
+}

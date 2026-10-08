@@ -1,0 +1,85 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 936075,
+  "imdb_id": "tt11378946",
+  "title": "Michael",
+  "year": "2026",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.618,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive Language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "child abuse",
+    "sibling relationship",
+    "1970s",
+    "abusive father",
+    "ambition",
+    "biography",
+    "based on true story",
+    "singer",
+    "period drama",
+    "music history",
+    "price of fame",
+    "singer-songwriter",
+    "rise to fame",
+    "1980s",
+    "1960s",
+    "music",
+    "admiring",
+    "biographical drama",
+    "music drama",
+    "biopic"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists abuse among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists child abuse among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "child abuse"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T19:26:06+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 120,
+  "imdb_id": "tt0120737",
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "year": "2001",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.446,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & fantasy horror",
+  "advisory_tags": [
+    "VIOLENCE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "elves",
+    "dwarf",
+    "magic",
+    "obsession",
+    "allegory",
+    "bravery",
+    "castle",
+    "troll",
+    "battle",
+    "demon",
+    "uncle nephew relationship",
+    "fantasy world",
+    "dark fantasy",
+    "journey",
+    "companionship",
+    "magical creature",
+    "live action and animation",
+    "hero's journey",
+    "wraith",
+    "sword and sorcery",
+    "wonder",
+    "trekking",
+    "anxious",
+    "good versus evil",
+    "wistful",
+    "christian allegory",
+    "magical ring",
+    "comforting",
+    "tolkien",
+    "epic fantasy",
+    "epic",
+    "hobbit"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:07+00:00"
+}

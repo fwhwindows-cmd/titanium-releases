@@ -1,0 +1,75 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1226863,
+  "imdb_id": "tt28650488",
+  "title": "The Super Mario Galaxy Movie",
+  "year": "2026",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.2,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "galaxy",
+    "friendship",
+    "sibling relationship",
+    "space travel",
+    "sequel",
+    "space",
+    "based on video game",
+    "buddy comedy",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "space adventure",
+    "father son relationship",
+    "parallel universe",
+    "brother brother relationship",
+    "talking animal",
+    "magic land",
+    "3d animation",
+    "adoring"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:26:10+00:00"
+}

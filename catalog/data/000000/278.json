@@ -1,0 +1,80 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 278,
+  "imdb_id": "tt0111161",
+  "title": "The Shawshank Redemption",
+  "year": "1994",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.732,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "prison",
+    "friendship",
+    "police brutality",
+    "corruption",
+    "based on novel or book",
+    "freedom",
+    "hope",
+    "prison cell",
+    "delinquent",
+    "redemption",
+    "parole board",
+    "prison escape",
+    "wrongful imprisonment",
+    "interracial friendship",
+    "framed for murder",
+    "1940s",
+    "voiceover",
+    "amused",
+    "epic"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists corruption among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "corruption"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T19:25:59+00:00"
+}
