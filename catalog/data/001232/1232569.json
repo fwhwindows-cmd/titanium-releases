@@ -1,0 +1,82 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1232569,
+  "imdb_id": "tt30887701",
+  "title": "Pinocchio: Unstrung",
+  "year": "2026",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Horror, graphic violence & offensive language",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "LANGUAGE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "lie",
+    "puppet",
+    "killer doll",
+    "dark fantasy",
+    "aftercreditsstinger",
+    "evil puppet",
+    "toy comes to life",
+    "mysterious",
+    "aggressive",
+    "teamwork",
+    "absurd",
+    "slasher horror",
+    "the twisted childhood universe (tcu)"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:18:34+00:00"
+}

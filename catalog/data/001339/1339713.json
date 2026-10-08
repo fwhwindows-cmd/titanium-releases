@@ -1,0 +1,91 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1339713,
+  "imdb_id": "tt37287335",
+  "title": "Obsession",
+  "year": "2026",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, horror, sex scenes, offensive language, suicide and content that may disturb",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "FRIGHTENING SCENES",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "obsession",
+    "supernatural",
+    "possession",
+    "wish",
+    "unrequited love",
+    "couple",
+    "absurdism",
+    "self-harm",
+    "supernatural horror",
+    "psychological",
+    "independent film",
+    "psychological horror",
+    "cursed object"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "supernatural horror",
+        "psychological horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": [
+        "self-harm"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T19:18:34+00:00"
+}

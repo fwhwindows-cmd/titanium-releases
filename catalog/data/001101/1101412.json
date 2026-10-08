@@ -1,0 +1,71 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1101412,
+  "imdb_id": "tt31192372",
+  "title": "Fall 2: Deadpoint",
+  "year": "2026",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.125,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "sequel",
+    "rock climbing",
+    "sport climbing",
+    "climb",
+    "cautionary",
+    "dramatic",
+    "mountain climber"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:18:35+00:00"
+}
