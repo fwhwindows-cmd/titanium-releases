@@ -66,6 +66,10 @@ jobs:
             --batch-size "$BATCH_SIZE" \
             --ids "$TARGET_IDS"
 
+      - name: Verify published guides reach the live Render API
+        continue-on-error: true
+        run: python catalog/check_live_catalog.py
+
       - name: Commit persistent guide records
         run: |
           cd /tmp/titanium-guide-catalog
