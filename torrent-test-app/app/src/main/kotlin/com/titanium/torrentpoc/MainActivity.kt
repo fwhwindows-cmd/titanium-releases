@@ -7,6 +7,7 @@ import android.graphics.Color
 import android.os.Bundle
 import android.text.InputType
 import android.view.Gravity
+import android.view.View
 import android.view.ViewGroup
 import android.view.WindowManager
 import android.widget.Button
@@ -38,6 +39,7 @@ class MainActivity : Activity() {
 
     private val uiScope = CoroutineScope(SupervisorJob() + Dispatchers.Main)
 
+    private lateinit var rootLayout: LinearLayout
     private lateinit var magnetInput: EditText
     private lateinit var startButton: Button
     private lateinit var stopButton: Button
@@ -50,6 +52,7 @@ class MainActivity : Activity() {
     private var currentTorrentId: String? = null
     private var currentStream: NuvioStream? = null
     private var statsJob: Job? = null
+    private var fullscreen = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -59,7 +62,7 @@ class MainActivity : Activity() {
     }
 
     private fun buildUi() {
-        val root = LinearLayout(this).apply {
+        rootLayout = LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL
             setBackgroundColor(Color.rgb(10, 10, 12))
             setPadding(dp(20), dp(16), dp(20), dp(16))
@@ -71,7 +74,7 @@ class MainActivity : Activity() {
             textSize = 22f
             setPadding(0, 0, 0, dp(10))
         }
-        root.addView(title)
+        rootLayout.addView(title)
 
         magnetInput = EditText(this).apply {
             hint = "Paste a magnet link"
@@ -82,7 +85,7 @@ class MainActivity : Activity() {
             isSingleLine = true
             setPadding(dp(12), dp(8), dp(12), dp(8))
         }
-        root.addView(
+        rootLayout.addView(
             magnetInput,
             LinearLayout.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT,
@@ -96,12 +99,28 @@ class MainActivity : Activity() {
         }
 
         val loadTestButton = Button(this).apply {
-            text = "LEGAL TEST"
+            text = "PROVIDER TEST"
             isFocusable = true
             setOnClickListener {
-                magnetInput.setText(BIG_BUCK_BUNNY_MAGNET)
-                status("Loaded Big Buck Bunny test magnet.")
-                startButton.requestFocus()
+                if (engine == null) {
+                    status("Engine is still starting.")
+                } else {
+                    isEnabled = false
+                    status("Fetching legal provider source...")
+                    uiScope.launch {
+                        try {
+                            val source = withContext(Dispatchers.IO) {
+                                ProviderClient.fetch(PROVIDER_URL)
+                            }
+                            magnetInput.setText(MagnetBuilder.from(source))
+                            status("Provider returned ${source.name}. Starting torrent...")
+                            startTorrent()
+                        } catch (error: Throwable) {
+                            status("PROVIDER ERROR: ${error.message ?: error.javaClass.simpleName}")
+                            isEnabled = true
+                        }
+                    }
+                }
             }
         }
 
@@ -145,7 +164,7 @@ class MainActivity : Activity() {
                 }
             )
         }
-        root.addView(buttonRow)
+        rootLayout.addView(buttonRow)
 
         statusText = TextView(this).apply {
             text = "Starting engine..."
@@ -153,7 +172,7 @@ class MainActivity : Activity() {
             textSize = 15f
             setPadding(0, dp(2), 0, dp(4))
         }
-        root.addView(statusText)
+        rootLayout.addView(statusText)
 
         statsText = TextView(this).apply {
             text = ""
@@ -161,14 +180,15 @@ class MainActivity : Activity() {
             textSize = 13f
             setPadding(0, 0, 0, dp(6))
         }
-        root.addView(statsText)
+        rootLayout.addView(statsText)
 
         playerView = PlayerView(this).apply {
             setBackgroundColor(Color.BLACK)
             useController = true
             isFocusable = true
+            visibility = View.GONE
         }
-        root.addView(
+        rootLayout.addView(
             playerView,
             LinearLayout.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT,
@@ -177,7 +197,7 @@ class MainActivity : Activity() {
             )
         )
 
-        setContentView(root)
+        setContentView(rootLayout)
         loadTestButton.requestFocus()
     }
 
@@ -252,8 +272,8 @@ class MainActivity : Activity() {
                 exo.setMediaItem(MediaItem.fromUri(result.third.url))
                 exo.prepare()
                 exo.playWhenReady = true
-                playerView.requestFocus()
                 startStats(result.third)
+                enterFullscreen()
             } catch (error: CancellationException) {
                 throw error
             } catch (error: Throwable) {
@@ -305,11 +325,12 @@ class MainActivity : Activity() {
         uiScope.launch {
             releasePlayerOnly()
             stopEngineStreamOnly()
-            status("Stopped. Ready for another magnet.")
+            status("Stopped. Ready for another test.")
             statsText.text = ""
             startButton.isEnabled = true
             stopButton.isEnabled = false
-            startButton.requestFocus()
+            exitFullscreen()
+            rootLayout.getChildAt(2).requestFocus()
         }
     }
 
@@ -330,6 +351,42 @@ class MainActivity : Activity() {
             if (localEngine != null && torrentId != null) {
                 runCatching { localEngine.removeTorrent(torrentId) }
             }
+        }
+    }
+
+    private fun enterFullscreen() {
+        fullscreen = true
+        for (i in 0 until rootLayout.childCount) {
+            rootLayout.getChildAt(i).visibility = View.GONE
+        }
+        playerView.visibility = View.VISIBLE
+        playerView.layoutParams = LinearLayout.LayoutParams(
+            ViewGroup.LayoutParams.MATCH_PARENT,
+            0,
+            1f
+        )
+        window.decorView.systemUiVisibility =
+            View.SYSTEM_UI_FLAG_FULLSCREEN or
+            View.SYSTEM_UI_FLAG_HIDE_NAVIGATION or
+            View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY
+        playerView.requestFocus()
+    }
+
+    private fun exitFullscreen() {
+        fullscreen = false
+        window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_VISIBLE
+        for (i in 0 until rootLayout.childCount) {
+            rootLayout.getChildAt(i).visibility = View.VISIBLE
+        }
+        playerView.visibility = View.GONE
+    }
+
+    @Deprecated("Deprecated in Java")
+    override fun onBackPressed() {
+        if (fullscreen) {
+            stopCurrent()
+        } else {
+            super.onBackPressed()
         }
     }
 
@@ -370,14 +427,7 @@ class MainActivity : Activity() {
         }
 
     companion object {
-        private const val BIG_BUCK_BUNNY_MAGNET =
-            "magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c" +
-            "&dn=Big+Buck+Bunny" +
-            "&tr=udp%3A%2F%2Fexplodie.org%3A6969" +
-            "&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969" +
-            "&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337" +
-            "&tr=wss%3A%2F%2Ftracker.openwebtorrent.com" +
-            "&ws=https%3A%2F%2Fwebtorrent.io%2Ftorrents%2F" +
-            "&xs=https%3A%2F%2Fwebtorrent.io%2Ftorrents%2Fbig-buck-bunny.torrent"
+        private const val PROVIDER_URL =
+            "https://raw.githubusercontent.com/fwhwindows-cmd/titanium-releases/torrent-poc/torrent-test-app/provider/legal-test.json"
     }
 }
