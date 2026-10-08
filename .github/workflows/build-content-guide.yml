@@ -1,0 +1,80 @@
+name: Build Titanium Content Guide catalog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/build-content-guide.yml"
+      - "catalog/**"
+  schedule:
+    # TMDB daily export is published by 08:00 UTC.
+    - cron: "30 10 * * *"
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Maximum movies to process"
+        required: false
+        default: "60"
+      ids:
+        description: "Optional TMDB IDs separated by commas for a targeted run"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: titanium-public-content-guide-catalog
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout builder
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install service and test dependencies
+        run: python -m pip install --disable-pip-version-check requests==2.32.3
+
+      - name: Validate six-category keyword compiler
+        run: python -m unittest discover -s catalog -p 'test_*.py' -v
+
+      - name: Attach persistent catalog branch
+        run: |
+          git fetch origin content-guide-data
+          git worktree add -B content-guide-data /tmp/titanium-guide-catalog origin/content-guide-data
+
+      - name: Compile next movie batch
+        env:
+          BATCH_SIZE: ${{ github.event.inputs.batch_size || '60' }}
+          TARGET_IDS: ${{ github.event_name == 'push' && '238,10830' || github.event.inputs.ids || '' }}
+          # AI off unless owner explicitly sets GitHub variable and secret.
+          TITANIUM_AI_ENABLED: ${{ vars.TITANIUM_AI_ENABLED || '0' }}
+          OPENAI_API_KEY: ${{ secrets.TITANIUM_OPENAI_API_KEY }}
+        run: |
+          python catalog/build.py \
+            --output /tmp/titanium-guide-catalog/catalog/data \
+            --batch-size "$BATCH_SIZE" \
+            --ids "$TARGET_IDS"
+
+      - name: Commit persistent guide records
+        run: |
+          cd /tmp/titanium-guide-catalog
+          git config user.name "titanium-guide-bot"
+          git config user.email "titanium-guide-bot@users.noreply.github.com"
+          git add catalog/data
+          if git diff --cached --quiet; then
+            echo "No new guide records"
+            exit 0
+          fi
+          git commit -m "Update persistent Titanium Content Guide catalog"
+          git push origin content-guide-data
