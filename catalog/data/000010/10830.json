@@ -1,0 +1,93 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 10830,
+  "imdb_id": "tt0117008",
+  "title": "Matilda",
+  "year": "1996",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.19,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "parent child relationship",
+    "classroom",
+    "difficult childhood",
+    "child prodigy",
+    "childhood trauma",
+    "dysfunctional family",
+    "telekinesis",
+    "school",
+    "teacher student relationship",
+    "used car salesman",
+    "school principal",
+    "neglected child",
+    "schoolmarm",
+    "dysfunctional life",
+    "female teacher",
+    "parental abuse",
+    "crass comedy",
+    "based on young adult novel",
+    "abused child",
+    "apathetic",
+    "apologetic",
+    "enthusiastic",
+    "tyrannical school principal"
+  ],
+  "content_descriptors": [
+    "Violence — Cartoonish bullying includes a girl being swung by her hair, a punishment cupboard and a forced cake-eating scene.",
+    "Sex & Nudity — The available parental guide reports no sexual content or nudity.",
+    "Profanity — Contains occasional mild swearing and harsh name-calling directed at children.",
+    "Alcohol, Drugs & Smoking — Adult characters are shown drinking beer; no substantial drug-related content is reported in the cited guide.",
+    "Frightening & Intense Scenes — A cruel headmistress intimidates and chases children, including scenes involving a frightening cupboard.",
+    "Mature Content & Themes — Explores child neglect, emotional cruelty, bullying and a young girl's efforts to stand up to abusive adults."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/matilda-q29sbgvjdglvbjpwwc0zmtg5mjq",
+        "https://www.commonsensemedia.org/movie-reviews/matilda"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/matilda"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/matilda-q29sbgvjdglvbjpwwc0zmtg5mjq",
+        "https://www.commonsensemedia.org/movie-reviews/matilda"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/matilda-q29sbgvjdglvbjpwwc0zmtg5mjq",
+        "https://www.commonsensemedia.org/movie-reviews/matilda"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/matilda-q29sbgvjdglvbjpwwc0zmtg5mjq",
+        "https://www.commonsensemedia.org/movie-reviews/matilda"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/matilda"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T18:35:04+00:00"
+}
