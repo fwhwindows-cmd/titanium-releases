@@ -1,0 +1,73 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1263337,
+  "imdb_id": "tt7526136",
+  "title": "Heart of the Beast",
+  "year": "2026",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.4,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & injury detail",
+  "advisory_tags": [
+    "VIOLENCE",
+    "GORE"
+  ],
+  "keywords": [
+    "alaska",
+    "dog",
+    "special forces",
+    "military",
+    "american wilderness",
+    "man vs nature",
+    "plane crash",
+    "inspirational",
+    "survival thriller",
+    "extreme conditions"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports blood, gore or injury detail.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GORE",
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:18:58+00:00"
+}

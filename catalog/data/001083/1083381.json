@@ -1,0 +1,91 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1083381,
+  "imdb_id": "tt26657236",
+  "title": "Backrooms",
+  "year": "2026",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence and offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "california",
+    "monster",
+    "therapist",
+    "surrealism",
+    "childhood trauma",
+    "alcoholism",
+    "found footage",
+    "1990s",
+    "other dimension",
+    "based on web series",
+    "psychological",
+    "liminal",
+    "body horror",
+    "psychological horror",
+    "liminal space",
+    "analog horror",
+    "sci-fi horror",
+    "bewildered",
+    "foreboding",
+    "liminal horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — TMDB lists alcohol misuse among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — TMDB lists horror, psychological horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — TMDB lists trauma among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "alcohol misuse"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror",
+        "psychological horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T19:19:12+00:00"
+}

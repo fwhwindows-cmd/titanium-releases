@@ -1,0 +1,83 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1315772,
+  "imdb_id": "tt32890033",
+  "title": "Minions & Monsters",
+  "year": "2026",
+  "certification": "U",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.6,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence and coarse language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "magic",
+    "sequel",
+    "alien",
+    "prequel",
+    "hollywood",
+    "spin off",
+    "henchman",
+    "filmmaking",
+    "silent film",
+    "framing device",
+    "duringcreditsstinger",
+    "women's suffrage",
+    "1920s",
+    "humanoid robot",
+    "3d animation",
+    "monsters",
+    "hilarious",
+    "vibrant",
+    "early sound film"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:19:13+00:00"
+}

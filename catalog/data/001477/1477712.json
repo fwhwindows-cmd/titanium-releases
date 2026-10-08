@@ -1,0 +1,85 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1477712,
+  "imdb_id": "tt36893729",
+  "title": "Ice Cream Man",
+  "year": "2026",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 4.9,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, gore, sexual violence references & suicide",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "GORE",
+    "SEXUAL CONTENT",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "gore",
+    "murder",
+    "serial killer",
+    "summer",
+    "massacre",
+    "ice cream",
+    "ice cream man",
+    "aftercreditsstinger",
+    "killer child",
+    "town",
+    "independent film",
+    "absurd",
+    "ai generated"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GORE",
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "gore",
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:19:00+00:00"
+}

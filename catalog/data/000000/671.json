@@ -1,0 +1,93 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 671,
+  "imdb_id": "tt0241527",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "year": "2001",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.904,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & coarse language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "witch",
+    "school friend",
+    "friendship",
+    "london, england",
+    "based on novel or book",
+    "magic",
+    "boarding school",
+    "male friendship",
+    "child hero",
+    "school of witchcraft",
+    "chosen one",
+    "bullying",
+    "school",
+    "ghost",
+    "fantasy world",
+    "wizard",
+    "pre-teen",
+    "calm",
+    "children's adventure",
+    "based on young adult novel",
+    "found family",
+    "teen adventure",
+    "owl",
+    "male female friendship",
+    "admiring",
+    "adoring",
+    "teen fantasy"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists bullying among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "bullying"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T19:19:30+00:00"
+}
