@@ -8,6 +8,8 @@ warnings from known absence. This is a background data builder, not an API.
 """
 import argparse
 import os
+from concurrent.futures import ThreadPoolExecutor
+import threading
 from datetime import datetime, timedelta, timezone
 import gzip
 import heapq
@@ -115,6 +117,18 @@ def get_json_with_retry(session, url, *, params=None, attempts=3, read_timeout=1
             time.sleep(min(3 * (attempt + 1), 10))
 
 
+_THREAD_CONTEXT = threading.local()
+
+
+def _worker_session():
+    # requests.Session is not shared across worker threads.
+    session = getattr(_THREAD_CONTEXT, "session", None)
+    if session is None:
+        session = requests.Session()
+        _THREAD_CONTEXT.session = session
+    return session
+
+
 def compile_movie(movie_id, session=None):
     session = session or requests.Session()
     wrapper = get_json_with_retry(
@@ -181,39 +195,82 @@ def compile_movie(movie_id, session=None):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", default="catalog/data")
-    parser.add_argument("--batch-size", type=int, default=60)
+    parser.add_argument("--batch-size", type=int, default=500)
     parser.add_argument("--top", type=int, default=100000)
-    parser.add_argument("--sleep", type=float, default=1.0)
-    parser.add_argument("--ids", default="", help="Optional comma-separated IDs for smoke tests")
+    parser.add_argument("--workers", type=int, default=4)
+    parser.add_argument("--sleep", type=float, default=0.0,
+                        help="Delay between queued requests, if rate limited")
+    parser.add_argument("--ids", default="",
+                        help="Optional comma-separated IDs for smoke tests")
     args = parser.parse_args()
     if args.batch_size < 1 or args.top < 1:
         parser.error("batch-size and top must be positive")
+    if args.workers < 1 or args.workers > 4:
+        parser.error("workers must be between 1 and 4 to protect Render")
+    if args.sleep < 0:
+        parser.error("sleep must not be negative")
+
     root = Path(args.output)
     root.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc)
-    ids = [int(x.strip()) for x in args.ids.split(",") if x.strip()] if args.ids else source_export_candidates(args.top)
-    session = requests.Session()
-    wrote, failed, attempted = 0, 0, 0
+    ids = (
+        [int(x.strip()) for x in args.ids.split(",") if x.strip()]
+        if args.ids else source_export_candidates(args.top)
+    )
+
+    # Select one small bounded set. Existing published records stay intact.
+    pending = []
+    seen = set()
     for movie_id in ids:
-        path = record_path(root, movie_id)
-        if not should_fetch(path, now):
+        if movie_id in seen or movie_id <= 0:
             continue
-        attempted += 1
-        try:
-            record = compile_movie(movie_id, session)
-            path.parent.mkdir(parents=True, exist_ok=True)
-            path.write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-            wrote += 1
-            print(f"STORED {movie_id} {record['title']} matched={record['matched_advisory']}", flush=True)
-        except (requests.RequestException, ValueError, KeyError) as exc:
-            failed += 1
-            print(f"SKIP {movie_id}: {exc}", file=sys.stderr, flush=True)
-        if attempted >= args.batch_size:
+        seen.add(movie_id)
+        if should_fetch(record_path(root, movie_id), now):
+            pending.append(movie_id)
+        if len(pending) >= args.batch_size:
             break
-        time.sleep(max(0.0, args.sleep))
-    print(f"COMPLETE attempted={attempted} stored={wrote} failed={failed}")
-    # If every request failed due to downtime, fail the Action visibly.
-    if attempted and not wrote:
+
+    print(
+        f"START queued={len(pending)} workers={args.workers} "
+        f"batch_limit={args.batch_size}",
+        flush=True,
+    )
+
+    def compile_one(movie_id):
+        try:
+            return movie_id, compile_movie(movie_id, _worker_session()), None
+        except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
+            return movie_id, None, str(exc)
+
+    wrote, failed = 0, 0
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        # map preserves the input order. Disk writes and final Git commit
+        # remain single-threaded, avoiding partially written JSON.
+        for movie_id, record, error in pool.map(compile_one, pending):
+            if error is not None:
+                failed += 1
+                print(f"SKIP {movie_id}: {error}", file=sys.stderr, flush=True)
+                continue
+            path = record_path(root, movie_id)
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text(
+                json.dumps(record, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+            wrote += 1
+            print(
+                f"STORED {movie_id} {record['title']} "
+                f"matched={record['matched_advisory']}",
+                flush=True,
+            )
+            if args.sleep:
+                time.sleep(args.sleep)
+
+    print(
+        f"COMPLETE attempted={len(pending)} stored={wrote} failed={failed}",
+        flush=True,
+    )
+    if pending and not wrote:
         raise SystemExit(1)
 
 
