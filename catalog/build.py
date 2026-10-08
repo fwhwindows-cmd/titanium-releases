@@ -21,6 +21,7 @@ import requests
 from keyword_guide import compile_descriptors
 from featured_guides import compile_featured
 from ai_describer import generate_from_evidence
+from quality import REVISION, should_refresh, summarize
 
 METADATA = "https://titanium-metadata-provider.onrender.com"
 ADVISORY = "https://titanium-advisory-provider.onrender.com"
@@ -77,13 +78,8 @@ def should_fetch(path, now):
         return True
     try:
         saved = json.loads(path.read_text(encoding="utf-8"))
-        if saved.get("schema") != SCHEMA:
-            return True
-        if saved.get("matched_advisory"):
-            return False
-        checked = datetime.fromisoformat(saved["checked_at"].replace("Z", "+00:00"))
-        return (now - checked).days >= 30
-    except (OSError, KeyError, ValueError, TypeError):
+        return should_refresh(saved, now)
+    except (OSError, ValueError, TypeError):
         return True
 
 
@@ -171,6 +167,7 @@ def compile_movie(movie_id, session=None):
         )
         if generated is not None:
             descriptors, category_evidence = generated
+    quality = summarize(descriptors, category_evidence)
     # A 'no match' is not evidence that any warning is absent.
     return {
         "schema": SCHEMA,
@@ -188,6 +185,9 @@ def compile_movie(movie_id, session=None):
         "keywords": keywords,
         "content_descriptors": descriptors,
         "category_evidence": category_evidence,
+        "guide_revision": REVISION,
+        "guide_quality": quality,
+        "matched_url": str(advisory.get("matched_url") or "") if matched else "",
         "checked_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
     }
 
