@@ -51,6 +51,9 @@ jobs:
         working-directory: nuvio-engine/platform/android
         run: ./gradlew :engine:assembleRelease --stacktrace
 
+      - name: Install verifier dependency
+        run: sudo apt-get update && sudo apt-get install -y ripgrep
+
       - name: Verify AAR
         working-directory: nuvio-engine
         run: ./scripts/verify-android-aar.sh platform/android/engine/build/outputs/aar/engine-release.aar
