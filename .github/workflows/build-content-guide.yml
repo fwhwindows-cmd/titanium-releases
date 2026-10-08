@@ -55,8 +55,10 @@ jobs:
 
       - name: Compile next movie batch
         env:
-          BATCH_SIZE: ${{ github.event.inputs.batch_size || '60' }}
-          TARGET_IDS: ${{ github.event_name == 'push' && '238,10830' || github.event.inputs.ids || '' }}
+          # First automatic run from a code push is a small smoke batch.
+          # Scheduled runs keep the full 60-film cadence.
+          BATCH_SIZE: ${{ github.event_name == 'push' && '12' || github.event.inputs.batch_size || '60' }}
+          TARGET_IDS: ${{ github.event.inputs.ids || '' }}
           # AI off unless owner explicitly sets GitHub variable and secret.
           TITANIUM_AI_ENABLED: ${{ vars.TITANIUM_AI_ENABLED || '0' }}
           OPENAI_API_KEY: ${{ secrets.TITANIUM_OPENAI_API_KEY }}
