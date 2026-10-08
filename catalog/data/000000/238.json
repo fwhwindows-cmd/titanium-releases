@@ -1,0 +1,90 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 238,
+  "imdb_id": "tt0068646",
+  "title": "The Godfather",
+  "year": "1972",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.688,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "loss of loved one",
+    "love at first sight",
+    "italy",
+    "gangster",
+    "symbolism",
+    "patriarch",
+    "europe",
+    "organized crime",
+    "mafia",
+    "religion",
+    "revenge motive",
+    "crime family",
+    "sicilian mafia",
+    "religious hypocrisy",
+    "gun violence",
+    "rise to power",
+    "gang violence",
+    "1940s",
+    "1950s",
+    "mafia war"
+  ],
+  "content_descriptors": [
+    "Violence — Includes close-range shootings, a sustained strangling and a scene of domestic abuse involving a belt.",
+    "Sex & Nudity — Includes a brief sexual encounter and short glimpses of female breast nudity.",
+    "Profanity — Contains coarse language alongside offensive racial and ethnic slurs.",
+    "Alcohol, Drugs & Smoking — Characters drink wine and smoke cigarettes, with discussion of heroin, marijuana and Mafia drug dealing.",
+    "Frightening & Intense Scenes — Sudden killings, threats and the discovery of a severed horse's head create disturbing moments.",
+    "Mature Content & Themes — Examines organised crime, family loyalty, corruption and the moral consequences of violence."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/the-godfather-q29sbgvjdglvbjpwwc0yotezmtg",
+        "https://www.commonsensemedia.org/movie-reviews/the-godfather"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/the-godfather-q29sbgvjdglvbjpwwc0yotezmtg",
+        "https://www.commonsensemedia.org/movie-reviews/the-godfather"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/the-godfather-q29sbgvjdglvbjpwwc0yotezmtg",
+        "https://www.commonsensemedia.org/movie-reviews/the-godfather"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-godfather"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/the-godfather-q29sbgvjdglvbjpwwc0yotezmtg",
+        "https://www.commonsensemedia.org/movie-reviews/the-godfather"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-godfather"
+      ]
+    }
+  },
+  "checked_at": "2026-10-08T18:35:02+00:00"
+}
