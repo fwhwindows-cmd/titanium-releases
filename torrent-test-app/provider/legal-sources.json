@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "name": "Big Buck Bunny",
+      "label": "Provider result 1",
+      "infoHash": "dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c",
+      "fileIndex": null,
+      "filenameHint": "Big Buck Bunny.mp4",
+      "trackers": ["udp://tracker.opentrackr.org:1337"],
+      "webSeeds": ["https://webtorrent.io/torrents/"]
+    },
+    {
+      "name": "Sintel",
+      "label": "Provider result 2",
+      "infoHash": "08ada5a7a6183aae1e09d831df6748d566095a10",
+      "fileIndex": null,
+      "filenameHint": null,
+      "trackers": ["udp://tracker.opentrackr.org:1337"],
+      "webSeeds": ["https://webtorrent.io/torrents/"]
+    },
+    {
+      "name": "Tears of Steel",
+      "label": "Provider result 3",
+      "infoHash": "209c8226b299b308beaf2b9cd3fb49212dbd13ec",
+      "fileIndex": null,
+      "filenameHint": null,
+      "trackers": ["udp://tracker.opentrackr.org:1337"],
+      "webSeeds": ["https://webtorrent.io/torrents/"]
+    }
+  ]
+}
