@@ -8,13 +8,13 @@ on:
       - "catalog/**"
   schedule:
     # TMDB daily export is published by 08:00 UTC.
-    - cron: "30 10 * * *"
+    - cron: "10 1,7,13,19 * * *"
   workflow_dispatch:
     inputs:
       batch_size:
         description: "Maximum movies to process"
         required: false
-        default: "60"
+        default: "500"
       ids:
         description: "Optional TMDB IDs separated by commas for a targeted run"
         required: false
@@ -55,9 +55,9 @@ jobs:
 
       - name: Compile next movie batch
         env:
-          # First automatic run from a code push is a small smoke batch.
-          # Scheduled runs keep the full 60-film cadence.
-          BATCH_SIZE: ${{ github.event_name == 'push' && '12' || github.event.inputs.batch_size || '60' }}
+          # Changes trigger a bounded 40-film concurrency test.
+          # Every six hours: compile up to 500 films (2,000/day).
+          BATCH_SIZE: ${{ github.event_name == 'push' && '40' || github.event.inputs.batch_size || '500' }}
           TARGET_IDS: ${{ github.event.inputs.ids || '' }}
           # AI off unless owner explicitly sets GitHub variable and secret.
           TITANIUM_AI_ENABLED: ${{ vars.TITANIUM_AI_ENABLED || '0' }}
@@ -66,6 +66,7 @@ jobs:
           python catalog/build.py \
             --output /tmp/titanium-guide-catalog/catalog/data \
             --batch-size "$BATCH_SIZE" \
+            --workers 4 \
             --ids "$TARGET_IDS"
 
       - name: Verify published guides reach the live Render API
