@@ -64,5 +64,15 @@
       "keywords": []
     }
   },
-  "checked_at": "2026-10-08T19:19:06+00:00"
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-08T19:27:01+00:00"
 }
