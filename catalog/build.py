@@ -19,7 +19,7 @@ import sys
 import time
 import requests
 from keyword_guide import compile_descriptors
-from featured_guides import compile_featured
+from featured_guides import FEATURED, compile_featured
 from ai_describer import generate_from_evidence
 from quality import REVISION, should_refresh, summarize
 
@@ -215,7 +215,7 @@ def main():
     now = datetime.now(timezone.utc)
     ids = (
         [int(x.strip()) for x in args.ids.split(",") if x.strip()]
-        if args.ids else source_export_candidates(args.top)
+        if args.ids else list(FEATURED) + source_export_candidates(args.top)
     )
 
     # Select one small bounded set. Existing published records stay intact.
