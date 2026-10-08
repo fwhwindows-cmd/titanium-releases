@@ -1,0 +1,14 @@
+{
+  "id": "big-buck-bunny",
+  "name": "Big Buck Bunny",
+  "type": "torrent",
+  "infoHash": "dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c",
+  "fileIndex": null,
+  "filenameHint": "Big Buck Bunny.mp4",
+  "trackers": [
+    "udp://tracker.opentrackr.org:1337"
+  ],
+  "webSeeds": [
+    "https://webtorrent.io/torrents/"
+  ]
+}
