@@ -111,10 +111,16 @@ class MainActivity : Activity() {
                     uiScope.launch {
                         try {
                             val sources = withContext(Dispatchers.IO) {
-                                ProviderClient.fetchMany(PROVIDER_URL)
+                                val local = TitaniumProviderRegistry.pocJson(PROVIDER_URL, "POC")
+                                val extra = configuredAddons().flatMap { (provider, url) ->
+                                    runCatching {
+                                        TitaniumProviderRegistry.stremio(url, "movie", "tt1254207", provider)
+                                    }.getOrDefault(emptyList())
+                                }
+                                TitaniumProviderRegistry.deduplicate(local + extra)
                             }
-                            renderSourceButtons(sources)
-                            status("Provider returned ${sources.size} sources. Choose one.")
+                            renderUniversalSourceButtons(sources)
+                            status("Found ${sources.size} sources. Choose one.")
                             isEnabled = true
                         } catch (error: Throwable) {
                             status("PROVIDER ERROR: ${error.message ?: error.javaClass.simpleName}")
@@ -230,6 +236,59 @@ class MainActivity : Activity() {
             } catch (error: Throwable) {
                 status("ENGINE ERROR: ${error.message ?: error.javaClass.simpleName}")
             }
+        }
+    }
+
+    // Optional addon endpoints are supplied via app-private configuration.
+    // No provider credentials or URLs are baked into the APK.
+    private fun configuredAddons(): List<Pair<String, String>> {
+        val prefs = getSharedPreferences("titanium_providers", Context.MODE_PRIVATE)
+        return listOf("torrentio", "aiostreams").mapNotNull { name ->
+            prefs.getString(name + "_url", null)?.trim()?.takeIf {
+                it.startsWith("https://")
+            }?.let { name to it }
+        }
+    }
+
+    private fun renderUniversalSourceButtons(sources: List<TitaniumSource>) {
+        sourceList.removeAllViews()
+        sources.forEach { source ->
+            val button = Button(this).apply {
+                text = "${source.provider} • ${source.quality ?: ""} • ${source.title}"
+                isFocusable = true
+                setOnClickListener {
+                    when {
+                        !source.infoHash.isNullOrBlank() -> {
+                            val magnet = "magnet:?xt=urn:btih:${source.infoHash}"
+                            magnetInput.setText(magnet)
+                            status("Starting ${source.title}")
+                            startTorrent()
+                        }
+                        !source.url.isNullOrBlank() -> startDirectUrl(source.url)
+                        else -> status("Unsupported source.")
+                    }
+                }
+            }
+            sourceList.addView(button, LinearLayout.LayoutParams(
+                ViewGroup.LayoutParams.MATCH_PARENT, dp(54)
+            ))
+        }
+        sourceList.visibility = if (sources.isEmpty()) View.GONE else View.VISIBLE
+        if (sourceList.childCount > 0) sourceList.getChildAt(0).requestFocus()
+    }
+
+    private fun startDirectUrl(url: String) {
+        uiScope.launch {
+            releasePlayerOnly()
+            stopEngineStreamOnly()
+            val exo = ExoPlayer.Builder(this@MainActivity).build()
+            player = exo
+            playerView.player = exo
+            exo.setMediaItem(MediaItem.fromUri(url))
+            exo.prepare()
+            exo.playWhenReady = true
+            stopButton.isEnabled = true
+            enterFullscreen()
         }
     }
 
