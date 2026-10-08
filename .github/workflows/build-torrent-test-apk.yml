@@ -1,0 +1,75 @@
+name: Build Torrent Test APK
+
+on:
+  push:
+    branches:
+      - torrent-poc
+    paths:
+      - "torrent-test-app/**"
+      - ".github/workflows/build-torrent-test-apk.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ANDROID_HOME: /usr/local/lib/android/sdk
+      ANDROID_SDK_ROOT: /usr/local/lib/android/sdk
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - name: Checkout torrent POC
+        uses: actions/checkout@v4
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.13"
+
+      - name: Install Android platform
+        run: |
+          SDKMANAGER="$(find "$ANDROID_HOME" -type f -name sdkmanager | head -n 1)"
+          if [ -z "$SDKMANAGER" ]; then
+            echo "sdkmanager not found"
+            exit 1
+          fi
+          yes | "$SDKMANAGER" --licenses >/dev/null || true
+          "$SDKMANAGER" "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+
+      - name: Download verified Nuvio Engine AAR
+        run: |
+          mkdir -p torrent-test-app/app/libs
+          gh run download 37745351055 \
+            --repo fwhwindows-cmd/titanium-releases \
+            --name nuvio-engine-android-0.1.4 \
+            --dir torrent-test-app/app/libs
+          test -f torrent-test-app/app/libs/engine-release.aar
+          ls -lh torrent-test-app/app/libs/engine-release.aar
+
+      - name: Build debug APK
+        working-directory: torrent-test-app
+        run: gradle :app:assembleDebug --stacktrace
+
+      - name: Rename APK
+        run: |
+          cp torrent-test-app/app/build/outputs/apk/debug/app-debug.apk \
+             TITANIUM_TORRENT_POC_001.apk
+
+      - name: Upload test APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: TITANIUM_TORRENT_POC_001
+          path: TITANIUM_TORRENT_POC_001.apk
+          if-no-files-found: error
+          retention-days: 14
