@@ -10,6 +10,8 @@ SOURCES = {
     "godfather_csm": "https://www.commonsensemedia.org/movie-reviews/the-godfather",
     "matilda_bbfc": "https://www.bbfc.co.uk/release/matilda-q29sbgvjdglvbjpwwc0zmtg5mjq",
     "matilda_csm": "https://www.commonsensemedia.org/movie-reviews/matilda",
+    "potter_bbfc": "https://www.bbfc.co.uk/release/harry-potter-and-the-philosophers-stone-q29sbgvjdglvbjpwwc0zmzm2odi",
+    "spiderman_bbfc": "https://www.bbfc.co.uk/release/spider-man-no-way-home-more-fun-stuff-q29sbgvjdglvbjpwwc0xmdiymzk4",
 }
 
 # Indexed by TMDB movie ID. Every statement is independently paraphrased
@@ -33,6 +35,46 @@ FEATURED = {
             "Alcohol, Drugs & Smoking": ["godfather_csm"],
             "Frightening & Intense Scenes": ["godfather_bbfc", "godfather_csm"],
             "Mature Content & Themes": ["godfather_csm"],
+        },
+    },
+    671: {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": "2001",
+        "descriptions": {
+            "Violence": "A young wizard faces a dangerous enemy, and enchanted chess pieces fight in a life-sized game.",
+            "Sex & Nudity": "Information not available",
+            "Profanity": "Infrequent mild swearing includes words such as 'bloody' and 'bugger'.",
+            "Alcohol, Drugs & Smoking": "Information not available",
+            "Frightening & Intense Scenes": "A dungeon troll, a snake pit and a sinister forest pursuit create brief frightening moments.",
+            "Mature Content & Themes": "An orphaned boy experiences an unkind home life, and the deaths of his parents are discussed.",
+        },
+        "sources": {
+            "Violence": ["potter_bbfc"],
+            "Sex & Nudity": [],
+            "Profanity": ["potter_bbfc"],
+            "Alcohol, Drugs & Smoking": [],
+            "Frightening & Intense Scenes": ["potter_bbfc"],
+            "Mature Content & Themes": ["potter_bbfc"],
+        },
+    },
+    634649: {
+        "title": "Spider-Man: No Way Home",
+        "year": "2021",
+        "descriptions": {
+            "Violence": "Superheroes and villains clash with heavy punches, fantastical powers and advanced technology.",
+            "Sex & Nudity": "Mild sexual references occur, without explicit scene details in the cited guidance.",
+            "Profanity": "Mostly mild language is heard, together with a brief, unfinished stronger expression.",
+            "Alcohol, Drugs & Smoking": "An undetailed reference to drugs appears.",
+            "Frightening & Intense Scenes": "Explosions, falls from heights and sudden villain appearances create threatening moments and jump scares.",
+            "Mature Content & Themes": "A superhero's exposed identity creates danger for those close to him and raises questions about responsibility.",
+        },
+        "sources": {
+            "Violence": ["spiderman_bbfc"],
+            "Sex & Nudity": ["spiderman_bbfc"],
+            "Profanity": ["spiderman_bbfc"],
+            "Alcohol, Drugs & Smoking": ["spiderman_bbfc"],
+            "Frightening & Intense Scenes": ["spiderman_bbfc"],
+            "Mature Content & Themes": ["spiderman_bbfc"],
         },
     },
     10830: {
