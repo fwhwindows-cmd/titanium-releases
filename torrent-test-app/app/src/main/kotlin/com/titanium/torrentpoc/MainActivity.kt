@@ -41,6 +41,7 @@ class MainActivity : Activity() {
 
     private lateinit var rootLayout: LinearLayout
     private lateinit var magnetInput: EditText
+    private lateinit var sourceList: LinearLayout
     private lateinit var startButton: Button
     private lateinit var stopButton: Button
     private lateinit var statusText: TextView
@@ -99,22 +100,22 @@ class MainActivity : Activity() {
         }
 
         val loadTestButton = Button(this).apply {
-            text = "PROVIDER TEST"
+            text = "LOAD SOURCES"
             isFocusable = true
             setOnClickListener {
                 if (engine == null) {
                     status("Engine is still starting.")
                 } else {
                     isEnabled = false
-                    status("Fetching legal provider source...")
+                    status("Fetching provider results...")
                     uiScope.launch {
                         try {
-                            val source = withContext(Dispatchers.IO) {
-                                ProviderClient.fetch(PROVIDER_URL)
+                            val sources = withContext(Dispatchers.IO) {
+                                ProviderClient.fetchMany(PROVIDER_URL)
                             }
-                            magnetInput.setText(MagnetBuilder.from(source))
-                            status("Provider returned ${source.name}. Starting torrent...")
-                            startTorrent()
+                            renderSourceButtons(sources)
+                            status("Provider returned ${sources.size} sources. Choose one.")
+                            isEnabled = true
                         } catch (error: Throwable) {
                             status("PROVIDER ERROR: ${error.message ?: error.javaClass.simpleName}")
                             isEnabled = true
@@ -165,6 +166,12 @@ class MainActivity : Activity() {
             )
         }
         rootLayout.addView(buttonRow)
+
+        sourceList = LinearLayout(this).apply {
+            orientation = LinearLayout.VERTICAL
+            visibility = View.GONE
+        }
+        rootLayout.addView(sourceList)
 
         statusText = TextView(this).apply {
             text = "Starting engine..."
@@ -219,10 +226,40 @@ class MainActivity : Activity() {
                     )
                 }
                 engine = created
-                status("Engine ready — Nuvio ${NuvioEngine.version}. Choose LEGAL TEST, then START.")
+                status("Engine ready — Nuvio ${NuvioEngine.version}. Choose LOAD SOURCES.")
             } catch (error: Throwable) {
                 status("ENGINE ERROR: ${error.message ?: error.javaClass.simpleName}")
             }
+        }
+    }
+
+    private fun renderSourceButtons(sources: List<ProviderSource>) {
+        sourceList.removeAllViews()
+
+        sources.forEach { source ->
+            val button = Button(this).apply {
+                text = "${source.label ?: "Source"}  •  ${source.name}"
+                isFocusable = true
+                setOnClickListener {
+                    magnetInput.setText(MagnetBuilder.from(source))
+                    status("Selected ${source.name}. Starting torrent...")
+                    startTorrent()
+                }
+            }
+            sourceList.addView(
+                button,
+                LinearLayout.LayoutParams(
+                    ViewGroup.LayoutParams.MATCH_PARENT,
+                    dp(54)
+                ).apply {
+                    setMargins(dp(4), dp(3), dp(4), dp(3))
+                }
+            )
+        }
+
+        sourceList.visibility = if (sources.isEmpty()) View.GONE else View.VISIBLE
+        if (sourceList.childCount > 0) {
+            sourceList.getChildAt(0).requestFocus()
         }
     }
 
@@ -428,6 +465,6 @@ class MainActivity : Activity() {
 
     companion object {
         private const val PROVIDER_URL =
-            "https://raw.githubusercontent.com/fwhwindows-cmd/titanium-releases/torrent-poc/torrent-test-app/provider/legal-test.json"
+            "https://raw.githubusercontent.com/fwhwindows-cmd/titanium-releases/torrent-poc/torrent-test-app/provider/legal-sources.json"
     }
 }
