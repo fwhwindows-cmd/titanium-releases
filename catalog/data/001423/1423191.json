@@ -1,0 +1,79 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1423191,
+  "imdb_id": "tt35538033",
+  "title": "Resident Evil",
+  "year": "2026",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.319,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, gore & offensive language",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "GORE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "outbreak",
+    "survival",
+    "decapitation",
+    "zombie",
+    "based on video game",
+    "survival horror",
+    "reboot",
+    "zombie apocalypse",
+    "courier service",
+    "body horror",
+    "zombie horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GORE",
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:13:25+00:00"
+}

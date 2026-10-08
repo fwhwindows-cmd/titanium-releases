@@ -1,0 +1,75 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1101383,
+  "imdb_id": "tt27165187",
+  "title": "The End of Oak Street",
+  "year": "2026",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.083,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "teleportation",
+    "giant snake",
+    "time travel",
+    "wormhole",
+    "family relationships",
+    "suburbia",
+    "survival",
+    "prehistoric creature",
+    "dinosaur",
+    "survival horror",
+    "neighborhood",
+    "1980s",
+    "suburban",
+    "nuclear family",
+    "survival adventure",
+    "suburbs"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:14:11+00:00"
+}

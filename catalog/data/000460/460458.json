@@ -1,0 +1,74 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 460458,
+  "imdb_id": "tt6920084",
+  "title": "Resident Evil: Welcome to Raccoon City",
+  "year": "2021",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.947,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "biological weapon",
+    "orphanage",
+    "dystopia",
+    "mutant",
+    "infection",
+    "zombie",
+    "mansion",
+    "police station",
+    "based on video game",
+    "reboot",
+    "ghost town",
+    "duringcreditsstinger",
+    "lockdown",
+    "1990s",
+    "secret experiment",
+    "bitter",
+    "disheartening"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:14:03+00:00"
+}

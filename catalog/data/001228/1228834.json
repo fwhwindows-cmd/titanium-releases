@@ -1,0 +1,73 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1228834,
+  "imdb_id": "tt9601292",
+  "title": "The Fix",
+  "year": "2026",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 6.76,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sexual themes, Content that may disturb, Violence",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "central intelligence agency (cia)",
+    "war veteran",
+    "afghanistan war (2001-2021)",
+    "afghanistan veteran",
+    "tehran",
+    "action thriller"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:13:38+00:00"
+}

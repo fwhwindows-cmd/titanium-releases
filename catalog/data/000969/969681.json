@@ -1,0 +1,82 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 969681,
+  "imdb_id": "tt22084616",
+  "title": "Spider-Man: Brand New Day",
+  "year": "2026",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.3,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "mind control",
+    "new york city",
+    "hero",
+    "mutation",
+    "secret identity",
+    "superhero",
+    "spider",
+    "villain",
+    "based on comic",
+    "sequel",
+    "transhumanism",
+    "super power",
+    "masked vigilante",
+    "spider web",
+    "aftercreditsstinger",
+    "marvel cinematic universe (mcu)",
+    "masked superhero",
+    "fight for justice",
+    "genetic mutation"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "fighting"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "checked_at": "2026-10-08T19:13:23+00:00"
+}
