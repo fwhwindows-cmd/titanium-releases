@@ -43,50 +43,60 @@
     "multiverse"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
-    "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — Information not available"
+    "Violence — Superheroes and villains clash with heavy punches, fantastical powers and advanced technology.",
+    "Sex & Nudity — Mild sexual references occur, without explicit scene details in the cited guidance.",
+    "Profanity — Mostly mild language is heard, together with a brief, unfinished stronger expression.",
+    "Alcohol, Drugs & Smoking — An undetailed reference to drugs appears.",
+    "Frightening & Intense Scenes — Explosions, falls from heights and sudden villain appearances create threatening moments and jump scares.",
+    "Mature Content & Themes — A superhero's exposed identity creates danger for those close to him and raises questions about responsibility."
   ],
   "category_evidence": {
     "Violence": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "VIOLENCE"
-      ],
-      "keywords": [
-        "fighting"
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/spider-man-no-way-home-more-fun-stuff-q29sbgvjdglvbjpwwc0xmdiymzk4"
       ]
     },
     "Sex & Nudity": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/spider-man-no-way-home-more-fun-stuff-q29sbgvjdglvbjpwwc0xmdiymzk4"
+      ]
     },
     "Profanity": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "LANGUAGE"
-      ],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/spider-man-no-way-home-more-fun-stuff-q29sbgvjdglvbjpwwc0xmdiymzk4"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/spider-man-no-way-home-more-fun-stuff-q29sbgvjdglvbjpwwc0xmdiymzk4"
+      ]
     },
     "Frightening & Intense Scenes": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/spider-man-no-way-home-more-fun-stuff-q29sbgvjdglvbjpwwc0xmdiymzk4"
+      ]
     },
     "Mature Content & Themes": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/spider-man-no-way-home-more-fun-stuff-q29sbgvjdglvbjpwwc0xmdiymzk4"
+      ]
     }
   },
-  "checked_at": "2026-10-08T19:19:22+00:00"
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "detailed",
+    "detailed_categories": 6,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 0,
+    "complete": true
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-08T19:28:15+00:00"
 }

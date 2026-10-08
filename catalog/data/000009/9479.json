@@ -71,5 +71,15 @@
       "keywords": []
     }
   },
-  "checked_at": "2026-10-08T19:25:58+00:00"
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-08T19:28:37+00:00"
 }

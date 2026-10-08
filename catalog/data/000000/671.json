@@ -44,50 +44,56 @@
     "teen fantasy"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — A young wizard faces a dangerous enemy, and enchanted chess pieces fight in a life-sized game.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Infrequent mild swearing includes words such as 'bloody' and 'bugger'.",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — TMDB lists bullying among this film's story themes; specific scenes are unverified."
+    "Frightening & Intense Scenes — A dungeon troll, a snake pit and a sinister forest pursuit create brief frightening moments.",
+    "Mature Content & Themes — An orphaned boy experiences an unkind home life, and the deaths of his parents are discussed."
   ],
   "category_evidence": {
     "Violence": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "VIOLENCE"
-      ],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/harry-potter-and-the-philosophers-stone-q29sbgvjdglvbjpwwc0zmzm2odi"
+      ]
     },
     "Sex & Nudity": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": []
     },
     "Profanity": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "LANGUAGE"
-      ],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/harry-potter-and-the-philosophers-stone-q29sbgvjdglvbjpwwc0zmzm2odi"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": []
     },
     "Frightening & Intense Scenes": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/harry-potter-and-the-philosophers-stone-q29sbgvjdglvbjpwwc0zmzm2odi"
+      ]
     },
     "Mature Content & Themes": {
-      "basis": "tmdb_keywords",
-      "advisory_tags": [],
-      "keywords": [
-        "bullying"
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/harry-potter-and-the-philosophers-stone-q29sbgvjdglvbjpwwc0zmzm2odi"
       ]
     }
   },
-  "checked_at": "2026-10-08T19:19:30+00:00"
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "detailed",
+    "detailed_categories": 4,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-08T19:28:13+00:00"
 }

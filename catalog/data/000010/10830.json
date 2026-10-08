@@ -89,5 +89,15 @@
       ]
     }
   },
-  "checked_at": "2026-10-08T18:35:04+00:00"
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "detailed",
+    "detailed_categories": 6,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 0,
+    "complete": true
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-08T19:28:13+00:00"
 }

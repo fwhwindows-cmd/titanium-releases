@@ -6,7 +6,7 @@
   "year": "1972",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.688,
+  "vote_average": 8.7,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence",
@@ -86,5 +86,15 @@
       ]
     }
   },
-  "checked_at": "2026-10-08T18:35:02+00:00"
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "detailed",
+    "detailed_categories": 6,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 0,
+    "complete": true
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-08T19:28:14+00:00"
 }
