@@ -32,12 +32,12 @@
     "ai generated"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Violence — Classification advice mentions graphic violence, sexual violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Mature Content & Themes — Classification advice mentions sexual violence, suicide."
   ],
   "category_evidence": {
     "Violence": {
@@ -49,6 +49,11 @@
       "keywords": [
         "gore",
         "murder"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence",
+        "sexual violence"
       ]
     },
     "Sex & Nudity": {
@@ -56,7 +61,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -78,10 +87,16 @@
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "suicide"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -91,5 +106,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-08T19:26:57+00:00"
+  "checked_at": "2026-10-09T19:28:43+00:00"
 }

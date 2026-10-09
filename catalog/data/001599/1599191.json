@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "",
   "certification_source": "",
-  "vote_average": 7.5,
+  "vote_average": 7.464,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
@@ -58,6 +58,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "unknown",
     "detailed_categories": 0,
@@ -67,5 +68,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-08T19:26:49+00:00"
+  "checked_at": "2026-10-09T19:28:31+00:00"
 }

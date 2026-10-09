@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "PG",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.3,
+  "vote_average": 8.298,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Woody, Buzz, Jessie and the rest of the gang’s jobs are challenged when they're introduced to a new threat to playtime: an electronic smart tablet.",
@@ -85,6 +85,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -94,5 +95,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-08T19:26:52+00:00"
+  "checked_at": "2026-10-09T19:28:35+00:00"
 }
