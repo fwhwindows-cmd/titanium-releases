@@ -1,0 +1,98 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 6795,
+  "imdb_id": "tt0406375",
+  "title": "Zathura: A Space Adventure",
+  "year": "2005",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.5,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "fire",
+    "based on novel or book",
+    "killer robot",
+    "house",
+    "space travel",
+    "wish",
+    "meteor",
+    "challenge",
+    "giant lizard",
+    "alien",
+    "space",
+    "board game",
+    "planet",
+    "astronaut",
+    "game",
+    "hardship",
+    "little brother",
+    "alternative reality",
+    "trapped in space",
+    "space adventure",
+    "space pirate",
+    "children's adventure",
+    "meteor shower",
+    "jealous brother",
+    "brother brother relationship",
+    "alien spaceship",
+    "big brother",
+    "brothers",
+    "big sister",
+    "challenges",
+    "child"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "unknown",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 6,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:05+00:00"
+}

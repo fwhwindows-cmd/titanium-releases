@@ -1,0 +1,90 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 18491,
+  "imdb_id": "tt0169858",
+  "title": "Neon Genesis Evangelion: The End of Evangelion",
+  "year": "1997",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.3,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "philosophy",
+    "insanity",
+    "post-apocalyptic future",
+    "futuristic",
+    "end of the world",
+    "mecha",
+    "avant-garde",
+    "meaningless existence",
+    "rebirth",
+    "anime",
+    "psychological terror",
+    "anxious",
+    "based on tv series",
+    "existential horror",
+    "alternate ending",
+    "experimental surrealism",
+    "complicated",
+    "distressing",
+    "sincere",
+    "sympathetic"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists terror, horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "terror",
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:04+00:00"
+}

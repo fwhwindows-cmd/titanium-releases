@@ -1,0 +1,99 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 87428,
+  "imdb_id": "tt1232200",
+  "title": "That's My Boy",
+  "year": "2012",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.822,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language, drug use & sexual content that may offend",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "talk show",
+    "older woman seduces younger guy",
+    "women's prison",
+    "strip club",
+    "drinking",
+    "prison sentence",
+    "single father",
+    "incest",
+    "teacher student relationship",
+    "troubled childhood",
+    "sex comedy",
+    "tax evasion",
+    "estranged son",
+    "1980s",
+    "unplanned pregnancy",
+    "father son conflict",
+    "imminent wedding",
+    "cliché",
+    "disrespectful",
+    "brother sister incest"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "drinking"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:32+00:00"
+}

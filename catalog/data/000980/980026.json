@@ -1,0 +1,98 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 980026,
+  "imdb_id": "tt20561198",
+  "title": "The Promised Land",
+  "year": "2023",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Coarse language & sexual references",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "murder",
+    "priest",
+    "colonisation",
+    "soldier",
+    "king",
+    "18th century",
+    "farming",
+    "danish",
+    "danish history",
+    "ex military",
+    "historical drama",
+    "shocking",
+    "aggressive",
+    "hopeless",
+    "landowner",
+    "history",
+    "furious",
+    "violence",
+    "antagonistic",
+    "pessimistic"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder, violence among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder",
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:16+00:00"
+}

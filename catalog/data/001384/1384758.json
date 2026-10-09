@@ -1,0 +1,71 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1384758,
+  "imdb_id": "tt34512981",
+  "title": "Ice Age: Boiling Point",
+  "year": "2027",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 0.0,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "ice age",
+    "sequel",
+    "saber-toothed tiger",
+    "woolly mammoth"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "unknown",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 6,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:32+00:00"
+}

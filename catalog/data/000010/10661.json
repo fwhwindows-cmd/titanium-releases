@@ -1,0 +1,95 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 10661,
+  "imdb_id": "tt0960144",
+  "title": "You Don't Mess with the Zohan",
+  "year": "2008",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.72,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language & sexual references",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new york city",
+    "israel",
+    "palestinian-israeli conflict",
+    "mossad",
+    "middle east",
+    "hairdresser",
+    "secret identity",
+    "ladykiller",
+    "heart-throb",
+    "zionism",
+    "hairstyle",
+    "hacky sack",
+    "nemesis",
+    "soldier",
+    "falling in love",
+    "counterterrorism",
+    "developers",
+    "terrorist threat",
+    "famous"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists threat among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "threat"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:42+00:00"
+}

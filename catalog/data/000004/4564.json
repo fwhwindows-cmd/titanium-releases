@@ -1,0 +1,92 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 4564,
+  "imdb_id": "tt1000774",
+  "title": "Sex and the City",
+  "year": "2008",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex and the City",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "hotel",
+    "new year's eve",
+    "new york city",
+    "forgiveness",
+    "city portrait",
+    "fashion journal",
+    "saint louis",
+    "female friendship",
+    "romcom",
+    "fashion designer",
+    "malibu",
+    "loss of libido",
+    "botox",
+    "couples therapy",
+    "best friend",
+    "wedding",
+    "break-up",
+    "fashion",
+    "manhattan, new york city",
+    "desire to have children",
+    "female sexuality"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:43+00:00"
+}

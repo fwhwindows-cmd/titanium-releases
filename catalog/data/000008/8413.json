@@ -1,0 +1,101 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 8413,
+  "imdb_id": "tt0119081",
+  "title": "Event Horizon",
+  "year": "1997",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.6,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "space marine",
+    "nightmare",
+    "insanity",
+    "delusion",
+    "hallucination",
+    "space travel",
+    "cryogenics",
+    "gore",
+    "black hole",
+    "crew",
+    "flashback",
+    "evil spirit",
+    "alternate dimension",
+    "hellgate",
+    "religion",
+    "explosion",
+    "burning man",
+    "rescue team",
+    "super power",
+    "trapped in space",
+    "distress signal",
+    "2040s",
+    "spaceship",
+    "grimdark",
+    "lovecraftian",
+    "appreciative"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists nightmares among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "gore"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "nightmares"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:47+00:00"
+}

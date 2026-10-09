@@ -1,0 +1,110 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 4995,
+  "imdb_id": "tt0118749",
+  "title": "Boogie Nights",
+  "year": "1997",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.635,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language & sex scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new year's eve",
+    "adultery",
+    "pornography",
+    "robbery",
+    "husband wife relationship",
+    "drug abuse",
+    "1970s",
+    "cocaine",
+    "porn actor",
+    "custody battle",
+    "melancholy",
+    "rags to riches",
+    "coming of age",
+    "alter ego",
+    "los angeles, california",
+    "drugs",
+    "porn industry",
+    "disco",
+    "voyeurism",
+    "curious",
+    "1980s",
+    "candid",
+    "big dick",
+    "mother son relationship",
+    "introspective",
+    "dramatic",
+    "admiring",
+    "audacious",
+    "euphoric"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — TMDB lists cocaine among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "cocaine"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:50+00:00"
+}

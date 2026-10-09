@@ -1,0 +1,100 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 4476,
+  "imdb_id": "tt0110322",
+  "title": "Legends of the Fall",
+  "year": "1994",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.396,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language & sex scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "sibling relationship",
+    "post-traumatic stress disorder (ptsd)",
+    "based on novel or book",
+    "world war i",
+    "journey around the world",
+    "montana",
+    "loyalty",
+    "ranch",
+    "affectation",
+    "native american",
+    "tragedy",
+    "interracial marriage",
+    "sibling rivalry",
+    "falling in love",
+    "interracial friendship",
+    "1910s",
+    "1900s",
+    "political aspiration",
+    "father son relationship",
+    "brother brother relationship",
+    "prohibition",
+    "beautiful landscapes",
+    "u.s. army soldier"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:24:55+00:00"
+}

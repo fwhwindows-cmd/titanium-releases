@@ -1,0 +1,87 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1715,
+  "imdb_id": "tt0124315",
+  "title": "The Cider House Rules",
+  "year": "1999",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.1,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "based on novel or book",
+    "orphanage",
+    "pregnancy",
+    "drug addiction",
+    "cigarette",
+    "cider",
+    "maine",
+    "orphan",
+    "incest",
+    "drug overdose",
+    "war injury",
+    "apple cider",
+    "anesthetic",
+    "incinerator",
+    "picking apples",
+    "1940s",
+    "abortion",
+    "abortionist"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists drug addiction among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drug addiction"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:27:05+00:00"
+}

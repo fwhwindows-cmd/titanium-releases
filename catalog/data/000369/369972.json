@@ -1,0 +1,96 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 369972,
+  "imdb_id": "tt1213641",
+  "title": "First Man",
+  "year": "2018",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.039,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "moon",
+    "based on novel or book",
+    "sacrifice",
+    "nasa",
+    "wife",
+    "obsession",
+    "space travel",
+    "space mission",
+    "biography",
+    "engineer",
+    "based on true story",
+    "exploration",
+    "moon landing",
+    "space",
+    "cancer",
+    "astronaut",
+    "historical event",
+    "death of daughter",
+    "compromise",
+    "test pilot",
+    "1960s",
+    "apollo program",
+    "america",
+    "explore",
+    "neil armstrong"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:22:40+00:00"
+}

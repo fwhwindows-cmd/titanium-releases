@@ -1,0 +1,93 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1114513,
+  "imdb_id": "tt27534307",
+  "title": "Speak No Evil",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.086,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Bloody violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "husband wife relationship",
+    "paranoia",
+    "remake",
+    "weekend getaway",
+    "europe vacation",
+    "children in danger",
+    "psychological horror",
+    "dangerous escalation",
+    "emotional manipulation",
+    "subtle menace",
+    "hospitality gone wrong",
+    "disturbing behavior",
+    "fear of strangers",
+    "predatory manipulation",
+    "deceptive kindness",
+    "parental fear"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists psychological horror, disturbing themes among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "psychological horror",
+        "disturbing themes"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:41+00:00"
+}

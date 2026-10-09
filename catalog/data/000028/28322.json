@@ -1,0 +1,77 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 28322,
+  "imdb_id": "tt0080075",
+  "title": "Madness",
+  "year": "1980",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 5.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Explicit sex scenes",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "rape",
+    "escaped convict",
+    "murder",
+    "home invasion"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:43+00:00"
+}

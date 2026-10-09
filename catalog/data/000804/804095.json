@@ -1,0 +1,90 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 804095,
+  "imdb_id": "tt14208870",
+  "title": "The Fabelmans",
+  "year": "2022",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.6,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "high school",
+    "husband wife relationship",
+    "arizona",
+    "bullying",
+    "family relationships",
+    "coming of age",
+    "teenage boy",
+    "filmmaking",
+    "childhood",
+    "semi autobiographical",
+    "marital problem",
+    "big dreams",
+    "father son relationship",
+    "mother son relationship",
+    "compassionate",
+    "empathetic",
+    "young filmmaker"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists bullying among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "bullying"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:25:13+00:00"
+}

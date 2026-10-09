@@ -1,0 +1,77 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 297090,
+  "imdb_id": "tt3617996",
+  "title": "The Torture Club",
+  "year": "2014",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 5.2,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "bondage",
+    "lesbian relationship",
+    "torture",
+    "based on manga",
+    "teenage sexuality",
+    "bdsm",
+    "lesbian",
+    "girls' love (gl)"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists torture among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "torture"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:27:32+00:00"
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1284120,
+  "imdb_id": "tt29344903",
+  "title": "The Ugly Stepsister",
+  "year": "2025",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.3,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "satire",
+    "based on fairy tale",
+    "beauty standards",
+    "stepmother stepdaughter relationship",
+    "independent film",
+    "body horror",
+    "psychological horror",
+    "horror",
+    "cinderella story",
+    "baffled",
+    "exuberant",
+    "forceful"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror, psychological horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror",
+        "psychological horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:56+00:00"
+}

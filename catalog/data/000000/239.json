@@ -1,0 +1,100 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 239,
+  "imdb_id": "tt0053291",
+  "title": "Some Like It Hot",
+  "year": "1959",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.1,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sexual references",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "chicago, illinois",
+    "florida",
+    "transvestism",
+    "musician",
+    "fake identity",
+    "deception",
+    "on the run",
+    "mafia",
+    "cross dressing",
+    "black and white",
+    "train",
+    "witness to murder",
+    "buddy",
+    "screwball comedy",
+    "spats",
+    "all girl band",
+    "st. valentine's day massacre",
+    "valentine's day",
+    "sex comedy",
+    "mob hit",
+    "man in drag",
+    "double identity",
+    "south florida",
+    "cheerful",
+    "beautiful women"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists Mafia crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "Mafia crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 2,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:17+00:00"
+}

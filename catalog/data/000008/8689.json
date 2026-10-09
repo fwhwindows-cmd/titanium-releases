@@ -1,0 +1,126 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 8689,
+  "imdb_id": "tt0078935",
+  "title": "Cannibal Holocaust",
+  "year": "1980",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.3,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "adultery",
+    "rape",
+    "snake",
+    "pig",
+    "culture clash",
+    "ritual",
+    "movie business",
+    "leech",
+    "spider",
+    "animal attack",
+    "controversy",
+    "swamp",
+    "tribe",
+    "vomit",
+    "amazon rainforest",
+    "film in film",
+    "human sacrifice",
+    "jungle",
+    "torture",
+    "rape and murder",
+    "brutality",
+    "cannibal",
+    "hatchet",
+    "south america",
+    "filmmaking",
+    "missing person",
+    "misogyny",
+    "ritual sacrifice",
+    "found footage",
+    "tortoise",
+    "video nasty",
+    "lost footage",
+    "animal cruelty",
+    "amazon tribe",
+    "vomiting woman",
+    "abused woman",
+    "film within a film",
+    "adulterous wife",
+    "film censorship",
+    "film industry",
+    "pseudo-documentary",
+    "cannibalism",
+    "guerilla filmmaking",
+    "banned film",
+    "disemboweling",
+    "film reel",
+    "yacomo",
+    "antagonistic",
+    "disgusted",
+    "b-horror",
+    "found footage adjacent",
+    "splatter horror",
+    "blood and gore"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists torture, murder, bloody imagery among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "torture",
+        "murder",
+        "bloody imagery"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 2,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:24:19+00:00"
+}

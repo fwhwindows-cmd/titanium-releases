@@ -1,0 +1,104 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 682507,
+  "imdb_id": "tt9411972",
+  "title": "Where the Crawdads Sing",
+  "year": "2022",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & sex scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "artist",
+    "bullying",
+    "alcoholism",
+    "coming of age",
+    "survival",
+    "domestic abuse",
+    "first love",
+    "marsh",
+    "boyfriend girlfriend relationship",
+    "social outcast",
+    "jury trial",
+    "naturalist",
+    "murder mystery",
+    "murder trial",
+    "1960s",
+    "alcohol problems",
+    "courtroom drama",
+    "abusive boyfriend",
+    "abandoned child",
+    "southern culture",
+    "audacious"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists alcohol misuse, alcohol among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists bullying among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse",
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "alcohol misuse",
+        "alcohol"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "bullying"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 2,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:05+00:00"
+}

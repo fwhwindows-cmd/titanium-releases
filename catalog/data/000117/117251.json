@@ -1,0 +1,96 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 117251,
+  "imdb_id": "tt2334879",
+  "title": "White House Down",
+  "year": "2013",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "usa president",
+    "the white house",
+    "job interview",
+    "betrayal",
+    "conspiracy",
+    "explosion",
+    "hostage situation",
+    "secret service",
+    "terrorist plot",
+    "hostile takeover",
+    "terrorist group",
+    "us military",
+    "ex military",
+    "lockdown",
+    "vice president",
+    "special agent",
+    "u.s. secret service agent",
+    "young daughter",
+    "hostages",
+    "speaker of the house",
+    "capitol police",
+    "white house tour"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:30+00:00"
+}

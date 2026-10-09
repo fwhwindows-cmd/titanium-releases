@@ -1,0 +1,97 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 249397,
+  "imdb_id": "tt2382009",
+  "title": "Nymphomaniac: Vol. II",
+  "year": "2013",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.7,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "bondage",
+    "whip",
+    "sexuality",
+    "masochism",
+    "sex therapy",
+    "chapter",
+    "sadomasochism",
+    "sequel",
+    "sexual violence",
+    "love",
+    "nymphomaniac",
+    "tragedy",
+    "loneliness",
+    "masturbation",
+    "therapy",
+    "threesome",
+    "softcore",
+    "interracial sex",
+    "bdsm",
+    "addict",
+    "sexual pleasure",
+    "sexually aggressive woman",
+    "pleasure",
+    "virginity",
+    "abortion",
+    "sex",
+    "unsimulated sex",
+    "psychological drama"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists violence among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:23+00:00"
+}

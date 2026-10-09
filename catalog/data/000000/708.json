@@ -1,0 +1,101 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 708,
+  "imdb_id": "tt0093428",
+  "title": "The Living Daylights",
+  "year": "1987",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.6,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "prison",
+    "london, england",
+    "assassination",
+    "airplane",
+    "escape",
+    "arms smuggling",
+    "england",
+    "secret mission",
+    "arms deal",
+    "spy",
+    "falsely accused",
+    "big wheel",
+    "secret intelligence service",
+    "drug trafficking",
+    "secret identity",
+    "cello",
+    "villain",
+    "kgb",
+    "renegade",
+    "special car",
+    "tangier morocco",
+    "country estate",
+    "orchestra",
+    "freedom fighter",
+    "czechoslovakia",
+    "bratislava, slovakia",
+    "afghanistan",
+    "schloss schönbrunn",
+    "vienna, austria",
+    "moscow, russia",
+    "james bond",
+    "appreciative"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists assassination among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "assassination"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:50+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 9374,
+  "imdb_id": "tt0104070",
+  "title": "Death Becomes Her",
+  "year": "1992",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.8,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "jealousy",
+    "immortality",
+    "halloween",
+    "beauty",
+    "rivalry",
+    "potion",
+    "drinking",
+    "campy",
+    "body horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists drinking among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drinking"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 2,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:37+00:00"
+}

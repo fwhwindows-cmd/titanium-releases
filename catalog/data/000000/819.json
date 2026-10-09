@@ -1,0 +1,112 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 819,
+  "imdb_id": "tt0117665",
+  "title": "Sleepers",
+  "year": "1996",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.602,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language & sex scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "child abuse",
+    "sexual abuse",
+    "based on novel or book",
+    "court case",
+    "court",
+    "gangster",
+    "repayment",
+    "sadistic",
+    "narration",
+    "pastor",
+    "irish-american",
+    "juvenile prison",
+    "revenge",
+    "murder",
+    "organized crime",
+    "gang",
+    "juvenile delinquent",
+    "reform school",
+    "manhattan, new york city",
+    "prank gone wrong",
+    "1980s",
+    "kids",
+    "1960s",
+    "courtroom drama",
+    "legal drama",
+    "hell's kitchen",
+    "catholic church"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists child abuse, gangster crime, revenge, organised crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse",
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "child abuse",
+        "gangster crime",
+        "revenge",
+        "organised crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:24:58+00:00"
+}

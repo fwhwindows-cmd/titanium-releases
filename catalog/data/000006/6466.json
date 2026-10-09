@@ -1,0 +1,100 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 6466,
+  "imdb_id": "tt0329101",
+  "title": "Freddy vs. Jason",
+  "year": "2003",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.105,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language, drug use & sex scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "new jersey",
+    "sadism",
+    "psychopath",
+    "halloween",
+    "sequel",
+    "woods",
+    "murder",
+    "marijuana",
+    "slaughter",
+    "serial killer",
+    "slasher",
+    "series of murders",
+    "bad dream",
+    "supernatural horror",
+    "versus fighting",
+    "versus"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — TMDB lists supernatural horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 4,
+    "thematic_categories": 1,
+    "unknown_categories": 1,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:22:37+00:00"
+}

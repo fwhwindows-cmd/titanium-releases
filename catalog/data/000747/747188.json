@@ -1,0 +1,101 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 747188,
+  "imdb_id": "tt14230388",
+  "title": "Asteroid City",
+  "year": "2023",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Nudity & suicide references",
+  "advisory_tags": [
+    "NUDITY",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "quarantine",
+    "asteroid",
+    "diner",
+    "grandfather",
+    "war photographer",
+    "alien",
+    "grief",
+    "space",
+    "family",
+    "widower",
+    "astronomy",
+    "story within the story",
+    "existentialism",
+    "parent-in-law child-in-law relationship",
+    "vending machine",
+    "stage play",
+    "death of wife",
+    "1950s",
+    "convention",
+    "stargazing",
+    "meta",
+    "science fiction",
+    "desert town",
+    "ambiguous",
+    "audacious",
+    "skeptical",
+    "wry"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:27:23+00:00"
+}

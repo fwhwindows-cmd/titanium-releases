@@ -1,0 +1,91 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1363387,
+  "imdb_id": "tt35050712",
+  "title": "Saccharine",
+  "year": "2026",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 6.993,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex scenes, gore, mental health themes & content that may disturb",
+  "advisory_tags": [
+    "GORE",
+    "SEXUAL CONTENT",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "supernatural",
+    "evil spirit",
+    "ashes",
+    "mortician",
+    "eating disorder",
+    "supernatural horror",
+    "psychological",
+    "body horror",
+    "psychological horror",
+    "horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports blood, gore or injury detail.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GORE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "supernatural horror",
+        "horror",
+        "psychological horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:25+00:00"
+}

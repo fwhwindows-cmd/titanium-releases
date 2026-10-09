@@ -1,0 +1,75 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 329505,
+  "imdb_id": "tt0089790",
+  "title": "Lola's Secret",
+  "year": "1984",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 7.0,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "sexploitation",
+    "maid",
+    "seductress",
+    "voyeur",
+    "sexual exploration",
+    "erotic movie"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — TMDB lists erotic themes among this film's story themes; specific scenes are unverified.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "erotic themes"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:22:49+00:00"
+}

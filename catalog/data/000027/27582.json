@@ -1,0 +1,89 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 27582,
+  "imdb_id": "tt0472399",
+  "title": "The Mechanic",
+  "year": "2011",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.546,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "chicago, illinois",
+    "research",
+    "martial arts",
+    "assassin",
+    "prostitute",
+    "airport",
+    "mentor",
+    "new orleans, louisiana",
+    "training",
+    "car crash",
+    "elite",
+    "remake",
+    "security",
+    "set up",
+    "mentor protégé relationship",
+    "contractor",
+    "aggressive",
+    "vengeance",
+    "avenging son",
+    "colombia",
+    "suspenseful",
+    "ominous"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "unknown",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 6,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:25:34+00:00"
+}

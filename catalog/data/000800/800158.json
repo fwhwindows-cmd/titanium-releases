@@ -1,0 +1,120 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 800158,
+  "imdb_id": "tt1136617",
+  "title": "The Killer",
+  "year": "2023",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.6,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, Sex scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "sniper",
+    "new york city",
+    "assassin",
+    "airport",
+    "paris, france",
+    "hitman",
+    "new orleans, louisiana",
+    "dark comedy",
+    "client",
+    "product placement",
+    "sociopath",
+    "revenge",
+    "murder",
+    "fate",
+    "lawyer",
+    "brutality",
+    "based on graphic novel",
+    "character study",
+    "perfectionist",
+    "hired killer",
+    "empathy",
+    "dominican republic",
+    "assassination attempt",
+    "cold blooded killer",
+    "detached",
+    "tampa, florida",
+    "satirical",
+    "manhunt",
+    "international manhunt",
+    "precision",
+    "gig economy",
+    "dark",
+    "clinical",
+    "psychological",
+    "secret",
+    "violence",
+    "suspenseful",
+    "intense",
+    "audacious",
+    "wry"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder",
+        "assassination",
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:25:03+00:00"
+}

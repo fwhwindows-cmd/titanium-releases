@@ -1,0 +1,89 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 9792,
+  "imdb_id": "tt0454841",
+  "title": "The Hills Have Eyes",
+  "year": "2006",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.491,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "van",
+    "rape",
+    "ambush",
+    "gas station",
+    "new mexico",
+    "gore",
+    "remake",
+    "serial killer",
+    "slasher",
+    "brutality",
+    "cannibal",
+    "killer",
+    "desert",
+    "family holiday",
+    "madness",
+    "reboot",
+    "ghost town",
+    "lost in the desert",
+    "nuclear testing",
+    "human monster"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists gore among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "gore"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:22:42+00:00"
+}

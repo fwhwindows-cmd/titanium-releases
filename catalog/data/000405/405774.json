@@ -1,0 +1,88 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 405774,
+  "imdb_id": "tt2737304",
+  "title": "Bird Box",
+  "year": "2018",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.819,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, Suicide, Offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "post-apocalyptic future",
+    "blindfold",
+    "doomsday",
+    "survival horror",
+    "woman director",
+    "white water rafting",
+    "depressing",
+    "disheartening"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:58+00:00"
+}

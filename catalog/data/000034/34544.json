@@ -1,0 +1,105 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 34544,
+  "imdb_id": "tt0429493",
+  "title": "The A-Team",
+  "year": "2010",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.4,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "plan",
+    "mexico",
+    "explosive",
+    "war crimes",
+    "secret mission",
+    "fear of flying",
+    "ex-lover",
+    "tank",
+    "military court",
+    "us army",
+    "military service",
+    "iraq war veteran",
+    "military prison",
+    "betrayal",
+    "fugitive",
+    "double crossed",
+    "drone",
+    "special forces",
+    "operative",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "clandestine",
+    "military operation",
+    "helicopter chase",
+    "u.s. general",
+    "private military company",
+    "based on tv series",
+    "airborne ranger",
+    "awestruck",
+    "u.s. army ranger",
+    "cia agent",
+    "military contractors",
+    "money printing plates",
+    "u.s. army hospital",
+    "u.s. military intelligence",
+    "frankfurt, germany",
+    "baghdad, iraq",
+    "engraving plates"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "unknown",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 6,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:24:20+00:00"
+}

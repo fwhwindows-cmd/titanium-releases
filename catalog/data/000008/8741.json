@@ -1,0 +1,110 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 8741,
+  "imdb_id": "tt0120863",
+  "title": "The Thin Red Line",
+  "year": "1998",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.4,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "based on novel or book",
+    "steel helmet",
+    "world war ii",
+    "battle assignment",
+    "invasion",
+    "infantry",
+    "marine corps",
+    "us army",
+    "commander",
+    "rifle",
+    "pacific war",
+    "gun battle",
+    "jungle",
+    "sergeant",
+    "pacific island",
+    "soldier",
+    "battle",
+    "fighting",
+    "period drama",
+    "mourning",
+    "guadalcanal",
+    "pacific theater",
+    "burlesque",
+    "anti war",
+    "awol",
+    "japanese army",
+    "disturbed",
+    "1940s",
+    "nervous",
+    "zealous",
+    "philosophical",
+    "philosophic conflict",
+    "battlefield trauma",
+    "shell shocked soldier",
+    "inspirational",
+    "wistful",
+    "intimate",
+    "provocative",
+    "ghoulish",
+    "powerful",
+    "philosophical depiction of war"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists trauma among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:24:53+00:00"
+}

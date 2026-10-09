@@ -1,0 +1,111 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 949423,
+  "imdb_id": "tt18925334",
+  "title": "Pearl",
+  "year": "2022",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, sex scenes & content that may disturb",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "SEXUAL CONTENT",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "farm",
+    "pornography",
+    "dance performance",
+    "confession",
+    "texas",
+    "dark comedy",
+    "barn",
+    "childhood trauma",
+    "prequel",
+    "murder",
+    "serial killer",
+    "slasher",
+    "corpse",
+    "murderer",
+    "violent death",
+    "lust",
+    "religious fundamentalism",
+    "audition",
+    "mental illness",
+    "nostalgic",
+    "isolated farmhouse",
+    "pandemic",
+    "lizzie borden",
+    "1910s",
+    "mother daughter relationship",
+    "origin story",
+    "aspiring actress",
+    "pastiche",
+    "tragic",
+    "world war one"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — TMDB lists trauma among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:27:49+00:00"
+}

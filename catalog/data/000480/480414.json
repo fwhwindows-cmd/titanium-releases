@@ -1,0 +1,88 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 480414,
+  "imdb_id": "tt4913966",
+  "title": "The Curse of La Llorona",
+  "year": "2019",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.6,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "mexico",
+    "sibling relationship",
+    "1970s",
+    "religion and supernatural",
+    "supernatural",
+    "grieving widower",
+    "priest",
+    "los angeles, california",
+    "single mother",
+    "spin off",
+    "dead children",
+    "folklore",
+    "supernatural horror",
+    "mexican folklore",
+    "children in danger",
+    "horror",
+    "brother and sister",
+    "child protective services"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists supernatural horror, horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "supernatural horror",
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:26:55+00:00"
+}

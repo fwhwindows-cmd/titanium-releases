@@ -1,0 +1,106 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 396371,
+  "imdb_id": "tt4209788",
+  "title": "Molly's Game",
+  "year": "2017",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, drug use & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "new york city",
+    "court",
+    "poker",
+    "gambling",
+    "bratva (russian mafia)",
+    "olympic games",
+    "fbi",
+    "biography",
+    "arrest",
+    "based on true story",
+    "celebrity",
+    "trial",
+    "beating",
+    "lawyer",
+    "female protagonist",
+    "los angeles, california",
+    "courtroom",
+    "ice skating",
+    "snow skiing",
+    "card playing",
+    "employer employee relationship",
+    "courtroom drama",
+    "high stakes",
+    "mob",
+    "father daughter relationship",
+    "introspective",
+    "admiring"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists Mafia crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "Mafia crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:25:46+00:00"
+}

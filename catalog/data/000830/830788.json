@@ -1,0 +1,86 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 830788,
+  "imdb_id": "tt12873562",
+  "title": "The Invitation",
+  "year": "2022",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.976,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sexual references",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "suicide",
+    "countryside",
+    "vampire",
+    "marriage",
+    "mansion",
+    "caterer",
+    "drinking blood",
+    "ceramics",
+    "dracula"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists bloody imagery among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists drinking among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists suicide among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "bloody imagery"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drinking"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "suicide"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 3,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:25:18+00:00"
+}

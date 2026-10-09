@@ -1,0 +1,90 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 10731,
+  "imdb_id": "tt0109446",
+  "title": "The Client",
+  "year": "1994",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.69,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sexual themes",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "suicide",
+    "sibling relationship",
+    "brother",
+    "gangster",
+    "investigation",
+    "witness protection",
+    "principal witness",
+    "search for witnesses",
+    "lawyer",
+    "anxious",
+    "legal thriller",
+    "intense",
+    "admiring",
+    "appreciative",
+    "sceptical",
+    "sympathetic"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists suicide, gangster crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "suicide",
+        "gangster crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:23:33+00:00"
+}

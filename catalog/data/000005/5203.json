@@ -1,0 +1,76 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 5203,
+  "imdb_id": "tt0100934",
+  "title": "Wild Orchid",
+  "year": "1989",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.274,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Content that may disturb",
+  "advisory_tags": [
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "rio de janeiro",
+    "softcore",
+    "erotic movie"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — TMDB lists erotic themes among this film's story themes; specific scenes are unverified.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "erotic themes"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:21:55+00:00"
+}

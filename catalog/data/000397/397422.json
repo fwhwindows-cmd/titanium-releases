@@ -1,0 +1,101 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 397422,
+  "imdb_id": "tt4799050",
+  "title": "Rough Night",
+  "year": "2017",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language, drug use, sex scenes & content that may disturb",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "friendship",
+    "miami, florida",
+    "dark comedy",
+    "female friendship",
+    "friends",
+    "drugs",
+    "drinking",
+    "male stripper",
+    "fiancé fiancée relationship",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "political candidate",
+    "accident",
+    "college friends",
+    "bachelorette party",
+    "comedy of errors"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "drinking"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 5,
+    "thematic_categories": 0,
+    "unknown_categories": 1,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T19:22:47+00:00"
+}
