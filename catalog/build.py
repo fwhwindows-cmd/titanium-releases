@@ -22,6 +22,8 @@ from keyword_guide import compile_descriptors
 from featured_guides import FEATURED, compile_featured
 from ai_describer import generate_from_evidence
 from quality import REVISION, should_refresh, summarize
+from advice_enrichment import enrich as enrich_advice
+from approved_evidence import fetch_approved, merge as merge_approved
 
 METADATA = "https://titanium-metadata-provider.onrender.com"
 ADVISORY = "https://titanium-advisory-provider.onrender.com"
@@ -73,29 +75,48 @@ def record_path(root, movie_id):
     return root / f"{movie_id // 1000:06d}" / f"{movie_id}.json"
 
 
-def should_fetch(path, now):
+def should_fetch(path, now, popularity_rank=None):
     if not path.exists():
         return True
     try:
         saved = json.loads(path.read_text(encoding="utf-8"))
         if should_refresh(saved, now):
             return True
-        # A newer reviewed guide takes priority immediately, even if the
-        # existing generic advisory is only hours old. No pointless
-        # recompilation after the exact reviewed edition has been saved.
-        checked = compile_featured(
+
+        # Immediately upgrade a generic record when a checked review lands.
+        reviewed = compile_featured(
             int(saved.get("tmdb_id") or 0),
             str(saved.get("title") or ""),
             str(saved.get("year") or ""),
         )
-        if checked is not None:
-            descriptions, evidence = checked
+        if reviewed is not None:
+            descriptions, evidence = reviewed
             return (
                 saved.get("content_descriptors") != descriptions
                 or saved.get("category_evidence") != evidence
             )
+
+        grade = str((saved.get("guide_quality") or {}).get("grade", "unknown"))
+        if grade in ("advisory_summary", "thematic", "unknown"):
+            # One-time migration: recompile old generic records using the
+            # richer wording from the advisory feed we already have.
+            if int(saved.get("guide_enrichment_revision", 0)) < 1:
+                return True
+
+            # Popular incomplete films are revisited before the normal
+            # 14-30 day interval. Do not repeatedly poll every six hours.
+            if popularity_rank is not None:
+                days = 3 if popularity_rank <= 200 else (
+                    7 if popularity_rank <= 1500 else None)
+                if days is not None:
+                    checked = datetime.fromisoformat(
+                        str(saved["checked_at"]).replace("Z", "+00:00"))
+                    if checked.tzinfo is None:
+                        checked = checked.replace(tzinfo=timezone.utc)
+                    if (now - checked).total_seconds() >= days * 86400:
+                        return True
         return False
-    except (OSError, ValueError, TypeError, KeyError):
+    except (OSError, ValueError, TypeError, KeyError, OverflowError):
         return True
 
 
@@ -170,19 +191,32 @@ def compile_movie(movie_id, session=None):
         tags if matched else [], keywords,
         advisory.get("consumer_advice", "") if matched else ""
     )
-    # Prefer individually source-checked six-sentence entries over thematic
-    # keyword estimates, while preserving the source links per category.
+    if matched:
+        # Extract only explicitly mentioned advice; never infer a scene or
+        # treat an unmentioned category as absent.
+        descriptors, category_evidence = enrich_advice(
+            descriptors, category_evidence,
+            str(advisory.get("consumer_advice") or ""),
+            str(advisory.get("source") or ""),
+            str(advisory.get("matched_url") or ""),
+        )
+    # Independently checked seed guides are always the highest priority.
     reviewed = compile_featured(movie_id, title, year)
     if reviewed is not None:
         descriptors, category_evidence = reviewed
-    elif matched:
-        generated = generate_from_evidence(
-            title, year,
-            str(advisory.get("consumer_advice") or ""),
-            str(advisory.get("source") or ""),
-        )
-        if generated is not None:
-            descriptors, category_evidence = generated
+    else:
+        if matched:
+            generated = generate_from_evidence(
+                title, year,
+                str(advisory.get("consumer_advice") or ""),
+                str(advisory.get("source") or ""),
+            )
+            if generated is not None:
+                descriptors, category_evidence = generated
+        # Optional licensed feed. No request unless its URL/token exist.
+        approved = fetch_approved(movie_id, title, year, session)
+        descriptors, category_evidence = merge_approved(
+            descriptors, category_evidence, approved)
     quality = summarize(descriptors, category_evidence)
     # A 'no match' is not evidence that any warning is absent.
     return {
@@ -202,6 +236,7 @@ def compile_movie(movie_id, session=None):
         "content_descriptors": descriptors,
         "category_evidence": category_evidence,
         "guide_revision": REVISION,
+        "guide_enrichment_revision": 1,
         "guide_quality": quality,
         "matched_url": str(advisory.get("matched_url") or "") if matched else "",
         "checked_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -237,11 +272,11 @@ def main():
     # Select one small bounded set. Existing published records stay intact.
     pending = []
     seen = set()
-    for movie_id in ids:
+    for popularity_rank, movie_id in enumerate(ids, start=1):
         if movie_id in seen or movie_id <= 0:
             continue
         seen.add(movie_id)
-        if should_fetch(record_path(root, movie_id), now):
+        if should_fetch(record_path(root, movie_id), now, popularity_rank):
             pending.append(movie_id)
         if len(pending) >= args.batch_size:
             break

@@ -62,6 +62,9 @@ jobs:
           # AI off unless owner explicitly sets GitHub variable and secret.
           TITANIUM_AI_ENABLED: ${{ vars.TITANIUM_AI_ENABLED || '0' }}
           OPENAI_API_KEY: ${{ secrets.TITANIUM_OPENAI_API_KEY }}
+          # Optional authorized detailed-guide data provider (normally off).
+          TITANIUM_EVIDENCE_FEED_URL: ${{ vars.TITANIUM_EVIDENCE_FEED_URL || '' }}
+          TITANIUM_EVIDENCE_FEED_TOKEN: ${{ secrets.TITANIUM_EVIDENCE_FEED_TOKEN }}
         run: |
           python catalog/build.py \
             --output /tmp/titanium-guide-catalog/catalog/data \

@@ -56,9 +56,11 @@ def refresh_after_days(saved):
     grade = quality.get("grade", "unknown")
     evidence = saved.get("category_evidence") or {}
     if grade == "detailed":
-        # Preserve manually reviewed source-based descriptions until a
-        # deliberate versioned refresh, even if only some categories have
-        # independently supported evidence.
+        # Completed source-reviewed guides are stable. Partially reviewed
+        # guides can be revisited when more source-backed evidence arrives.
+        # Legacy records without a complete field retain old protection.
+        if quality.get("complete") is False:
+            return 14
         for value in evidence.values():
             if isinstance(value, dict) and value.get("basis") == "source_review":
                 return None
