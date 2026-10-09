@@ -1,0 +1,108 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 264660,
+  "imdb_id": "tt0470752",
+  "title": "Ex Machina",
+  "year": "2015",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.571,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Nudity, offensive language & content that may disturb",
+  "advisory_tags": [
+    "NUDITY",
+    "LANGUAGE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "android",
+    "dancing",
+    "friendship",
+    "man vs machine",
+    "distrust",
+    "artificial intelligence (a.i.)",
+    "isolation",
+    "technology",
+    "manipulation",
+    "high technology",
+    "treason",
+    "deception",
+    "norway",
+    "laboratory",
+    "robot",
+    "power outage",
+    "surveillance",
+    "rich",
+    "surveillance camera",
+    "consciousness",
+    "employer employee relationship",
+    "isolated house",
+    "wealthy man",
+    "existentialism",
+    "lockdown",
+    "emotional intelligence",
+    "female cyborg",
+    "human android relationship",
+    "tech company",
+    "critical",
+    "intense"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:33+00:00"
+}

@@ -1,0 +1,106 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 639933,
+  "imdb_id": "tt11138512",
+  "title": "The Northman",
+  "year": "2022",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.021,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, cruelty, animal cruelty, sexual material",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "SEXUAL CONTENT",
+    "ANIMAL HARM"
+  ],
+  "keywords": [
+    "sword",
+    "prince",
+    "gore",
+    "vikings (norsemen)",
+    "iceland",
+    "northern ireland",
+    "sword fight",
+    "revenge",
+    "fate",
+    "king",
+    "brutality",
+    "based on myths, legends or folklore",
+    "nordic",
+    "10th century",
+    "wonder",
+    "grimdark",
+    "fantasy",
+    "dramatic",
+    "suspenseful",
+    "admiring",
+    "amused",
+    "bold",
+    "commanding",
+    "ominous"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "gore",
+        "fighting"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "ANIMAL HARM"
+      ],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:28:29+00:00"
+}

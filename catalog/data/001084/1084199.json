@@ -1,0 +1,95 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1084199,
+  "imdb_id": "tt26584495",
+  "title": "Companion",
+  "year": "2025",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, domestic violence, cruelty and sexual references",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "android",
+    "artificial intelligence (a.i.)",
+    "cabin",
+    "robot",
+    "lgbt",
+    "boyfriend girlfriend relationship",
+    "duringcreditsstinger",
+    "robot girl",
+    "weekend getaway",
+    "human android relationship",
+    "toxic relationship",
+    "abusive relationship",
+    "malfunctioning android",
+    "robot companion",
+    "sentient machine",
+    "sci-fi horror",
+    "human vs machines",
+    "cybernetics",
+    "android horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:28:38+00:00"
+}

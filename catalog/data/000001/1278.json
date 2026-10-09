@@ -1,0 +1,93 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1278,
+  "imdb_id": "tt0309987",
+  "title": "The Dreamers",
+  "year": "2003",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.179,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "hotel",
+    "first time",
+    "paris, france",
+    "love triangle",
+    "students' movement",
+    "sexuality",
+    "bathing",
+    "flat",
+    "menage a trois",
+    "riot",
+    "crush",
+    "twins",
+    "incest",
+    "american abroad",
+    "polyamory",
+    "communism",
+    "1960s",
+    "brother sister relationship",
+    "sex",
+    "nudity",
+    "foreign student",
+    "pretentious",
+    "film",
+    "female full frontal nudity"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — TMDB lists nudity among this film's story themes; specific scenes are unverified.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "nudity"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:30:40+00:00"
+}

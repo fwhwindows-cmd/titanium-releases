@@ -1,0 +1,119 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 956,
+  "imdb_id": "tt0317919",
+  "title": "Mission: Impossible III",
+  "year": "2006",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.767,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "After IMF agent Ethan Hunt comes face to face with a sadistic arms dealer, he finds his and his fiancé’s lives threatened by the madman.",
+  "advisory_tags": [
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "mask",
+    "mission",
+    "berlin, germany",
+    "central intelligence agency (cia)",
+    "computer",
+    "the white house",
+    "shanghai, china",
+    "funeral",
+    "explosive",
+    "secret mission",
+    "spy",
+    "vatican (holy see)",
+    "secret identity",
+    "traitor",
+    "map",
+    "honeymoon",
+    "pretended murder",
+    "letter",
+    "fake identity",
+    "covered investigation",
+    "secret agent",
+    "stamp",
+    "hard drive",
+    "e-mail",
+    "decipherment",
+    "suitcase",
+    "sequel",
+    "secret government organization",
+    "revenge",
+    "murder",
+    "hospital",
+    "infiltration",
+    "duel",
+    "disguise",
+    "celebration",
+    "fictional government agency",
+    "research laboratory",
+    "government agency",
+    "blast",
+    "desperate",
+    "anxious",
+    "based on tv series",
+    "suspenseful",
+    "amused"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 2,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:30:11+00:00"
+}

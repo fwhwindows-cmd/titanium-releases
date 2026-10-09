@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 426063,
+  "imdb_id": "tt5040012",
+  "title": "Nosferatu",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, horror, sex scenes and content that may disturb",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "cold",
+    "based on novel or book",
+    "vampire",
+    "necrophilia",
+    "eroticism",
+    "possession",
+    "würzburg",
+    "remake",
+    "gothic horror",
+    "gothic",
+    "desire",
+    "somnambulism",
+    "plague",
+    "19th century",
+    "dread",
+    "gothic romance",
+    "drinking blood",
+    "supernatural horror",
+    "dracula",
+    "grimdark",
+    "period piece",
+    "1830s",
+    "nightmares",
+    "incredulous",
+    "bold"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists drinking among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "bloody imagery"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drinking"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "horror",
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:49+00:00"
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 10674,
+  "imdb_id": "tt0120762",
+  "title": "Mulan",
+  "year": "1998",
+  "certification": "U",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.9,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "princess",
+    "daughter",
+    "china",
+    "homeland",
+    "villain",
+    "musical",
+    "sexism",
+    "training",
+    "cricket",
+    "female protagonist",
+    "dragon",
+    "east asian lead",
+    "war hero",
+    "based on song, poem or rhyme",
+    "luck",
+    "great wall of china",
+    "gender disguise",
+    "based on fairy tale",
+    "female warrior",
+    "hand drawn animation",
+    "father daughter relationship",
+    "action comedy",
+    "woman disguised as man"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:21+00:00"
+}

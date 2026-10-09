@@ -1,0 +1,110 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 27,
+  "imdb_id": "tt0411705",
+  "title": "9 Songs",
+  "year": "2004",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.522,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Explicit sex scenes & drug use",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "london, england",
+    "concert",
+    "rock 'n' roll",
+    "sexuality",
+    "orgasm",
+    "cocaine",
+    "blow job",
+    "man woman relationship",
+    "condom",
+    "love",
+    "sexual fantasy",
+    "pubic hair",
+    "breast",
+    "ejaculation",
+    "american",
+    "couple",
+    "desire",
+    "sexual desire",
+    "cunnilingus",
+    "softcore",
+    "naked",
+    "exchange student",
+    "rock concert",
+    "british man",
+    "nude",
+    "drug",
+    "small tits",
+    "woman tied to a bed",
+    "sex",
+    "vulva",
+    "rock",
+    "unsimulated sex",
+    "intense",
+    "erect penis"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "cocaine"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:28:25+00:00"
+}

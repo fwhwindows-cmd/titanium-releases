@@ -1,0 +1,92 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 812583,
+  "imdb_id": "tt14364480",
+  "title": "Wake Up Dead Man: A Knives Out Mystery",
+  "year": "2025",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.206,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence and offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "dark comedy",
+    "sequel",
+    "whodunit",
+    "murder investigation",
+    "murder mystery",
+    "upstate new york",
+    "web of lies",
+    "mystery thriller",
+    "hidden motives",
+    "clue‑based deduction",
+    "high‑society secrets",
+    "eccentric detective",
+    "manipulative personalities",
+    "hidden relationships",
+    "isolated mansion",
+    "character‑driven mystery"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:32+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 9426,
+  "imdb_id": "tt0091064",
+  "title": "The Fly",
+  "year": "1986",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.4,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language, Nudity",
+  "advisory_tags": [
+    "NUDITY",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "monster",
+    "experiment",
+    "mutation",
+    "toronto, canada",
+    "mutant",
+    "transformation",
+    "halloween",
+    "remake",
+    "tragedy",
+    "creature",
+    "scientist",
+    "parasite underneath skin",
+    "fly (insect)",
+    "animal horror",
+    "melting",
+    "animal research",
+    "fly/human hybrid",
+    "in-home laboratory",
+    "body horror",
+    "commanding",
+    "frightened",
+    "powerful",
+    "tragic"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:30+00:00"
+}

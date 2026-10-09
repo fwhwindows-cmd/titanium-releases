@@ -1,0 +1,105 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 949,
+  "imdb_id": "tt0113277",
+  "title": "Heat",
+  "year": "1995",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.944,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "robbery",
+    "chase",
+    "suicide attempt",
+    "gangster",
+    "obsession",
+    "detective",
+    "heist",
+    "remake",
+    "thief",
+    "honor",
+    "murder",
+    "betrayal",
+    "gang",
+    "los angeles, california",
+    "cat and mouse",
+    "bank robbery",
+    "criminal mastermind",
+    "ex-con",
+    "one last job",
+    "loner",
+    "bank job",
+    "neo-noir",
+    "crime epic",
+    "assertive",
+    "authoritarian",
+    "bold"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists suicide, gangster crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "suicide",
+        "gangster crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:10+00:00"
+}

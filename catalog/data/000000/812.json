@@ -1,0 +1,94 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 812,
+  "imdb_id": "tt0103639",
+  "title": "Aladdin",
+  "year": "1992",
+  "certification": "U",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, Drug use",
+  "advisory_tags": [
+    "VIOLENCE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "princess",
+    "magic",
+    "tiger",
+    "cartoon",
+    "villain",
+    "parrot",
+    "sultan",
+    "flying carpet",
+    "wish",
+    "musical",
+    "love",
+    "monkey",
+    "arab",
+    "aftercreditsstinger",
+    "genie",
+    "arabian nights",
+    "animal sidekick",
+    "magic lamp",
+    "good versus evil",
+    "enchant"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:28:51+00:00"
+}

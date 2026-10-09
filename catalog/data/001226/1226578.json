@@ -1,0 +1,127 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1226578,
+  "imdb_id": "tt23468450",
+  "title": "Longlegs",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Bloody violence, horror & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "homicide",
+    "fbi",
+    "religion and supernatural",
+    "haunting",
+    "satanism",
+    "barn",
+    "satanist",
+    "code",
+    "oregon, usa",
+    "flashback",
+    "murder",
+    "serial killer",
+    "religion",
+    "female protagonist",
+    "corpse",
+    "series of murders",
+    "violent death",
+    "killing spree",
+    "catholic",
+    "death",
+    "death in family",
+    "occult",
+    "satanic cult",
+    "clairvoyant",
+    "crime spree",
+    "rookie",
+    "crime investigation",
+    "manic",
+    "sadistic psychopath",
+    "unsettling",
+    "scary doll",
+    "accomplice",
+    "1990s",
+    "dread",
+    "creepy doll",
+    "psychological terror",
+    "complex",
+    "singing in a car",
+    "haunted doll",
+    "homicide investigation",
+    "supernatural horror",
+    "female investigator",
+    "children in danger",
+    "psychological horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "terror",
+        "supernatural horror",
+        "psychological horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:18+00:00"
+}

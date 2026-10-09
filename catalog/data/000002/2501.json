@@ -1,0 +1,97 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 2501,
+  "imdb_id": "tt0258463",
+  "title": "The Bourne Identity",
+  "year": "2002",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.486,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "assassin",
+    "amnesia",
+    "paris, france",
+    "based on novel or book",
+    "escape",
+    "barcelona, spain",
+    "spy",
+    "secret identity",
+    "passport",
+    "mission of murder",
+    "lovers",
+    "flashback",
+    "shootout",
+    "foot chase",
+    "cell phone",
+    "multiple identities",
+    "surveillance camera",
+    "hamburg, germany",
+    "fishing boat",
+    "langley virginia",
+    "safe deposit box",
+    "hand to hand combat",
+    "political thriller",
+    "thoughtful",
+    "action hero",
+    "bourne",
+    "jason bourne",
+    "globe trotter"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:42+00:00"
+}

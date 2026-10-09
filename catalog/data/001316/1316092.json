@@ -1,0 +1,99 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1316092,
+  "imdb_id": "tt32897959",
+  "title": "“Wuthering Heights”",
+  "year": "2026",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.642,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex scenes and offensive language",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "dying and death",
+    "infidelity",
+    "based on novel or book",
+    "forbidden love",
+    "grief",
+    "orphan",
+    "period drama",
+    "sexual sadism",
+    "kinky",
+    "foster child",
+    "18th century",
+    "woman director",
+    "gothic romance",
+    "whitewashing",
+    "passion and romance",
+    "romantic drama",
+    "violence",
+    "romantic",
+    "gothic period",
+    "pettiness",
+    "period romance",
+    "sensual",
+    "steamy romance"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists violence among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:28+00:00"
+}

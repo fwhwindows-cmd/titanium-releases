@@ -1,0 +1,105 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 604,
+  "imdb_id": "tt0234215",
+  "title": "The Matrix Reloaded",
+  "year": "2003",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.1,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "dying and death",
+    "future",
+    "mission",
+    "man vs machine",
+    "underground world",
+    "martial arts",
+    "kung fu",
+    "hero",
+    "dreams",
+    "fortune teller",
+    "artificial intelligence (a.i.)",
+    "computer",
+    "saving the world",
+    "computer virus",
+    "virtual reality",
+    "fight",
+    "prophecy",
+    "truth",
+    "key",
+    "dystopia",
+    "allegory",
+    "simulation",
+    "plato",
+    "precognition",
+    "rave",
+    "car crash",
+    "sequel",
+    "cyberpunk",
+    "aftercreditsstinger",
+    "woman director",
+    "action hero",
+    "gnosticism",
+    "oracle",
+    "grand",
+    "defiant",
+    "sardonic"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists fighting among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "fighting"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:16+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 353486,
+  "imdb_id": "tt2283362",
+  "title": "Jumanji: Welcome to the Jungle",
+  "year": "2017",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.8,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, coarse language & sexual references",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "video game",
+    "fighter",
+    "sequel",
+    "detention",
+    "explorer",
+    "based on movie",
+    "gaming",
+    "quest",
+    "cartographer",
+    "action hero",
+    "unassuming",
+    "zoologist",
+    "based on young adult novel",
+    "trapped in a game",
+    "hilarious",
+    "amused",
+    "awestruck",
+    "enthusiastic"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:25:59+00:00"
+}

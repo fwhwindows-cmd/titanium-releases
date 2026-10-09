@@ -1,0 +1,91 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1266127,
+  "imdb_id": "tt33978029",
+  "title": "Ready or Not: Here I Come",
+  "year": "2026",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.535,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "escape",
+    "ritual",
+    "dark comedy",
+    "satanism",
+    "gore",
+    "pact with the devil",
+    "sequel",
+    "cat and mouse",
+    "game",
+    "exploding body",
+    "satanic ritual",
+    "satanic cult",
+    "estranged sister",
+    "sister sister relationship",
+    "satanic",
+    "sisters",
+    "death game",
+    "horror",
+    "hilarious",
+    "intense"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists gore among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "gore"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 2,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:12+00:00"
+}

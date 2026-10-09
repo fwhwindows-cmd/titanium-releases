@@ -1,0 +1,95 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1427,
+  "imdb_id": "tt0396171",
+  "title": "Perfume: The Story of a Murderer",
+  "year": "2006",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.378,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Nudity & content that may disturb",
+  "advisory_tags": [
+    "NUDITY",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "daughter",
+    "small town",
+    "bad smell",
+    "prostitute",
+    "paris, france",
+    "based on novel or book",
+    "obsession",
+    "orgy",
+    "genius",
+    "supernatural",
+    "lone wolf",
+    "nose",
+    "lavender",
+    "child prodigy",
+    "fish market",
+    "murder",
+    "death",
+    "perfume",
+    "18th century"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:09+00:00"
+}

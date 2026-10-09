@@ -1,0 +1,125 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 63,
+  "imdb_id": "tt0114746",
+  "title": "Twelve Monkeys",
+  "year": "1995",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.613,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "biological weapon",
+    "philadelphia, pennsylvania",
+    "schizophrenia",
+    "stockholm syndrome",
+    "airplane",
+    "world war i",
+    "underground",
+    "insanity",
+    "asylum",
+    "paranoia",
+    "prison cell",
+    "dystopia",
+    "pimp",
+    "lion",
+    "post-apocalyptic future",
+    "time travel",
+    "florida keys",
+    "mental breakdown",
+    "melancholy",
+    "past",
+    "dormitory",
+    "insane asylum",
+    "volunteer",
+    "drug use",
+    "flashback",
+    "remake",
+    "psychiatric hospital",
+    "jail",
+    "mental institution",
+    "cyberpunk",
+    "alternate history",
+    "disease",
+    "lethal virus",
+    "paradox",
+    "psychiatrist",
+    "monkey",
+    "epidemic",
+    "trapped",
+    "street life",
+    "nonlinear timeline",
+    "medical research",
+    "gas mask",
+    "psychosis",
+    "subterranean",
+    "virus",
+    "recurring dream",
+    "1990s",
+    "escaped animal",
+    "future noir",
+    "animal research",
+    "anxious",
+    "2030s",
+    "inspirational",
+    "suspenseful",
+    "critical",
+    "intense"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists drug use among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:11+00:00"
+}

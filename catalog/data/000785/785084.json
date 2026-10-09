@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 785084,
+  "imdb_id": "tt13833688",
+  "title": "The Whale",
+  "year": "2022",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.751,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Suicide themes, sexual material, drug use and offensive language",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "depression",
+    "nurse",
+    "missionary",
+    "idaho",
+    "bible",
+    "overweight man",
+    "based on play or musical",
+    "dying man",
+    "obesity",
+    "religion",
+    "death of lover",
+    "rebellious daughter",
+    "recluse",
+    "lgbt",
+    "eating disorder",
+    "empathy",
+    "teen anger",
+    "english teacher",
+    "abandonment",
+    "alcoholic mother",
+    "father daughter relationship",
+    "essay",
+    "religious symbolism",
+    "father daughter estrangement",
+    "complicated",
+    "powerful",
+    "morbidly obese",
+    "binge eating",
+    "queer loneliness"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 4,
+    "thematic_categories": 0,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:31+00:00"
+}

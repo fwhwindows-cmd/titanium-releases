@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 929590,
+  "imdb_id": "tt17279496",
+  "title": "Civil War",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.844,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, cruelty, offensive language and content that may disturb",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "sniper",
+    "new york city",
+    "race against time",
+    "usa president",
+    "washington dc, usa",
+    "the white house",
+    "civil war",
+    "post-traumatic stress disorder (ptsd)",
+    "war crimes",
+    "photographer",
+    "militia",
+    "journalism",
+    "dystopia",
+    "war photographer",
+    "road trip",
+    "female protagonist",
+    "soldier",
+    "fictional war",
+    "photojournalism",
+    "xenophobia",
+    "secession",
+    "secessionists",
+    "usa politics",
+    "war trauma",
+    "war journalism",
+    "charlottesville",
+    "near future",
+    "violence"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — TMDB lists trauma among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:33+00:00"
+}

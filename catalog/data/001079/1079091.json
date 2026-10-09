@@ -1,0 +1,102 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1079091,
+  "imdb_id": "tt10655524",
+  "title": "It Ends with Us",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.9,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Domestic violence and sexual violence",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "love triangle",
+    "abusive father",
+    "trauma",
+    "florist",
+    "flashback",
+    "love",
+    "domestic abuse",
+    "domestic violence",
+    "macabre",
+    "candid",
+    "satirical",
+    "repressed trauma",
+    "abusive relationship",
+    "adaptation",
+    "romantic drama",
+    "absurd",
+    "critical",
+    "antagonistic",
+    "baffled",
+    "defiant",
+    "vibrant"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists trauma, domestic violence among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse",
+        "domestic violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma",
+        "domestic violence"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:31:29+00:00"
+}

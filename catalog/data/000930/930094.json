@@ -1,0 +1,86 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 930094,
+  "imdb_id": "tt10172266",
+  "title": "Red, White & Royal Blue",
+  "year": "2023",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 7.93,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex scenes, Offensive language",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "politics",
+    "prince",
+    "royal family",
+    "royalty",
+    "lgbt",
+    "gay theme",
+    "gay relationship",
+    "enemies to lovers",
+    "boys' love (bl)",
+    "cheerful",
+    "powerful"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:30:31+00:00"
+}

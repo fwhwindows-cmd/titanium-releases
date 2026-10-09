@@ -1,0 +1,101 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 473033,
+  "imdb_id": "tt5727208",
+  "title": "Uncut Gems",
+  "year": "2019",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.173,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, Offensive language",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "bet",
+    "infidelity",
+    "new york city",
+    "philadelphia, pennsylvania",
+    "gambling",
+    "auction",
+    "ethiopia",
+    "dark comedy",
+    "basketball",
+    "long island, new york",
+    "money",
+    "debt",
+    "apartment building",
+    "opal",
+    "pawnshop",
+    "character study",
+    "jeweler",
+    "city life",
+    "neo-noir",
+    "anxious",
+    "ethiopian jews",
+    "2010s",
+    "independent film",
+    "black opal",
+    "suspenseful",
+    "distressing",
+    "diamond district"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:50+00:00"
+}

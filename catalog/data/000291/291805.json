@@ -1,0 +1,99 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 291805,
+  "imdb_id": "tt3110958",
+  "title": "Now You See Me 2",
+  "year": "2016",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.8,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "prison",
+    "new york city",
+    "magic",
+    "kidnapping",
+    "fbi",
+    "card trick",
+    "secret society",
+    "hypnosis",
+    "illusion",
+    "twin brother",
+    "sequel",
+    "heist",
+    "revenge",
+    "vigilante",
+    "on the run",
+    "fake death",
+    "macau",
+    "perception",
+    "illusionist",
+    "secrecy",
+    "illusionism",
+    "debunker",
+    "sleight of hand",
+    "fbi agent",
+    "intense",
+    "cheerful"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:28+00:00"
+}

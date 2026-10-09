@@ -1,0 +1,92 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 9358,
+  "imdb_id": "tt0309593",
+  "title": "Final Destination 2",
+  "year": "2003",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.32,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Horror scenes, drug use & offensive language",
+  "advisory_tags": [
+    "LANGUAGE",
+    "DRUG USE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "ambulance",
+    "car crash",
+    "sequel",
+    "premonition",
+    "vision",
+    "hospital",
+    "death",
+    "cheating death",
+    "supernatural horror",
+    "horror",
+    "excited",
+    "deaths"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "supernatural horror",
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:28+00:00"
+}

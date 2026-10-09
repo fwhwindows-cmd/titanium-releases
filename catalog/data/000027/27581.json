@@ -1,0 +1,94 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 27581,
+  "imdb_id": "tt1386588",
+  "title": "The Other Guys",
+  "year": "2010",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.341,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language & drug use",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "new york city",
+    "narration",
+    "sarcasm",
+    "buddy cop",
+    "buddy comedy",
+    "carjacking",
+    "jumping off a building",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "crime investigation",
+    "running gags",
+    "explosions",
+    "nypd detectives",
+    "celebrity cops",
+    "parody elements",
+    "financial crime",
+    "police satire"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:28:39+00:00"
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 166426,
+  "imdb_id": "tt1790809",
+  "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+  "year": "2017",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.665,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Supernatural themes & violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "treasure map",
+    "sequel",
+    "royal navy",
+    "pirate",
+    "swashbuckler",
+    "caribbean sea",
+    "dark fantasy",
+    "trident",
+    "based on theme park ride",
+    "treasure hunting",
+    "caribbean island",
+    "ghost pirates",
+    "cursed crew",
+    "legendary artifact",
+    "oceanic curse",
+    "supernatural pursuit",
+    "naval confrontation",
+    "dangerous voyage",
+    "rival captains",
+    "epic chase"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:03+00:00"
+}

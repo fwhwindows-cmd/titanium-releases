@@ -1,0 +1,110 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 600,
+  "imdb_id": "tt0093058",
+  "title": "Full Metal Jacket",
+  "year": "1987",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.1,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "rescue",
+    "sniper",
+    "vietnam war",
+    "suicide",
+    "vietnam",
+    "helicopter",
+    "army",
+    "prostitute",
+    "based on novel or book",
+    "propaganda",
+    "war correspondent",
+    "journalism",
+    "recruit",
+    "infantry",
+    "war photographer",
+    "boot camp",
+    "jungle",
+    "sergeant",
+    "racism",
+    "genocide",
+    "fighting",
+    "platoon",
+    "combat",
+    "discipline",
+    "u.s. marine",
+    "obstacle course",
+    "military",
+    "anti war",
+    "mass grave",
+    "blanket party",
+    "soldiers",
+    "war",
+    "critical",
+    "frustrated",
+    "harsh",
+    "scathing"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists suicide, racism among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "suicide",
+        "racism"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:51+00:00"
+}

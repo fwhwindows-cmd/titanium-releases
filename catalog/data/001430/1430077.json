@@ -1,0 +1,100 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1430077,
+  "imdb_id": "tt35672862",
+  "title": "Hokum",
+  "year": "2026",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.8,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Horror, suicide, drug use & offensive language",
+  "advisory_tags": [
+    "LANGUAGE",
+    "DRUG USE",
+    "FRIGHTENING SCENES",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "witch",
+    "mushroom",
+    "supernatural",
+    "grave",
+    "gothic horror",
+    "alcoholic",
+    "gothic",
+    "novelist",
+    "elevator",
+    "haunted hotel",
+    "mysterious",
+    "folk horror",
+    "supernatural horror",
+    "rural ireland",
+    "horror",
+    "sinister",
+    "funeral urn"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "horror",
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 4,
+    "thematic_categories": 0,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:28+00:00"
+}

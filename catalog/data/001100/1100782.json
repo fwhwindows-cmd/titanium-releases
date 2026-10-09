@@ -1,0 +1,190 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1100782,
+  "imdb_id": "tt29268110",
+  "title": "Smile 2",
+  "year": "2024",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.598,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language and horror",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "drug dealer",
+    "depression",
+    "new york city",
+    "dancing",
+    "suicide",
+    "concert",
+    "nightmare",
+    "escape",
+    "musician",
+    "winter",
+    "gun",
+    "talk show",
+    "delusion",
+    "possession",
+    "hallucination",
+    "mental breakdown",
+    "gore",
+    "stalker",
+    "self-inflicted injury",
+    "addiction",
+    "sequel",
+    "drug use",
+    "flashback",
+    "singer",
+    "murder",
+    "curse",
+    "hospital",
+    "fear",
+    "corpse",
+    "scar",
+    "drugs",
+    "demon",
+    "cell phone",
+    "apartment building",
+    "guilt",
+    "pop music",
+    "self esteem",
+    "family conflict",
+    "evil",
+    "phone",
+    "injury",
+    "mental health",
+    "watching tv",
+    "text messaging",
+    "knee injury",
+    "sobriety",
+    "substance abuse",
+    "gruesome",
+    "press agent",
+    "creepy person",
+    "breakdown",
+    "unsettling",
+    "woman agent",
+    "gun fight",
+    "creepy",
+    "hospital visit",
+    "abusive mother",
+    "chronic pain",
+    "depressed woman",
+    "jump scare",
+    "self-harm",
+    "delusional",
+    "spinal injury",
+    "popstar",
+    "emotional breakdown",
+    "pain medication",
+    "smile",
+    "drug",
+    "scared",
+    "pills",
+    "supernatural horror",
+    "self destructiveness",
+    "bar",
+    "bloody",
+    "city",
+    "body horror",
+    "blood",
+    "apartment",
+    "united states of america (usa)",
+    "phone message",
+    "psychological horror",
+    "nightmares",
+    "drug usage",
+    "hallucinations",
+    "public image",
+    "tour",
+    "horror",
+    "unknown number",
+    "mom",
+    "public figure",
+    "creepy faces",
+    "2020s",
+    "going insane",
+    "iphone footage",
+    "gorefest",
+    "new york winter",
+    "taking drugs",
+    "disturbing"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — TMDB lists drug use among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — TMDB lists suicide, self-harm among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "gore",
+        "murder",
+        "abuse",
+        "fighting"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "nightmares",
+        "supernatural horror",
+        "horror",
+        "psychological horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "suicide",
+        "self-harm"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 2,
+    "unknown_categories": 1,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:25+00:00"
+}

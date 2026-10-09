@@ -1,0 +1,127 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1034541,
+  "imdb_id": "tt27911000",
+  "title": "Terrifier 3",
+  "year": "2024",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, horror, self-harm & sexual material",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "SEXUAL CONTENT",
+    "FRIGHTENING SCENES",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "monster",
+    "post-traumatic stress disorder (ptsd)",
+    "angel",
+    "shower",
+    "child murder",
+    "santa claus",
+    "college",
+    "clown",
+    "bartender",
+    "gore",
+    "dormitory",
+    "sequel",
+    "serial killer",
+    "teenage girl",
+    "slasher",
+    "chainsaw",
+    "massacre",
+    "mental illness",
+    "disfigured face",
+    "mental asylum",
+    "cousin relationship",
+    "mall santa",
+    "killer clown",
+    "terrorist bombing",
+    "christmas horror",
+    "evil clown",
+    "christmas spirit",
+    "christmas",
+    "murder of parents",
+    "orphan siblings",
+    "supernatural power",
+    "death of a child",
+    "supernatural horror",
+    "bar",
+    "bloody",
+    "independent film",
+    "blood",
+    "low budget",
+    "megaslasher",
+    "sadistic horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "murder",
+        "gore",
+        "bloody imagery"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "horror",
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 4,
+    "thematic_categories": 0,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:27:00+00:00"
+}

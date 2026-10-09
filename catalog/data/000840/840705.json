@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 840705,
+  "imdb_id": "tt14858658",
+  "title": "Blink Twice",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.682,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Brutal violence, cruelty, rape, drug use and offensive language",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "rape",
+    "forgiveness",
+    "exploitation",
+    "dark comedy",
+    "seclusion",
+    "sexual violence",
+    "gang rape",
+    "psychological thriller",
+    "gender roles",
+    "therapy",
+    "self esteem",
+    "remote island",
+    "debauchery",
+    "wealthy man",
+    "woman director",
+    "rape revenge",
+    "sex slavery",
+    "entitlement",
+    "abuse of power",
+    "repressed trauma",
+    "gaslighting",
+    "psychological manipulation",
+    "drugging someone",
+    "me too movement",
+    "tech-mogul",
+    "private island"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists revenge, trauma among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "violence",
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge",
+        "trauma"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:30:01+00:00"
+}

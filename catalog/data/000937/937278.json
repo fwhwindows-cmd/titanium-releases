@@ -1,0 +1,93 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 937278,
+  "imdb_id": "tt7405458",
+  "title": "A Man Called Otto",
+  "year": "2022",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language and suicide themes",
+  "advisory_tags": [
+    "LANGUAGE",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "friendship",
+    "based on novel or book",
+    "suicide attempt",
+    "flashback",
+    "remake",
+    "miscarriage",
+    "new neighbor",
+    "social media",
+    "forced retirement",
+    "death of wife",
+    "bus accident",
+    "real estate developer",
+    "grumpy man",
+    "loss of wife",
+    "transgender",
+    "grief and remembrance",
+    "angry old man"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": [
+        "suicide"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:51+00:00"
+}

@@ -1,0 +1,87 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1087891,
+  "imdb_id": "tt0899043",
+  "title": "The Amateur",
+  "year": "2025",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.923,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Explicit sexual material",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "central intelligence agency (cia)",
+    "based on novel or book",
+    "escape",
+    "blackmail",
+    "revenge",
+    "agent",
+    "government assassin",
+    "government cover-up",
+    "government conspiracy",
+    "death of wife",
+    "spy thriller",
+    "computer hacker",
+    "suspenseful",
+    "enthusiastic"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:26:06+00:00"
+}

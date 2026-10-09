@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 673593,
+  "imdb_id": "tt11762114",
+  "title": "Mean Girls",
+  "year": "2024",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.838,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language & sexual references",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "high school",
+    "musical",
+    "illinois",
+    "female friendship",
+    "bullying",
+    "based on play or musical",
+    "remake",
+    "kenya",
+    "teen movie",
+    "prom",
+    "teenage girl",
+    "homeschooling",
+    "math teacher",
+    "gossip",
+    "intervention",
+    "clique",
+    "former best friend",
+    "teen comedy",
+    "reboot",
+    "based on movie",
+    "public humiliation",
+    "aftercreditsstinger",
+    "woman director",
+    "teenage romance",
+    "high school rivalry",
+    "teenage life",
+    "manipulative friend",
+    "math genius",
+    "segregation",
+    "musical comedy",
+    "female bully",
+    "dumb blonde",
+    "high school romance"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists bullying among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "bullying"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T07:29:50+00:00"
+}
