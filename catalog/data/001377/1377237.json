@@ -20,56 +20,60 @@
     "assertive"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — Information not available",
-    "Profanity — Information not available",
-    "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — Information not available"
+    "Violence — Repeated bloody action includes shootings, stabbings, fistfights and injuries from bladed weapons.",
+    "Sex & Nudity — Brief visual references to sex workers occur; the classification report does not establish explicit nudity.",
+    "Profanity — Strong swearing is heard throughout, alongside milder insults and exclamations.",
+    "Alcohol, Drugs & Smoking — There are references to alcohol addiction and a person attending Alcoholics Anonymous.",
+    "Frightening & Intense Scenes — Gun and knife threats, dangerous car crashes, explosions and threats to a seriously ill child create sustained peril.",
+    "Mature Content & Themes — The plot involves a criminal cartel, a vital medical delivery and references to the death of a child."
   ],
   "category_evidence": {
     "Violence": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "VIOLENCE"
-      ],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/runner-q29sbgvjdglvbjpwwc0xmte4ntq0"
+      ]
     },
     "Sex & Nudity": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/runner-q29sbgvjdglvbjpwwc0xmte4ntq0"
+      ]
     },
     "Profanity": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/runner-q29sbgvjdglvbjpwwc0xmte4ntq0"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/runner-q29sbgvjdglvbjpwwc0xmte4ntq0"
+      ]
     },
     "Frightening & Intense Scenes": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/runner-q29sbgvjdglvbjpwwc0xmte4ntq0"
+      ]
     },
     "Mature Content & Themes": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.bbfc.co.uk/release/runner-q29sbgvjdglvbjpwwc0xmte4ntq0"
+      ]
     }
   },
   "guide_revision": 1,
   "guide_quality": {
-    "grade": "advisory_summary",
-    "detailed_categories": 0,
-    "source_tagged_categories": 1,
+    "grade": "detailed",
+    "detailed_categories": 6,
+    "source_tagged_categories": 0,
     "thematic_categories": 0,
-    "unknown_categories": 5,
-    "complete": false
+    "unknown_categories": 0,
+    "complete": true
   },
   "matched_url": "",
-  "checked_at": "2026-10-08T19:26:44+00:00"
+  "checked_at": "2026-10-09T19:03:12+00:00"
 }

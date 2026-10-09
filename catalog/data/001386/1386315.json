@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.7,
+  "vote_average": 6.743,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence, offensive language, domestic violence, and dangerous behaviour",
@@ -28,58 +28,60 @@
     "tense"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
-    "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — Information not available"
+    "Violence — A woman is attacked and threatened, is struck by a car, and encounters bloody crime-scene imagery and references to domestic abuse.",
+    "Sex & Nudity — Suggestive photographs show a woman wearing lingerie, but the available review does not describe explicit sexual activity.",
+    "Profanity — Moderate swearing and insulting language occur during confrontations.",
+    "Alcohol, Drugs & Smoking — There are passing written references to cocaine and intoxication.",
+    "Frightening & Intense Scenes — A kidnapped child faces a life-threatening medical crisis while his mother is forced into dangerous, time-sensitive tasks.",
+    "Mature Content & Themes — Themes include child abduction, emotional manipulation, domestic abuse and misuse of hacked private information."
   ],
   "category_evidence": {
     "Violence": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "VIOLENCE"
-      ],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-runner-2026"
+      ]
     },
     "Sex & Nudity": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-runner-2026"
+      ]
     },
     "Profanity": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "LANGUAGE"
-      ],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-runner-2026"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-runner-2026"
+      ]
     },
     "Frightening & Intense Scenes": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-runner-2026"
+      ]
     },
     "Mature Content & Themes": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_review",
+      "sources": [
+        "https://www.commonsensemedia.org/movie-reviews/the-runner-2026"
+      ]
     }
   },
   "guide_revision": 1,
   "guide_quality": {
-    "grade": "advisory_summary",
-    "detailed_categories": 0,
-    "source_tagged_categories": 2,
+    "grade": "detailed",
+    "detailed_categories": 6,
+    "source_tagged_categories": 0,
     "thematic_categories": 0,
-    "unknown_categories": 4,
-    "complete": false
+    "unknown_categories": 0,
+    "complete": true
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:25:29+00:00"
+  "checked_at": "2026-10-09T19:03:12+00:00"
 }
