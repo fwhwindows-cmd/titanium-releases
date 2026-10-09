@@ -1,0 +1,110 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1091,
+  "imdb_id": "tt0084787",
+  "title": "The Thing",
+  "year": "1982",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.1,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language, Sexual themes",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "spacecraft",
+    "helicopter",
+    "space marine",
+    "cold",
+    "based on novel or book",
+    "isolation",
+    "mutation",
+    "paranoia",
+    "halloween",
+    "snowstorm",
+    "research station",
+    "alien life-form",
+    "alien",
+    "remake",
+    "survival",
+    "creature",
+    "helicopter pilot",
+    "antarctica",
+    "shape shifting alien",
+    "alien infection",
+    "survival horror",
+    "sled dogs",
+    "alien monster",
+    "alien parasites",
+    "isolated place",
+    "uncertainty",
+    "blood test",
+    "body horror",
+    "ambiguity",
+    "lovecraftian",
+    "tense",
+    "horrified"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists bloody imagery among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "bloody imagery"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 2,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:29:29+00:00"
+}

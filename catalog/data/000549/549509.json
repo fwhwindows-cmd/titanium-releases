@@ -1,0 +1,106 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 549509,
+  "imdb_id": "tt8999762",
+  "title": "The Brutalist",
+  "year": "2024",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.9,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Rape, sex scenes & drug use",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "new york city",
+    "immigrant",
+    "husband wife relationship",
+    "philadelphia, pennsylvania",
+    "venice, italy",
+    "capitalism",
+    "pennsylvania, usa",
+    "drug addiction",
+    "architect",
+    "american dream",
+    "exploitation",
+    "holocaust (shoah) survivor",
+    "architecture",
+    "period drama",
+    "post world war ii",
+    "heroin addict",
+    "sexual assault",
+    "ellis island",
+    "1940s",
+    "1980s",
+    "1950s",
+    "male domination",
+    "visionary",
+    "slow burn",
+    "hungarian",
+    "psychological drama",
+    "vistavision"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [
+        "sexual assault"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "drug addiction",
+        "heroin"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:26:05+00:00"
+}

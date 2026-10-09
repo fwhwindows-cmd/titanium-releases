@@ -1,0 +1,115 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1124620,
+  "imdb_id": "tt27714946",
+  "title": "The Monkey",
+  "year": "2025",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.987,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Horror, graphic violence & offensive language",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "LANGUAGE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "sibling relationship",
+    "shotgun",
+    "supernatural",
+    "drums",
+    "harpoon",
+    "dark comedy",
+    "gore",
+    "twin brother",
+    "maine",
+    "decapitation",
+    "accidental death",
+    "wasp",
+    "monkey",
+    "exploding body",
+    "death",
+    "evil",
+    "evil twin",
+    "based on short story",
+    "dual role",
+    "aftercreditsstinger",
+    "cursed",
+    "1990s",
+    "father son relationship",
+    "mother son relationship",
+    "brother brother relationship",
+    "toy monkey",
+    "supernatural horror",
+    "toy",
+    "body horror",
+    "cursed object",
+    "horror",
+    "japanese restaurant",
+    "father son estrangement"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "gore"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "supernatural horror",
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:29:01+00:00"
+}

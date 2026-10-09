@@ -1,0 +1,98 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 106646,
+  "imdb_id": "tt0993846",
+  "title": "The Wolf of Wall Street",
+  "year": "2013",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.0,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "corruption",
+    "based on novel or book",
+    "drug addiction",
+    "anti hero",
+    "con man",
+    "fraud",
+    "wall street",
+    "biography",
+    "based on true story",
+    "rise and fall",
+    "con artist",
+    "money",
+    "stockbroker",
+    "wealthy",
+    "drugs",
+    "stripping",
+    "hedonism",
+    "decadence",
+    "corrupt",
+    "1980s",
+    "sharemarket fraud",
+    "desire for fame",
+    "financial market",
+    "fame-seeking",
+    "black monday",
+    "based on real person",
+    "financial drama"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists drug addiction among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists corruption among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drug addiction"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "corruption"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 2,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:27:56+00:00"
+}

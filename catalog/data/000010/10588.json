@@ -1,0 +1,92 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 10588,
+  "imdb_id": "tt0312528",
+  "title": "The Cat in the Hat",
+  "year": "2003",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.4,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Guns n' Roses: Sex n' Drugs n' Rock n' Roll",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "sibling relationship",
+    "based on novel or book",
+    "chaos",
+    "cat",
+    "boredom",
+    "surrealism",
+    "stepfather",
+    "slapstick comedy",
+    "house party",
+    "police impersonator",
+    "based on children's book",
+    "goldfish",
+    "impersonation",
+    "talking fish",
+    "live action and animation",
+    "mother son relationship",
+    "mother daughter relationship",
+    "hilarious"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:27:55+00:00"
+}

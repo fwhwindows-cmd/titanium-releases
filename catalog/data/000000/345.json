@@ -1,0 +1,103 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 345,
+  "imdb_id": "tt0120663",
+  "title": "Eyes Wide Shut",
+  "year": "1999",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.484,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex scenes",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "new york city",
+    "prostitute",
+    "based on novel or book",
+    "sexual obsession",
+    "sacrifice",
+    "christmas party",
+    "eroticism",
+    "orgy",
+    "masked ball",
+    "marriage",
+    "secret society",
+    "cult",
+    "marijuana",
+    "conspiracy",
+    "mansion",
+    "doctor",
+    "relationship",
+    "lust",
+    "drugs",
+    "disguise",
+    "illegal prostitution",
+    "sexual desire",
+    "ego",
+    "bribery",
+    "voyeurism",
+    "sex party",
+    "marital crisis",
+    "costume shop",
+    "hooker",
+    "ominous"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [
+        "sex work"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:26:51+00:00"
+}

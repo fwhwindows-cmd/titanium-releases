@@ -1,0 +1,121 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 694,
+  "imdb_id": "tt0081505",
+  "title": "The Shining",
+  "year": "1980",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "hotel",
+    "child abuse",
+    "based on novel or book",
+    "isolation",
+    "telepathy",
+    "delusion",
+    "snowstorm",
+    "colorado",
+    "seclusion",
+    "surrealism",
+    "writer's block",
+    "alcoholism",
+    "premonition",
+    "psychic power",
+    "caretaker",
+    "loneliness",
+    "vision",
+    "domestic violence",
+    "postmodern",
+    "psychological thriller",
+    "writer",
+    "twins",
+    "labyrinth",
+    "alcoholic",
+    "blizzard",
+    "extrasensory perception",
+    "motherhood",
+    "haunted hotel",
+    "psychological disintegration",
+    "mother son relationship",
+    "supernatural power",
+    "supernatural horror",
+    "ghost child",
+    "dreary",
+    "nuclear family",
+    "avant garde",
+    "identical twins",
+    "ambiguous",
+    "frightened",
+    "subjective"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists alcohol misuse among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — TMDB lists supernatural horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — TMDB lists child abuse, domestic violence among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse",
+        "domestic violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "alcohol misuse"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "child abuse",
+        "domestic violence"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 3,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:27:55+00:00"
+}

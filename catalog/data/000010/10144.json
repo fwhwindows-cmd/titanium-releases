@@ -1,0 +1,99 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 10144,
+  "imdb_id": "tt0097757",
+  "title": "The Little Mermaid",
+  "year": "1989",
+  "certification": "U",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.352,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Scary scenes, Sexual themes",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "witch",
+    "princess",
+    "sea",
+    "daughter",
+    "kingdom",
+    "fireworks",
+    "cartoon",
+    "mermaid",
+    "prince",
+    "villain",
+    "musical",
+    "coming of age",
+    "crab",
+    "fish out of water",
+    "misunderstanding",
+    "single father",
+    "female villain",
+    "based on fairy tale",
+    "true love",
+    "bargain",
+    "hand drawn animation",
+    "trident",
+    "father daughter relationship",
+    "good versus evil",
+    "vibrant"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:28:47+00:00"
+}

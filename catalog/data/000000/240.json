@@ -1,0 +1,100 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 240,
+  "imdb_id": "tt0071562",
+  "title": "The Godfather Part II",
+  "year": "1974",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.6,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "new year's eve",
+    "new york city",
+    "based on novel or book",
+    "italian american",
+    "cuba",
+    "italy",
+    "gangster",
+    "praise",
+    "blackmail",
+    "symbolism",
+    "senator",
+    "sequel",
+    "revenge",
+    "murder",
+    "betrayal",
+    "organized crime",
+    "extortion",
+    "mafia",
+    "lawyer",
+    "suburb",
+    "sicilian mafia",
+    "corrupt politician",
+    "1950s",
+    "new year",
+    "violence"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder, violence among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists gangster crime, revenge, organised crime, Mafia crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder",
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "gangster crime",
+        "revenge",
+        "organised crime",
+        "Mafia crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 2,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:26:32+00:00"
+}

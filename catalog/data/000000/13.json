@@ -1,0 +1,108 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 13,
+  "imdb_id": "tt0109830",
+  "title": "Forrest Gump",
+  "year": "1994",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new year's eve",
+    "vietnam war",
+    "vietnam veteran",
+    "mentally disabled",
+    "friendship",
+    "usa president",
+    "washington dc, usa",
+    "post-traumatic stress disorder (ptsd)",
+    "waitress",
+    "based on novel or book",
+    "hippie",
+    "single parent",
+    "parent child relationship",
+    "optimism",
+    "1970s",
+    "drug addiction",
+    "autism",
+    "alabama",
+    "black panther party",
+    "bus stop",
+    "family relationships",
+    "chameleon",
+    "single mother",
+    "military",
+    "anti war protest",
+    "1960s",
+    "simpleton",
+    "college american football",
+    "mother son relationship",
+    "america",
+    "feelgood",
+    "dramatic"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — TMDB lists drug addiction among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drug addiction"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:26:25+00:00"
+}

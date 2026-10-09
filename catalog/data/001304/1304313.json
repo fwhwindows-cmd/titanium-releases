@@ -1,0 +1,103 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1304313,
+  "imdb_id": "tt32612507",
+  "title": "Lee Cronin's The Mummy",
+  "year": "2026",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.8,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, horror, gore & drug use",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "GORE",
+    "DRUG USE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "journalist",
+    "egypt",
+    "monster",
+    "ritual",
+    "kidnapping",
+    "pyramid",
+    "investigation",
+    "supernatural",
+    "mummy",
+    "possession",
+    "disappearance",
+    "curse",
+    "demon",
+    "tomb",
+    "missing person",
+    "mysterious",
+    "monster movie",
+    "supernatural horror",
+    "body horror",
+    "bewildered",
+    "frightened"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GORE",
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "supernatural horror",
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:27:20+00:00"
+}

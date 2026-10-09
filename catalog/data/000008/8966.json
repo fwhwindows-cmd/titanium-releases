@@ -1,0 +1,98 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 8966,
+  "imdb_id": "tt1099212",
+  "title": "Twilight",
+  "year": "2008",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.273,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Supernatural themes & violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "high school",
+    "soulmates",
+    "based on novel or book",
+    "immortality",
+    "vampire",
+    "forbidden love",
+    "teen movie",
+    "trust",
+    "desire",
+    "washington state",
+    "duringcreditsstinger",
+    "woman director",
+    "interspecies romance",
+    "based on young adult novel",
+    "supernatural power",
+    "good versus evil",
+    "high school romance",
+    "vampire human love",
+    "absurd",
+    "hilarious",
+    "baffled",
+    "bewildered",
+    "cliché",
+    "embarrassed",
+    "melodramatic",
+    "ridiculous",
+    "teen fantasy"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:27:01+00:00"
+}

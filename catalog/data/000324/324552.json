@@ -1,0 +1,97 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 324552,
+  "imdb_id": "tt4425200",
+  "title": "John Wick: Chapter 2",
+  "year": "2017",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.345,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence & suicide",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "martial arts",
+    "assassin",
+    "rome, italy",
+    "hitman",
+    "roof",
+    "secret organization",
+    "sequel",
+    "revenge",
+    "shootout",
+    "dog",
+    "code of honor",
+    "handshake",
+    "hand to hand combat",
+    "neo-noir",
+    "guns",
+    "dark",
+    "roof-top",
+    "precision shooting",
+    "continental hotel"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "shootings"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:30:28+00:00"
+}

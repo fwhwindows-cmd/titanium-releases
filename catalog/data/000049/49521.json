@@ -1,0 +1,88 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 49521,
+  "imdb_id": "tt0770828",
+  "title": "Man of Steel",
+  "year": "2013",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.661,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth with different intentions.",
+  "advisory_tags": [
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "saving the world",
+    "flying",
+    "hope",
+    "superhero",
+    "based on comic",
+    "alien planet",
+    "superhuman",
+    "alien invasion",
+    "super power",
+    "mysterious force",
+    "reboot",
+    "save the day",
+    "dc extended universe (dceu)",
+    "save the planet",
+    "origin story",
+    "alien spaceship",
+    "defiant"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:27:39+00:00"
+}

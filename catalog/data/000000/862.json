@@ -1,0 +1,95 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 862,
+  "imdb_id": "tt0114709",
+  "title": "Toy Story",
+  "year": "1995",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.989,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Woody, Buzz, Jessie and the rest of the gang’s jobs are challenged when they're introduced to a new threat to playtime: an electronic smart tablet.",
+  "advisory_tags": [
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "rescue",
+    "friendship",
+    "mission",
+    "jealousy",
+    "villain",
+    "bullying",
+    "elementary school",
+    "rivalry",
+    "anthropomorphism",
+    "friends",
+    "computer animation",
+    "buddy",
+    "walkie talkie",
+    "toy car",
+    "boy next door",
+    "new toy",
+    "neighborhood",
+    "toy comes to life",
+    "resourcefulness",
+    "toy",
+    "3d animation",
+    "pixar"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — TMDB lists bullying among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "bullying"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:26:38+00:00"
+}

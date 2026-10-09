@@ -6,7 +6,7 @@
   "year": "2023",
   "certification": "PG",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.35,
+  "vote_average": 8.3,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence and coarse language",
@@ -98,5 +98,15 @@
       "keywords": []
     }
   },
-  "checked_at": "2026-10-08T19:26:11+00:00"
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:25:22+00:00"
 }

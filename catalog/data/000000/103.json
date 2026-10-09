@@ -1,0 +1,108 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 103,
+  "imdb_id": "tt0075314",
+  "title": "Taxi Driver",
+  "year": "1976",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.1,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE"
+  ],
+  "keywords": [
+    "drug dealer",
+    "vietnam veteran",
+    "new york city",
+    "taxi",
+    "pornography",
+    "obsession",
+    "taxi driver",
+    "1970s",
+    "pimp",
+    "observer",
+    "firearm",
+    "politician",
+    "alienation",
+    "junk food",
+    "misanthrophy",
+    "vigilante",
+    "political campaign",
+    "cynical",
+    "illegal prostitution",
+    "urban decay",
+    "character study",
+    "loner",
+    "manhattan, new york city",
+    "meditative",
+    "neo-noir",
+    "child prostitution",
+    "complex",
+    "new hollywood",
+    "dreary",
+    "cautionary",
+    "drives",
+    "provocative",
+    "antagonistic",
+    "audacious",
+    "callous"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — TMDB lists sex work among this film's story themes; specific scenes are unverified.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "sex work"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:30:55+00:00"
+}

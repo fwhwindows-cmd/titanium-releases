@@ -1,0 +1,102 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 177572,
+  "imdb_id": "tt2245084",
+  "title": "Big Hero 6",
+  "year": "2014",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Low level violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "friendship",
+    "martial arts",
+    "hero",
+    "sibling relationship",
+    "san francisco, california",
+    "superhero",
+    "talent",
+    "cartoon",
+    "villain",
+    "based on comic",
+    "coming of age",
+    "revenge",
+    "tokyo, japan",
+    "best friend",
+    "another dimension",
+    "robot",
+    "east asian lead",
+    "boy genius",
+    "super villain",
+    "aftercreditsstinger",
+    "villain arrested",
+    "supervillain",
+    "moral dilemma",
+    "teen superhero",
+    "dead brother",
+    "loving",
+    "3d animation",
+    "depressing",
+    "hopeful"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:27:18+00:00"
+}

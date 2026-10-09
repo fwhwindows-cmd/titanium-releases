@@ -1,0 +1,103 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 111,
+  "imdb_id": "tt0086250",
+  "title": "Scarface",
+  "year": "1983",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language & drug use",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "corruption",
+    "sibling relationship",
+    "miami, florida",
+    "cuba",
+    "loss of loved one",
+    "gangster",
+    "cocaine",
+    "rise and fall",
+    "remake",
+    "tragedy",
+    "drug cartel",
+    "mafia",
+    "drug lord",
+    "bitterness",
+    "rise to power",
+    "miami beach",
+    "cuban refugees",
+    "drug war",
+    "excited",
+    "tragic"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists corruption, gangster crime, Mafia crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "cocaine"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "corruption",
+        "gangster crime",
+        "Mafia crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:29:47+00:00"
+}

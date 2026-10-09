@@ -1,0 +1,120 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 166428,
+  "imdb_id": "tt2386490",
+  "title": "How to Train Your Dragon: The Hidden World",
+  "year": "2019",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.8,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Hiccup tries to find a safe, secret place where dragons and humans can live peacefully. Meanwhile, Toothless falls in love with a mysterious Light Fury, and together they face a dangerous dragon hunter who threatens everything they've built.",
+  "advisory_tags": [
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "flying",
+    "villain",
+    "melancholy",
+    "vikings (norsemen)",
+    "sequel",
+    "overpopulation",
+    "dragon",
+    "love interest",
+    "based on children's book",
+    "mourning",
+    "mysterious",
+    "thoughtful",
+    "somber",
+    "philosophical",
+    "reflective",
+    "complex",
+    "wonder",
+    "playful",
+    "introspective",
+    "3d animation",
+    "inspirational",
+    "grand",
+    "intimate",
+    "joyous",
+    "dramatic",
+    "suspenseful",
+    "sentimental",
+    "witty",
+    "intense",
+    "romantic",
+    "admiring",
+    "adoring",
+    "amused",
+    "appreciative",
+    "approving",
+    "awestruck",
+    "bold",
+    "celebratory",
+    "comforting",
+    "compassionate",
+    "complicated",
+    "enthusiastic",
+    "exuberant",
+    "optimistic",
+    "powerful",
+    "sincere",
+    "sympathetic",
+    "vibrant"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T01:30:51+00:00"
+}
