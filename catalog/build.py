@@ -78,8 +78,24 @@ def should_fetch(path, now):
         return True
     try:
         saved = json.loads(path.read_text(encoding="utf-8"))
-        return should_refresh(saved, now)
-    except (OSError, ValueError, TypeError):
+        if should_refresh(saved, now):
+            return True
+        # A newer reviewed guide takes priority immediately, even if the
+        # existing generic advisory is only hours old. No pointless
+        # recompilation after the exact reviewed edition has been saved.
+        checked = compile_featured(
+            int(saved.get("tmdb_id") or 0),
+            str(saved.get("title") or ""),
+            str(saved.get("year") or ""),
+        )
+        if checked is not None:
+            descriptions, evidence = checked
+            return (
+                saved.get("content_descriptors") != descriptions
+                or saved.get("category_evidence") != evidence
+            )
+        return False
+    except (OSError, ValueError, TypeError, KeyError):
         return True
 
 

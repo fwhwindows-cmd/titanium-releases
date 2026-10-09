@@ -121,3 +121,9 @@ def compile_featured(movie_id, title, year):
         for name in CATEGORIES
     }
     return descriptions, evidence
+
+
+# Source-checked 2026 releases; exact TMDB ID, title and year still required.
+from recent_reviews import RECENT_SOURCES, RECENT_FEATURED
+SOURCES.update(RECENT_SOURCES)
+FEATURED.update(RECENT_FEATURED)
