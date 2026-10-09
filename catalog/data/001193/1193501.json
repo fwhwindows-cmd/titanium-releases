@@ -1,0 +1,95 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1193501,
+  "imdb_id": "tt29550683",
+  "title": "Whistle",
+  "year": "2026",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.3,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Horror, violence, graphic injury detail & drug use",
+  "advisory_tags": [
+    "VIOLENCE",
+    "GORE",
+    "DRUG USE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "high school",
+    "grave",
+    "evil spirit",
+    "school",
+    "death",
+    "whistle",
+    "based on short story",
+    "supernatural horror",
+    "cautionary",
+    "cursed object",
+    "teen horror",
+    "horror",
+    "straightforward"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports blood, gore or injury detail.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GORE",
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "supernatural horror",
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:33:34+00:00"
+}

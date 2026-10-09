@@ -1,0 +1,107 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 792293,
+  "imdb_id": "tt13957560",
+  "title": "Dumb Money",
+  "year": "2023",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.679,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sexual references and offensive language",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "massachusetts",
+    "manipulation of the media",
+    "based on true story",
+    "securities, stocks and bonds",
+    "stock price",
+    "social media",
+    "stock market",
+    "meditative",
+    "dramedy",
+    "philosophical",
+    "investing",
+    "investment",
+    "stockholder",
+    "stock swindle",
+    "insider trading",
+    "vlogger",
+    "brother brother relationship",
+    "internet scam",
+    "social media influencer",
+    "finance trading",
+    "inspirational",
+    "critical",
+    "internet personality",
+    "intense",
+    "gamestop",
+    "audacious",
+    "defiant",
+    "dignified",
+    "earnest",
+    "instructive",
+    "powerful",
+    "urgent",
+    "2020s"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:28:51+00:00"
+}

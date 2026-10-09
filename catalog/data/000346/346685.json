@@ -1,0 +1,105 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 346685,
+  "imdb_id": "tt3631112",
+  "title": "The Girl on the Train",
+  "year": "2016",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.44,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, Suicide, Offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "infidelity",
+    "new york city",
+    "amnesia",
+    "based on novel or book",
+    "obsession",
+    "homicide",
+    "blackout",
+    "alcoholism",
+    "flashback",
+    "confusion",
+    "memory loss",
+    "domestic abuse",
+    "disappearance",
+    "female protagonist",
+    "psychological thriller",
+    "train",
+    "divorcee",
+    "missing person",
+    "police investigation",
+    "ex-husband ex-wife relationship",
+    "unreliable narrator",
+    "voyeurism",
+    "abuse",
+    "alcoholics anonymous"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — TMDB lists alcohol misuse among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "alcohol misuse"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:33:07+00:00"
+}

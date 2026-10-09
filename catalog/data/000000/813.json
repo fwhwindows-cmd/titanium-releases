@@ -1,0 +1,104 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 813,
+  "imdb_id": "tt0080339",
+  "title": "Airplane!",
+  "year": "1980",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.307,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sexual references",
+  "advisory_tags": [
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "chicago, illinois",
+    "post-traumatic stress disorder (ptsd)",
+    "airplane",
+    "cataclysm",
+    "nun",
+    "guitar",
+    "alcohol",
+    "stewardess",
+    "taxi driver",
+    "passenger",
+    "fear of flying",
+    "pilot",
+    "medicine",
+    "air controller",
+    "landing",
+    "saxophone",
+    "autopilot",
+    "parody",
+    "spoof",
+    "food poisoning",
+    "los angeles, california",
+    "alcohol abuse",
+    "aftercreditsstinger",
+    "disaster movie",
+    "inflatable life raft",
+    "anarchic comedy",
+    "anxious",
+    "farce",
+    "dignified"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists abuse among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists alcohol among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "alcohol"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 2,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:28:51+00:00"
+}

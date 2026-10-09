@@ -1,0 +1,121 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 616820,
+  "imdb_id": "tt10665342",
+  "title": "Halloween Ends",
+  "year": "2022",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, offensive language and cruelty",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "mask",
+    "sadism",
+    "radio station",
+    "psychopath",
+    "homicide",
+    "insanity",
+    "trauma",
+    "halloween",
+    "forbidden love",
+    "babysitter",
+    "illinois",
+    "bullying",
+    "sequel",
+    "halloween party",
+    "rampage",
+    "serial killer",
+    "slasher",
+    "accidental death",
+    "multiple stabbings",
+    "motorcycle",
+    "stabbing",
+    "sewer",
+    "evil",
+    "death of son",
+    "reboot",
+    "homeless man",
+    "mentor protégé relationship",
+    "autumn",
+    "halloween costume",
+    "grieving father",
+    "memoir",
+    "murder spree",
+    "human monster",
+    "death of a child",
+    "doomed romance",
+    "sadistic killer",
+    "grandmother granddaughter relationship",
+    "masked killer",
+    "junkyard",
+    "holiday horror"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — TMDB lists trauma, bullying among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma",
+        "bullying"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 2,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:27:55+00:00"
+}

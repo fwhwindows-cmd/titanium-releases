@@ -1,0 +1,105 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 620,
+  "imdb_id": "tt0087332",
+  "title": "Ghostbusters",
+  "year": "1984",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Coarse language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new york city",
+    "environmental protection agency",
+    "library",
+    "supernatural",
+    "halloween",
+    "ghostbuster",
+    "paranormal phenomena",
+    "loser",
+    "slime",
+    "gatekeeper",
+    "nerd",
+    "giant monster",
+    "haunting",
+    "hybrid",
+    "possession",
+    "mythology",
+    "horror spoof",
+    "paranormal investigation",
+    "urban setting",
+    "super power",
+    "receptionist",
+    "world trade center",
+    "ghost",
+    "nostalgic",
+    "duringcreditsstinger",
+    "fighting supernatural",
+    "satirical",
+    "ghostbusters",
+    "monsters",
+    "witty",
+    "amused",
+    "enchant"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:29:19+00:00"
+}

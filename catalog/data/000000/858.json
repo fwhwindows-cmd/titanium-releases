@@ -1,0 +1,94 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 858,
+  "imdb_id": "tt0108160",
+  "title": "Sleepless in Seattle",
+  "year": "1993",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.7,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Coarse language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new year's eve",
+    "new york city",
+    "journalist",
+    "friendship",
+    "lovesickness",
+    "airplane",
+    "love of one's life",
+    "unsociability",
+    "parent child relationship",
+    "loss of loved one",
+    "radio station",
+    "radio presenter",
+    "christmas party",
+    "seattle, washington",
+    "baltimore, usa",
+    "fiancé",
+    "radio",
+    "radio transmission",
+    "love",
+    "valentine's day",
+    "woman director",
+    "empire state building",
+    "adoring"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:31:57+00:00"
+}

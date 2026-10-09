@@ -1,0 +1,102 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 82507,
+  "imdb_id": "tt1922777",
+  "title": "Sinister",
+  "year": "2012",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.873,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Horror scenes & violence",
+  "advisory_tags": [
+    "VIOLENCE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "drowning",
+    "pennsylvania, usa",
+    "writing",
+    "child murder",
+    "snuff",
+    "tape",
+    "home movie footage",
+    "murder",
+    "massacre",
+    "power outage",
+    "held captive",
+    "hanging",
+    "death",
+    "car fire",
+    "novelist",
+    "attic",
+    "occult",
+    "super 8mm footage",
+    "found footage",
+    "moving in",
+    "book writing",
+    "supernatural horror",
+    "sinister",
+    "ominous"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:33:14+00:00"
+}

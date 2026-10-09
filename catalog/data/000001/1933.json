@@ -1,0 +1,99 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1933,
+  "imdb_id": "tt0230600",
+  "title": "The Others",
+  "year": "2001",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.619,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Nudity, Offensive language, Sexual themes",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "NUDITY",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "nightmare",
+    "suicide attempt",
+    "shotgun",
+    "servant",
+    "cemetery",
+    "world war ii",
+    "nanny",
+    "haunted house",
+    "channel islands",
+    "female protagonist",
+    "mansion",
+    "soldier",
+    "gardener",
+    "photosensitivity",
+    "1940s",
+    "dreary",
+    "jersey island",
+    "baffled",
+    "supernatural thriller"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists nightmares among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — TMDB lists suicide among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY",
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "nightmares"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "suicide"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 2,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:30:13+00:00"
+}

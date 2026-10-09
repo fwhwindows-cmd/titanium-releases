@@ -1,0 +1,115 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 850165,
+  "imdb_id": "tt21064584",
+  "title": "The Iron Claw",
+  "year": "2023",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.5,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language, drug use, sex scenes, and suicide",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE",
+    "SELF-HARM"
+  ],
+  "keywords": [
+    "sports",
+    "1970s",
+    "texas",
+    "wrestling",
+    "brotherhood",
+    "biography",
+    "dallas, texas",
+    "based on true story",
+    "dysfunctional family",
+    "family relationships",
+    "grief",
+    "tragedy",
+    "curse",
+    "historical",
+    "family",
+    "death",
+    "mental illness",
+    "overbearing father",
+    "mourning",
+    "death of brother",
+    "1980s",
+    "grim",
+    "family legacy",
+    "brothers",
+    "period piece",
+    "cerebral",
+    "intimate",
+    "depressing",
+    "adoring",
+    "compassionate",
+    "powerful",
+    "tragic"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SELF-HARM"
+      ],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 5,
+    "thematic_categories": 0,
+    "unknown_categories": 1,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:28:03+00:00"
+}

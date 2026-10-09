@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 627,
+  "imdb_id": "tt0117951",
+  "title": "Trainspotting",
+  "year": "1996",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "drug dealer",
+    "friendship",
+    "london, england",
+    "drug abuse",
+    "based on novel or book",
+    "scotland",
+    "heroin",
+    "drug addiction",
+    "anti hero",
+    "junkie",
+    "nightclub",
+    "cold turkey",
+    "dark comedy",
+    "edinburgh, scotland",
+    "modern society",
+    "hallucination",
+    "surrealism",
+    "addiction",
+    "stealing",
+    "drug rehabilitation",
+    "drug dealing",
+    "drugs",
+    "schoolgirl",
+    "recovering addict",
+    "illegal drugs",
+    "social realism",
+    "shocking",
+    "drug culture",
+    "excited"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — TMDB lists heroin, drug addiction, drug dealing among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "heroin",
+        "drug addiction",
+        "drug dealing"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:33:19+00:00"
+}

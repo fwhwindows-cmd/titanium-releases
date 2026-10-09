@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 791177,
+  "imdb_id": "tt10168670",
+  "title": "Bones and All",
+  "year": "2022",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Bloody violence and content that may disturb",
+  "advisory_tags": [
+    "VIOLENCE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "sense of guilt",
+    "affectation",
+    "homelessness",
+    "addiction",
+    "road trip",
+    "love",
+    "interracial romance",
+    "teenage girl",
+    "family abandonment",
+    "cannibal",
+    "guilt",
+    "sensuality",
+    "first love",
+    "pickup truck",
+    "flesh eating",
+    "road movie",
+    "genre bending",
+    "dark secret",
+    "1980s",
+    "american midwest",
+    "abandonment",
+    "romantic thriller",
+    "estranged mother",
+    "brother sister relationship",
+    "love story",
+    "body horror",
+    "intimate",
+    "suspenseful",
+    "sentimental",
+    "brutal violence"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:27:58+00:00"
+}

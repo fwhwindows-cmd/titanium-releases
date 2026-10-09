@@ -1,0 +1,111 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 495764,
+  "imdb_id": "tt7713068",
+  "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+  "year": "2020",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 6.9,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, cruelty, offensive language & sexual references",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "police",
+    "pickpocket",
+    "chase",
+    "psychopath",
+    "superhero",
+    "nightclub",
+    "dark comedy",
+    "gang leader",
+    "based on comic",
+    "breaking the fourth wall",
+    "betrayal",
+    "vigilante",
+    "mobster",
+    "organized crime",
+    "shootout",
+    "female protagonist",
+    "orphan",
+    "criminal",
+    "police officer",
+    "police detective",
+    "spin off",
+    "death of family",
+    "crime family",
+    "female police officer",
+    "woman director",
+    "hand to hand combat",
+    "vigilantism",
+    "dc extended universe (dceu)",
+    "supernatural power",
+    "betrayal of trust",
+    "vigilante justice",
+    "bewildered"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists organised crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "organised crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:31:45+00:00"
+}

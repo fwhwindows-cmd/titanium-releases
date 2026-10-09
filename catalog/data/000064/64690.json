@@ -1,0 +1,98 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 64690,
+  "imdb_id": "tt0780504",
+  "title": "Drive",
+  "year": "2011",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.583,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence & offensive language",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "robbery",
+    "car mechanic",
+    "stuntman",
+    "beaten to death",
+    "revenge",
+    "organized crime",
+    "neighbor",
+    "police chase",
+    "los angeles, california",
+    "brutality",
+    "jacket",
+    "scorpion",
+    "toothpick",
+    "getaway driver",
+    "crime lord",
+    "stunt driver",
+    "existentialism",
+    "neo-noir",
+    "vindictive",
+    "hammer",
+    "bold"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists revenge, organised crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge",
+        "organised crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:30:36+00:00"
+}

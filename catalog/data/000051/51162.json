@@ -1,0 +1,88 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 51162,
+  "imdb_id": "tt1449283",
+  "title": "Winnie the Pooh",
+  "year": "2011",
+  "certification": "U",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.9,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence, offensive language and cruelty",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "tiger",
+    "donkey",
+    "cartoon",
+    "piglet",
+    "rabbit",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "pooh",
+    "winnie",
+    "kangaroo",
+    "hand drawn animation",
+    "playful",
+    "cartoon animal",
+    "owl"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:29:26+00:00"
+}

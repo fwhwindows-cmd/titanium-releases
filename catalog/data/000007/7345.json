@@ -1,0 +1,111 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 7345,
+  "imdb_id": "tt0469494",
+  "title": "There Will Be Blood",
+  "year": "2007",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.062,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & content that may disturb",
+  "advisory_tags": [
+    "VIOLENCE",
+    "FRIGHTENING SCENES"
+  ],
+  "keywords": [
+    "california",
+    "petrol",
+    "sibling relationship",
+    "based on novel or book",
+    "capitalism",
+    "pastor",
+    "deaf-mute",
+    "greed",
+    "american dream",
+    "narcissism",
+    "fanatic",
+    "father",
+    "baptism",
+    "misanthrophy",
+    "money",
+    "oil",
+    "religion",
+    "impostor",
+    "church",
+    "alcoholic",
+    "oil industry",
+    "child abandonment",
+    "character study",
+    "zealot",
+    "bowling alley",
+    "sign languages",
+    "oil field",
+    "turn of the century",
+    "19th century",
+    "adopted son",
+    "1900s",
+    "personality change",
+    "pipeline",
+    "20th century",
+    "1890s",
+    "commanding",
+    "exhilarated"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "FRIGHTENING SCENES"
+      ],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:28:53+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1327862,
+  "imdb_id": "tt33088452",
+  "title": "Regretting You",
+  "year": "2025",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.08,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Drug use, sex scenes, sexual references & offensive language",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "high school",
+    "based on novel or book",
+    "aunt niece relationship",
+    "north carolina",
+    "death of father",
+    "car crash",
+    "underage drinking",
+    "tragedy",
+    "family drama",
+    "death of husband",
+    "underage smoking",
+    "death of wife",
+    "complex relationship",
+    "mother daughter relationship",
+    "sister sister relationship",
+    "grandfather grandson relationship",
+    "2000s",
+    "high school romance",
+    "loss of husband",
+    "cinephile",
+    "admiring",
+    "adoring",
+    "amused",
+    "bold",
+    "exhilarated",
+    "marijuana use",
+    "loss of father"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "drinking",
+        "smoking"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:32:00+00:00"
+}

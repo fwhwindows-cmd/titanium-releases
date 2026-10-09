@@ -1,0 +1,89 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1117898,
+  "imdb_id": "tt2321555",
+  "title": "The Cat in the Hat",
+  "year": "2026",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 0.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Guns n' Roses: Sex n' Drugs n' Rock n' Roll",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "sibling relationship",
+    "based on novel or book",
+    "hat",
+    "cat",
+    "based on children's book",
+    "goldfish",
+    "new town",
+    "talking cat",
+    "talking fish",
+    "lighthearted",
+    "absurd",
+    "cheer up",
+    "hilarious",
+    "whimsical",
+    "ridiculous"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:33:10+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 840430,
+  "imdb_id": "tt14849194",
+  "title": "The Holdovers",
+  "year": "2023",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.6,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "vietnam war",
+    "winter",
+    "boarding school",
+    "holiday",
+    "boston, massachusetts",
+    "1970s",
+    "melancholy",
+    "alcoholism",
+    "grief",
+    "misfit",
+    "mental illness",
+    "teacher student relationship",
+    "new england",
+    "boys' boarding school",
+    "christmas",
+    "winter break",
+    "troubled youth",
+    "loss of son",
+    "christmastime",
+    "cook",
+    "adoring",
+    "peaceful"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — TMDB lists alcohol misuse among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "alcohol misuse"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:29:21+00:00"
+}

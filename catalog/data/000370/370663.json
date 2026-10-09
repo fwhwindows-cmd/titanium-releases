@@ -1,0 +1,85 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 370663,
+  "imdb_id": "tt5073620",
+  "title": "Below Her Mouth",
+  "year": "2017",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 6.8,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "sexual identity",
+    "infidelity",
+    "female friendship",
+    "love",
+    "lesbian relationship",
+    "female protagonist",
+    "love affair",
+    "lust",
+    "lesbian sex",
+    "sexual desire",
+    "lgbt",
+    "woman director",
+    "erotic movie",
+    "gender identity",
+    "lesbian",
+    "girls' love (gl)"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — TMDB lists erotic themes among this film's story themes; specific scenes are unverified.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "erotic themes"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:31:31+00:00"
+}

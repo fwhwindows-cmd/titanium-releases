@@ -1,0 +1,89 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 635302,
+  "imdb_id": "tt11032374",
+  "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+  "year": "2020",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 8.2,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "fight",
+    "magic",
+    "supernatural",
+    "psychology",
+    "gore",
+    "sequel",
+    "coming of age",
+    "survival",
+    "tragedy",
+    "based on manga",
+    "demon",
+    "historical",
+    "family",
+    "mutilation",
+    "dark fantasy",
+    "shounen",
+    "anime",
+    "taisho period"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists fighting, gore, mutilation among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "fighting",
+        "gore",
+        "mutilation"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:29:44+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1567605,
+  "imdb_id": "tt38773219",
+  "title": "Ebenezer",
+  "year": "2026",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 0.0,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Low level violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "london, england",
+    "based on novel or book",
+    "holiday",
+    "redemption",
+    "spirit",
+    "gothic",
+    "ghost",
+    "dark fantasy",
+    "christmas",
+    "19th century",
+    "self reflection",
+    "victorian era",
+    "scrooge",
+    "gothic fantasy",
+    "search for happiness"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:31:27+00:00"
+}

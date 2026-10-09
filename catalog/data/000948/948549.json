@@ -1,0 +1,121 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 948549,
+  "imdb_id": "tt19637052",
+  "title": "Love Lies Bleeding",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.6,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Brutal violence, domestic abuse, sex scenes, drug use, and offensive language",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "homicide",
+    "blackmail",
+    "fbi",
+    "new mexico",
+    "eroticism",
+    "bisexuality",
+    "american dream",
+    "addiction",
+    "bodybuilder",
+    "steroids",
+    "murder",
+    "dirty cop",
+    "female protagonist",
+    "las vegas",
+    "brutality",
+    "crime family",
+    "gym",
+    "lgbt",
+    "estranged father",
+    "fitness",
+    "woman director",
+    "albuquerque, new mexico",
+    "vexed",
+    "neo-noir",
+    "female bodybuilder",
+    "frantic",
+    "1980s",
+    "abusive husband",
+    "shooting range",
+    "father daughter relationship",
+    "lesbian",
+    "body horror",
+    "audacious",
+    "commanding",
+    "exhilarated",
+    "exuberant"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice reports graphic violence.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "murder",
+        "shootings"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 4,
+    "thematic_categories": 1,
+    "unknown_categories": 1,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:31:26+00:00"
+}

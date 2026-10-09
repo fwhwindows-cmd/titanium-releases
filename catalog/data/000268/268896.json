@@ -1,0 +1,120 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 268896,
+  "imdb_id": "tt2557478",
+  "title": "Pacific Rim: Uprising",
+  "year": "2018",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.1,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "mind control",
+    "race against time",
+    "japan",
+    "army",
+    "monster",
+    "artificial intelligence (a.i.)",
+    "saving the world",
+    "cadet",
+    "military officer",
+    "evacuation",
+    "giant monster",
+    "duty",
+    "military base",
+    "damage",
+    "dormitory",
+    "mad scientist",
+    "portal",
+    "rivalry",
+    "sequel",
+    "alien",
+    "coming of age",
+    "futuristic",
+    "mecha",
+    "giant robot",
+    "mind reading",
+    "tokyo, japan",
+    "creature",
+    "robot",
+    "scientist",
+    "criminal",
+    "one against many",
+    "combat",
+    "blizzard",
+    "female fighter",
+    "kaiju",
+    "transforming robot",
+    "alien monster",
+    "teenage hero",
+    "mental link",
+    "mass destruction",
+    "humanoid robot",
+    "robot suits",
+    "female warrior",
+    "aircraft",
+    "laser beam",
+    "mass evacuation",
+    "mount fuji, japan",
+    "computer hacker",
+    "disapproving"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:30:38+00:00"
+}

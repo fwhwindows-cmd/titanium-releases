@@ -1,0 +1,107 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1572,
+  "imdb_id": "tt0112864",
+  "title": "Die Hard: With a Vengeance",
+  "year": "1995",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.3,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new york city",
+    "taxi",
+    "gold",
+    "helicopter",
+    "robbery",
+    "police",
+    "bomb",
+    "riddle",
+    "detective",
+    "fbi",
+    "sequel",
+    "flashback",
+    "revenge",
+    "shootout",
+    "explosion",
+    "nypd",
+    "cargo ship",
+    "wild goose chase",
+    "simon says",
+    "dump truck",
+    "harlem, new york city",
+    "aqueduct",
+    "bomb threat",
+    "action hero",
+    "deadly game",
+    "federal reserve bank",
+    "nyc subway",
+    "assertive",
+    "excited"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — The available classification advice reports some language concerns.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists threat among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "threat"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 2,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:32:20+00:00"
+}

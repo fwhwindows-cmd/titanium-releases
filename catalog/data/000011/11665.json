@@ -1,0 +1,96 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 11665,
+  "imdb_id": "tt0425061",
+  "title": "Get Smart",
+  "year": "2008",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.219,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "dancing",
+    "mission",
+    "usa president",
+    "washington dc, usa",
+    "airplane",
+    "undercover agent",
+    "spy",
+    "sarcasm",
+    "bakery",
+    "los angeles, california",
+    "terrorism",
+    "secret service",
+    "government agent",
+    "weight loss",
+    "secret headquarters",
+    "world domination",
+    "moscow, russia",
+    "hand to hand combat",
+    "field agent",
+    "ineptitude",
+    "vice president",
+    "criminal organization",
+    "homeland security",
+    "spycraft",
+    "based on tv series"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 0,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-09T13:32:16+00:00"
+}
