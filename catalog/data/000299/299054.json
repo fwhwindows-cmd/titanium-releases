@@ -21,9 +21,9 @@
     "ring"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Classification advice mentions bloody violence.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
@@ -34,7 +34,11 @@
       "advisory_tags": [
         "VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "bloody violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "unknown",
@@ -46,7 +50,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -65,6 +73,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -74,5 +83,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:23:06+00:00"
+  "checked_at": "2026-10-10T19:25:18+00:00"
 }

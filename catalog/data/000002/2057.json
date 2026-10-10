@@ -25,7 +25,7 @@
   ],
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
@@ -46,6 +46,10 @@
       ],
       "keywords": [
         "erotic themes"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
       ]
     },
     "Profanity": {
@@ -70,6 +74,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -79,5 +84,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:26:15+00:00"
+  "checked_at": "2026-10-10T19:25:09+00:00"
 }

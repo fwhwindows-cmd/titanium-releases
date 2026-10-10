@@ -6,7 +6,7 @@
   "year": "2001",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.3,
+  "vote_average": 6.313,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Horror scenes & violence",
@@ -43,7 +43,7 @@
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
     "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
   ],
   "category_evidence": {
@@ -79,6 +79,10 @@
       ],
       "keywords": [
         "horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
@@ -90,6 +94,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -99,5 +104,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:23:10+00:00"
+  "checked_at": "2026-10-10T19:24:04+00:00"
 }

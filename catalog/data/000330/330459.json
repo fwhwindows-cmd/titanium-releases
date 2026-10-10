@@ -6,7 +6,7 @@
   "year": "2016",
   "certification": "12",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.511,
+  "vote_average": 7.5,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence",
@@ -75,6 +75,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -84,5 +85,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:22:11+00:00"
+  "checked_at": "2026-10-10T19:23:20+00:00"
 }

@@ -1,0 +1,79 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 107985,
+  "imdb_id": "tt1213663",
+  "title": "The World's End",
+  "year": "2013",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.814,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "addiction",
+    "alcoholism",
+    "end of the world",
+    "apocalypse",
+    "homage",
+    "pub",
+    "hilarious",
+    "pub crawl",
+    "cornetto trilogy"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists alcohol misuse among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "alcohol misuse"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T19:25:32+00:00"
+}

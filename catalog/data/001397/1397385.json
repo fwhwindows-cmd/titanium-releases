@@ -1,0 +1,90 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1397385,
+  "imdb_id": "tt34888871",
+  "title": "Little Brother",
+  "year": "2026",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.373,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex scenes and drug use",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "real estate agent",
+    "little brother",
+    "reality show",
+    "adoring",
+    "amused",
+    "compassionate",
+    "big brother program"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T19:26:17+00:00"
+}

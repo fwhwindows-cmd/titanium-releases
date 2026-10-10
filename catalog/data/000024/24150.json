@@ -1,0 +1,114 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 24150,
+  "imdb_id": "tt1311067",
+  "title": "Halloween II",
+  "year": "2009",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 5.3,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence & sex scenes",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "post-traumatic stress disorder (ptsd)",
+    "nurse",
+    "therapist",
+    "loss of loved one",
+    "shotgun",
+    "insanity",
+    "trauma",
+    "pentagram",
+    "halloween",
+    "barn",
+    "female friendship",
+    "sequel",
+    "remake",
+    "rampage",
+    "purgatory",
+    "mental institution",
+    "hospital",
+    "slasher",
+    "murderer",
+    "reboot",
+    "white horse",
+    "duringcreditsstinger",
+    "sinister",
+    "holiday horror",
+    "gloomy",
+    "mean spirited",
+    "splatter horror"
+  ],
+  "content_descriptors": [
+    "Violence — Classification advice mentions graphic violence.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — TMDB lists trauma among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 2,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T19:26:41+00:00"
+}

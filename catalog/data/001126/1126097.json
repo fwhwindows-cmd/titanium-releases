@@ -22,9 +22,9 @@
   ],
   "content_descriptors": [
     "Violence — Information not available",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
   ],
@@ -39,21 +39,33 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
     },
     "Profanity": {
       "basis": "source_advisory",
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "source_advisory",
       "advisory_tags": [
         "DRUG USE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "unknown",
@@ -67,6 +79,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -76,5 +89,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:24:21+00:00"
+  "checked_at": "2026-10-10T19:26:53+00:00"
 }

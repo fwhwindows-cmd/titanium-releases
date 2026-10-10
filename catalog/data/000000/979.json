@@ -1,0 +1,132 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 979,
+  "imdb_id": "tt0290673",
+  "title": "Irreversible",
+  "year": "2002",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.2,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Contains brutal sexual violence, graphic violence & sex scenes. Strobe lighting & sound effects may affect some people",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "prostitute",
+    "rape",
+    "paris, france",
+    "police",
+    "nihilism",
+    "homophobia",
+    "homicide",
+    "insanity",
+    "heroin",
+    "celibacy",
+    "trauma",
+    "assault",
+    "masochism",
+    "gore",
+    "knife",
+    "violence against women",
+    "love",
+    "revenge",
+    "fear",
+    "cruelty",
+    "brutality",
+    "drugs",
+    "evil",
+    "boyfriend",
+    "lgbt",
+    "misogyny",
+    "debauchery",
+    "degeneration",
+    "disfigurement",
+    "rape and revenge",
+    "dehumanization",
+    "new french extremism",
+    "altruism",
+    "depressing",
+    "defiant"
+  ],
+  "content_descriptors": [
+    "Violence — Classification advice mentions graphic violence, sexual violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence, sex scenes.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — TMDB lists heroin among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Classification advice mentions sexual violence."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "gore",
+        "violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence",
+        "sexual violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "sex scenes"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "heroin"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma",
+        "revenge"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T19:25:45+00:00"
+}

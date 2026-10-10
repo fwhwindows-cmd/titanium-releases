@@ -6,7 +6,7 @@
   "year": "2015",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 5.389,
+  "vote_average": 5.4,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence, sexual violence, offensive language, sex scenes & content that may disturb",
@@ -36,12 +36,12 @@
     "married man"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Violence — Classification advice mentions sexual violence, violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence, sex scenes.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
-    "Mature Content & Themes — Information not available"
+    "Mature Content & Themes — Classification advice mentions sexual violence."
   ],
   "category_evidence": {
     "Violence": {
@@ -51,6 +51,11 @@
       ],
       "keywords": [
         "torture"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "violence"
       ]
     },
     "Sex & Nudity": {
@@ -60,6 +65,11 @@
       ],
       "keywords": [
         "erotic themes"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "sex scenes"
       ]
     },
     "Profanity": {
@@ -67,7 +77,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -82,20 +96,25 @@
       "keywords": []
     },
     "Mature Content & Themes": {
-      "basis": "unknown",
+      "basis": "source_advisory",
       "advisory_tags": [],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 4,
+    "source_tagged_categories": 5,
     "thematic_categories": 0,
-    "unknown_categories": 2,
+    "unknown_categories": 1,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:23:11+00:00"
+  "checked_at": "2026-10-10T19:23:04+00:00"
 }

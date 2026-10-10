@@ -6,7 +6,7 @@
   "year": "2023",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.4,
+  "vote_average": 6.368,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Offensive language, sexual references & content that may disturb",
@@ -35,8 +35,8 @@
   ],
   "content_descriptors": [
     "Violence — Information not available",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Sex & Nudity — Classification advice mentions sexual references.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
     "Mature Content & Themes — Information not available"
@@ -52,14 +52,22 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual references"
+      ]
     },
     "Profanity": {
       "basis": "source_advisory",
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -80,6 +88,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -89,5 +98,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:27:06+00:00"
+  "checked_at": "2026-10-10T19:23:43+00:00"
 }

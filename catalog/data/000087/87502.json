@@ -1,0 +1,114 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 87502,
+  "imdb_id": "tt1907668",
+  "title": "Flight",
+  "year": "2012",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.866,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language, drug use & sexual themes",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "airplane",
+    "confession",
+    "investigation",
+    "pilot",
+    "emergency landing",
+    "flight",
+    "alcoholism",
+    "f word",
+    "hangover",
+    "airplane accident",
+    "airplane crash",
+    "syringe",
+    "denial",
+    "baseball stadium",
+    "perjury",
+    "national transportation safety board",
+    "flying upside down",
+    "narcissist",
+    "relapse",
+    "substance abuse",
+    "hard",
+    "cautionary",
+    "inspirational",
+    "dramatic"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists abuse among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "alcohol misuse"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T19:26:53+00:00"
+}

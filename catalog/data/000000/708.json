@@ -6,7 +6,7 @@
   "year": "1987",
   "certification": "PG",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.6,
+  "vote_average": 6.554,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
@@ -88,6 +88,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "thematic",
     "detailed_categories": 0,
@@ -97,5 +98,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:23:50+00:00"
+  "checked_at": "2026-10-10T19:25:58+00:00"
 }

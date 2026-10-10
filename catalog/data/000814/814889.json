@@ -28,8 +28,8 @@
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
+    "Mature Content & Themes — Classification advice mentions suicide."
   ],
   "category_evidence": {
     "Violence": {
@@ -62,6 +62,10 @@
       "keywords": [
         "supernatural horror",
         "psychological horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
@@ -69,10 +73,15 @@
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "suicide"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -82,5 +91,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:23:42+00:00"
+  "checked_at": "2026-10-10T19:25:27+00:00"
 }

@@ -6,7 +6,7 @@
   "year": "2019",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.5,
+  "vote_average": 6.533,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence, drug use & offensive language",
@@ -36,10 +36,10 @@
     "protective guardian"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
   ],
@@ -51,6 +51,10 @@
       ],
       "keywords": [
         "violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -63,14 +67,22 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "source_advisory",
       "advisory_tags": [
         "DRUG USE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "unknown",
@@ -86,6 +98,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -95,5 +108,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:32:54+00:00"
+  "checked_at": "2026-10-10T19:21:50+00:00"
 }

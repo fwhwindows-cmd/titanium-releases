@@ -1,0 +1,99 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 241,
+  "imdb_id": "tt0110632",
+  "title": "Natural Born Killers",
+  "year": "1994",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.048,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Graphic violence",
+  "advisory_tags": [
+    "GRAPHIC VIOLENCE"
+  ],
+  "keywords": [
+    "daughter",
+    "journalist",
+    "sadistic",
+    "mass murder",
+    "yellow press",
+    "pop culture",
+    "trauma",
+    "controversy",
+    "satire",
+    "young couple",
+    "abuse",
+    "anxious",
+    "killer couple",
+    "love on the run",
+    "tense",
+    "fugitive lovers",
+    "ambiguous",
+    "antagonistic"
+  ],
+  "content_descriptors": [
+    "Violence — Classification advice mentions graphic violence.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists trauma among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "GRAPHIC VIOLENCE"
+      ],
+      "keywords": [
+        "murder",
+        "abuse"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "trauma"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T19:24:33+00:00"
+}

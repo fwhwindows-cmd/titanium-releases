@@ -6,7 +6,7 @@
   "year": "2016",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.44,
+  "vote_average": 6.439,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence, Suicide, Offensive language",
@@ -44,10 +44,10 @@
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — TMDB lists alcohol misuse among this film's story themes; specific scenes are unverified.",
     "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Mature Content & Themes — Classification advice mentions suicide."
   ],
   "category_evidence": {
     "Violence": {
@@ -69,7 +69,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "tmdb_keywords",
@@ -88,10 +92,15 @@
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "suicide"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -101,5 +110,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:33:07+00:00"
+  "checked_at": "2026-10-10T19:21:18+00:00"
 }

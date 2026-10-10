@@ -1,0 +1,106 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 11452,
+  "imdb_id": "tt0283111",
+  "title": "National Lampoon's Van Wilder",
+  "year": "2002",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.1,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language, drug use & sexual content that may offend",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "college",
+    "slacker",
+    "crude humor",
+    "locker room",
+    "doggystyle",
+    "debauchery",
+    "frat party",
+    "sex comedy",
+    "flirting",
+    "exposé",
+    "pug",
+    "bon bon",
+    "fraternity pledge",
+    "fundraising",
+    "laxative",
+    "funny"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Classification advice mentions sexual material.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual material"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T19:21:15+00:00"
+}

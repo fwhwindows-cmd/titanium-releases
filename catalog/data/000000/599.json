@@ -6,7 +6,7 @@
   "year": "1950",
   "certification": "12A",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.3,
+  "vote_average": 8.274,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
@@ -74,6 +74,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "unknown",
     "detailed_categories": 0,
@@ -83,5 +84,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:23:58+00:00"
+  "checked_at": "2026-10-10T19:22:58+00:00"
 }

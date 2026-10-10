@@ -6,7 +6,7 @@
   "year": "1998",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.117,
+  "vote_average": 7.118,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence, Drug references",
@@ -31,7 +31,7 @@
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
-    "Alcohol, Drugs & Smoking — Information not available",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug references.",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — TMDB lists corruption among this film's story themes; specific scenes are unverified."
   ],
@@ -56,9 +56,13 @@
       "keywords": []
     },
     "Alcohol, Drugs & Smoking": {
-      "basis": "unknown",
+      "basis": "source_advisory",
       "advisory_tags": [],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug references"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "unknown",
@@ -74,14 +78,15 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 1,
+    "source_tagged_categories": 2,
     "thematic_categories": 1,
-    "unknown_categories": 4,
+    "unknown_categories": 3,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:32:20+00:00"
+  "checked_at": "2026-10-10T19:21:03+00:00"
 }
