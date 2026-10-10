@@ -6,12 +6,13 @@
   "year": "2019",
   "certification": "12",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.0,
+  "vote_average": 6.967,
   "matched_advisory": true,
   "source": "nz_classification",
-  "consumer_advice": "Violence",
+  "consumer_advice": "Violence & offensive language",
   "advisory_tags": [
-    "VIOLENCE"
+    "VIOLENCE",
+    "LANGUAGE"
   ],
   "keywords": [
     "philadelphia, pennsylvania",
@@ -28,7 +29,7 @@
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
-    "Profanity — Information not available",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
@@ -47,9 +48,15 @@
       "keywords": []
     },
     "Profanity": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -68,14 +75,15 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 1,
+    "source_tagged_categories": 2,
     "thematic_categories": 0,
-    "unknown_categories": 5,
+    "unknown_categories": 4,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:29:37+00:00"
+  "checked_at": "2026-10-10T13:24:13+00:00"
 }

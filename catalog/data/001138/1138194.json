@@ -6,7 +6,7 @@
   "year": "2024",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.0,
+  "vote_average": 6.965,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Bloody violence and content that may disturb",
@@ -30,7 +30,7 @@
     "psychological predator"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Classification advice mentions bloody violence.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
@@ -43,7 +43,11 @@
       "advisory_tags": [
         "VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "bloody violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "unknown",
@@ -74,6 +78,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -83,5 +88,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:30:35+00:00"
+  "checked_at": "2026-10-10T13:26:55+00:00"
 }

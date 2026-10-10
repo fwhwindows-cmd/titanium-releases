@@ -43,12 +43,12 @@
     "impartial"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Violence — Classification advice mentions sexual violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — Information not available"
+    "Mature Content & Themes — Classification advice mentions sexual violence."
   ],
   "category_evidence": {
     "Violence": {
@@ -56,7 +56,11 @@
       "advisory_tags": [
         "VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "source_advisory",
@@ -65,6 +69,10 @@
       ],
       "keywords": [
         "sexual assault"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
       ]
     },
     "Profanity": {
@@ -72,7 +80,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -85,20 +97,25 @@
       "keywords": []
     },
     "Mature Content & Themes": {
-      "basis": "unknown",
+      "basis": "source_advisory",
       "advisory_tags": [],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 3,
+    "source_tagged_categories": 4,
     "thematic_categories": 0,
-    "unknown_categories": 3,
+    "unknown_categories": 2,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:32:36+00:00"
+  "checked_at": "2026-10-10T13:27:55+00:00"
 }

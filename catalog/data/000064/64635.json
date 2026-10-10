@@ -6,13 +6,12 @@
   "year": "2012",
   "certification": "12A",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.039,
+  "vote_average": 6.038,
   "matched_advisory": true,
   "source": "nz_classification",
-  "consumer_advice": "Violence, offensive language & nudity",
+  "consumer_advice": "Violence & offensive language",
   "advisory_tags": [
     "VIOLENCE",
-    "NUDITY",
     "LANGUAGE"
   ],
   "keywords": [
@@ -34,8 +33,8 @@
   ],
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
@@ -49,10 +48,8 @@
       "keywords": []
     },
     "Sex & Nudity": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "NUDITY"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Profanity": {
@@ -60,7 +57,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -79,14 +80,15 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 3,
+    "source_tagged_categories": 2,
     "thematic_categories": 0,
-    "unknown_categories": 3,
+    "unknown_categories": 4,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:31:05+00:00"
+  "checked_at": "2026-10-10T13:23:35+00:00"
 }

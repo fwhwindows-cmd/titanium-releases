@@ -6,7 +6,7 @@
   "year": "2008",
   "certification": "PG",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.639,
+  "vote_average": 6.6,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
@@ -16,6 +16,7 @@
     "sibling relationship",
     "based on novel or book",
     "faith",
+    "christianity",
     "allegory",
     "lion",
     "wretch",
@@ -26,12 +27,15 @@
     "sequel",
     "battle",
     "based on children's book",
+    "christ allegory",
     "fantasy world",
     "1940s",
     "high fantasy",
     "isekai",
+    "christ figure",
     "based on young adult novel",
-    "good versus evil"
+    "good versus evil",
+    "christian allegory"
   ],
   "content_descriptors": [
     "Violence — Information not available",
@@ -74,6 +78,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "unknown",
     "detailed_categories": 0,
@@ -83,5 +88,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:31:34+00:00"
+  "checked_at": "2026-10-10T13:24:42+00:00"
 }

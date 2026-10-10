@@ -6,7 +6,7 @@
   "year": "2005",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.349,
+  "vote_average": 7.3,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence, offensive language, drug use & sex scenes",
@@ -34,9 +34,9 @@
   ],
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
   ],
@@ -55,6 +55,10 @@
       ],
       "keywords": [
         "sex work"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
       ]
     },
     "Profanity": {
@@ -62,7 +66,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "source_advisory",
@@ -72,6 +80,10 @@
       "keywords": [
         "drug addiction",
         "cocaine"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
       ]
     },
     "Frightening & Intense Scenes": {
@@ -86,6 +98,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -95,5 +108,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:32:41+00:00"
+  "checked_at": "2026-10-10T13:28:49+00:00"
 }

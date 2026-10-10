@@ -6,7 +6,7 @@
   "year": "1973",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.4,
+  "vote_average": 7.414,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence",
@@ -29,7 +29,7 @@
     "crime lord"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
@@ -42,7 +42,11 @@
       "advisory_tags": [
         "GRAPHIC VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "unknown",
@@ -71,6 +75,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -80,5 +85,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:31:34+00:00"
+  "checked_at": "2026-10-10T13:23:56+00:00"
 }

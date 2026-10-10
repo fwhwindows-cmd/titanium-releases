@@ -6,7 +6,7 @@
   "year": "2024",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 5.7,
+  "vote_average": 5.73,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Sex scenes",
@@ -45,7 +45,7 @@
   ],
   "content_descriptors": [
     "Violence — Information not available",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
@@ -64,6 +64,10 @@
       ],
       "keywords": [
         "erotic themes"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
       ]
     },
     "Profanity": {
@@ -88,6 +92,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -97,5 +102,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:31:23+00:00"
+  "checked_at": "2026-10-10T13:28:25+00:00"
 }

@@ -33,12 +33,12 @@
     "chattel slavery"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Violence — Classification advice mentions graphic violence, sexual violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — TMDB lists racism among this film's story themes; specific scenes are unverified."
+    "Mature Content & Themes — Classification advice mentions sexual violence."
   ],
   "category_evidence": {
     "Violence": {
@@ -46,14 +46,23 @@
       "advisory_tags": [
         "GRAPHIC VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence",
+        "sexual violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "source_advisory",
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -71,22 +80,27 @@
       "keywords": []
     },
     "Mature Content & Themes": {
-      "basis": "tmdb_keywords",
+      "basis": "source_advisory",
       "advisory_tags": [],
       "keywords": [
         "racism"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
       ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 2,
-    "thematic_categories": 1,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
     "unknown_categories": 3,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:29:18+00:00"
+  "checked_at": "2026-10-10T13:23:28+00:00"
 }

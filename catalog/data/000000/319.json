@@ -6,7 +6,7 @@
   "year": "1993",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.5,
+  "vote_average": 7.537,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence",
@@ -43,7 +43,7 @@
     "euphoric"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — TMDB lists sex work among this film's story themes; specific scenes are unverified.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — TMDB lists cocaine among this film's story themes; specific scenes are unverified.",
@@ -59,6 +59,10 @@
       "keywords": [
         "murder",
         "gun violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -94,6 +98,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -103,5 +108,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:31:30+00:00"
+  "checked_at": "2026-10-10T13:28:52+00:00"
 }

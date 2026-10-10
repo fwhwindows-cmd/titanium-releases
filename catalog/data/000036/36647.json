@@ -6,7 +6,7 @@
   "year": "1998",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.9,
+  "vote_average": 6.858,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence",
@@ -38,7 +38,7 @@
     "good versus evil"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
@@ -53,6 +53,10 @@
       ],
       "keywords": [
         "fighting"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -84,6 +88,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -93,5 +98,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:31:24+00:00"
+  "checked_at": "2026-10-10T13:24:54+00:00"
 }

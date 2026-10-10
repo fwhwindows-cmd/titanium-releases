@@ -46,7 +46,7 @@
   ],
   "content_descriptors": [
     "Violence — TMDB lists abuse among this film's story themes; specific scenes are unverified.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Sex & Nudity — Classification advice mentions sexual references.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — TMDB lists alcohol among this film's story themes; specific scenes are unverified.",
     "Frightening & Intense Scenes — Information not available",
@@ -65,7 +65,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual references"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -91,6 +95,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -100,5 +105,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:28:51+00:00"
+  "checked_at": "2026-10-10T13:24:43+00:00"
 }

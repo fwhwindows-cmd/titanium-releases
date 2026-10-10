@@ -6,15 +6,11 @@
   "year": "2018",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.903,
-  "matched_advisory": true,
-  "source": "nz_classification",
-  "consumer_advice": "Violence, offensive language & content that may disturb",
-  "advisory_tags": [
-    "VIOLENCE",
-    "LANGUAGE",
-    "FRIGHTENING SCENES"
-  ],
+  "vote_average": 6.902,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
   "keywords": [
     "washington dc, usa",
     "based on novel or book",
@@ -37,19 +33,17 @@
     "pentagon involvement"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Information not available",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
   ],
   "category_evidence": {
     "Violence": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "VIOLENCE"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Sex & Nudity": {
@@ -58,10 +52,8 @@
       "keywords": []
     },
     "Profanity": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "LANGUAGE"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Alcohol, Drugs & Smoking": {
@@ -70,10 +62,8 @@
       "keywords": []
     },
     "Frightening & Intense Scenes": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "FRIGHTENING SCENES"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Mature Content & Themes": {
@@ -83,14 +73,15 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
-    "grade": "advisory_summary",
+    "grade": "unknown",
     "detailed_categories": 0,
-    "source_tagged_categories": 3,
+    "source_tagged_categories": 0,
     "thematic_categories": 0,
-    "unknown_categories": 3,
+    "unknown_categories": 6,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:29:33+00:00"
+  "checked_at": "2026-10-10T13:25:54+00:00"
 }

@@ -9,10 +9,10 @@
   "vote_average": 7.5,
   "matched_advisory": true,
   "source": "nz_classification",
-  "consumer_advice": "Horror scenes & violence",
+  "consumer_advice": "Content may offend - violence and/or offensive language",
   "advisory_tags": [
     "VIOLENCE",
-    "FRIGHTENING SCENES"
+    "LANGUAGE"
   ],
   "keywords": [
     "revenge",
@@ -34,9 +34,9 @@
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
-    "Profanity — Information not available",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
   ],
   "category_evidence": {
@@ -53,9 +53,15 @@
       "keywords": []
     },
     "Profanity": {
-      "basis": "unknown",
-      "advisory_tags": [],
-      "keywords": []
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -63,10 +69,8 @@
       "keywords": []
     },
     "Frightening & Intense Scenes": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "FRIGHTENING SCENES"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Mature Content & Themes": {
@@ -78,6 +82,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -87,5 +92,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:28:06+00:00"
+  "checked_at": "2026-10-10T13:24:41+00:00"
 }

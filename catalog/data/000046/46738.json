@@ -6,7 +6,7 @@
   "year": "2010",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.104,
+  "vote_average": 8.1,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence & content that may disturb",
@@ -78,6 +78,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -87,5 +88,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:32:38+00:00"
+  "checked_at": "2026-10-10T13:28:16+00:00"
 }

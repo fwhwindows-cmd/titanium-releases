@@ -6,7 +6,7 @@
   "year": "2015",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.7,
+  "vote_average": 6.661,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence, horror, sex scenes & offensive language",
@@ -35,11 +35,11 @@
     "ghoulish"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Violence — Classification advice mentions graphic violence.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
     "Mature Content & Themes — Information not available"
   ],
   "category_evidence": {
@@ -50,6 +50,10 @@
       ],
       "keywords": [
         "murder"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -57,14 +61,22 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
     },
     "Profanity": {
       "basis": "source_advisory",
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -76,7 +88,11 @@
       "advisory_tags": [
         "FRIGHTENING SCENES"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
+      ]
     },
     "Mature Content & Themes": {
       "basis": "unknown",
@@ -85,6 +101,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -94,5 +111,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:30:28+00:00"
+  "checked_at": "2026-10-10T13:25:17+00:00"
 }

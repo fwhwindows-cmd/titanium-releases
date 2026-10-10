@@ -27,9 +27,9 @@
     "Violence — Information not available",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
+    "Mature Content & Themes — Classification advice mentions suicide."
   ],
   "category_evidence": {
     "Violence": {
@@ -52,7 +52,11 @@
       "advisory_tags": [
         "DRUG USE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "source_advisory",
@@ -62,6 +66,10 @@
       "keywords": [
         "supernatural horror",
         "horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
@@ -69,10 +77,15 @@
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "suicide"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -82,5 +95,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:31:58+00:00"
+  "checked_at": "2026-10-10T13:28:05+00:00"
 }
