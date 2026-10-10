@@ -1,0 +1,103 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 3134,
+  "imdb_id": "tt0249380",
+  "title": "Baise-moi",
+  "year": "2000",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 4.8,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Frequent disturbing depictions of violence & repeated explicit sexual content & sexual violence",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "rape",
+    "nihilism",
+    "sadism",
+    "women's sexual identity",
+    "feminism",
+    "revenge",
+    "murder",
+    "woman director",
+    "depravity",
+    "new french extremism"
+  ],
+  "content_descriptors": [
+    "Violence — Classification advice mentions sexual violence, violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence, sexual material.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Classification advice mentions sexual violence."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "sexual material"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 0,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-10T07:23:55+00:00"
+}

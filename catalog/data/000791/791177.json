@@ -48,7 +48,7 @@
     "brutal violence"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Classification advice mentions bloody violence.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
@@ -63,6 +63,10 @@
       ],
       "keywords": [
         "violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "bloody violence"
       ]
     },
     "Sex & Nudity": {
@@ -96,6 +100,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -105,5 +110,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:27:58+00:00"
+  "checked_at": "2026-10-10T07:27:40+00:00"
 }

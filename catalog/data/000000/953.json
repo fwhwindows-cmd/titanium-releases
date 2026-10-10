@@ -6,7 +6,7 @@
   "year": "2005",
   "certification": "U",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.9,
+  "vote_average": 6.934,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Explicit sex scenes",
@@ -37,7 +37,7 @@
   ],
   "content_descriptors": [
     "Violence — Information not available",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
@@ -54,7 +54,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -78,6 +82,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -87,5 +92,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:26+00:00"
+  "checked_at": "2026-10-10T07:25:43+00:00"
 }

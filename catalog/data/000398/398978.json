@@ -6,7 +6,7 @@
   "year": "2019",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.6,
+  "vote_average": 7.568,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence, cruelty and offensive language",
@@ -47,7 +47,7 @@
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — TMDB lists gangster crime, organised crime, Mafia crime among this film's story themes; specific scenes are unverified."
@@ -72,7 +72,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -95,6 +99,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -104,5 +109,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:30:51+00:00"
+  "checked_at": "2026-10-10T07:28:23+00:00"
 }

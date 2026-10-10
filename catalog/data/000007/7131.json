@@ -6,7 +6,7 @@
   "year": "2004",
   "certification": "12",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.4,
+  "vote_average": 6.433,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence & horror",
@@ -36,7 +36,7 @@
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
     "Mature Content & Themes — Information not available"
   ],
   "category_evidence": {
@@ -69,6 +69,10 @@
       ],
       "keywords": [
         "horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
@@ -78,6 +82,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -87,5 +92,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:27:15+00:00"
+  "checked_at": "2026-10-10T07:24:48+00:00"
 }

@@ -6,7 +6,7 @@
   "year": "2002",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.727,
+  "vote_average": 6.728,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence & sex scenes",
@@ -25,7 +25,7 @@
   ],
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
@@ -46,6 +46,10 @@
       ],
       "keywords": [
         "erotic themes"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
       ]
     },
     "Profanity": {
@@ -70,6 +74,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -79,5 +84,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:27:46+00:00"
+  "checked_at": "2026-10-10T07:25:31+00:00"
 }

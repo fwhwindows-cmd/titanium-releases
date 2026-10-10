@@ -6,7 +6,7 @@
   "year": "2013",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.705,
+  "vote_average": 6.7,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Supernatural themes & violence",
@@ -79,6 +79,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -88,5 +89,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:26:44+00:00"
+  "checked_at": "2026-10-10T07:24:30+00:00"
 }

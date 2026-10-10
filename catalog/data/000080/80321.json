@@ -6,7 +6,7 @@
   "year": "2012",
   "certification": "PG",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.7,
+  "vote_average": 6.65,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Low level violence",
@@ -75,6 +75,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -84,5 +85,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:30+00:00"
+  "checked_at": "2026-10-10T07:25:51+00:00"
 }

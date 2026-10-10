@@ -6,7 +6,7 @@
   "year": "2003",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.8,
+  "vote_average": 6.761,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
@@ -32,7 +32,9 @@
     "computer virus",
     "virtual reality",
     "fight",
+    "faith",
     "truth",
+    "christianity",
     "philosophy",
     "key",
     "killer robot",
@@ -51,6 +53,8 @@
     "philosophical",
     "action hero",
     "gnosticism",
+    "christ figure",
+    "christian allegory",
     "excited",
     "pretentious"
   ],
@@ -97,6 +101,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "thematic",
     "detailed_categories": 0,
@@ -106,5 +111,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:37+00:00"
+  "checked_at": "2026-10-10T07:25:05+00:00"
 }

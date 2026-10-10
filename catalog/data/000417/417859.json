@@ -6,7 +6,7 @@
   "year": "2011",
   "certification": "U",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.619,
+  "vote_average": 6.6,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Low level violence",
@@ -72,6 +72,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -81,5 +82,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:26:38+00:00"
+  "checked_at": "2026-10-10T07:23:24+00:00"
 }

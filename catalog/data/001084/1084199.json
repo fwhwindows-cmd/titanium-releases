@@ -6,7 +6,7 @@
   "year": "2025",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.0,
+  "vote_average": 6.996,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence, domestic violence, cruelty and sexual references",
@@ -36,12 +36,12 @@
     "android horror"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Violence — Classification advice mentions domestic violence, violence.",
+    "Sex & Nudity — Classification advice mentions sexual references.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
-    "Mature Content & Themes — Information not available"
+    "Mature Content & Themes — Classification advice mentions domestic abuse."
   ],
   "category_evidence": {
     "Violence": {
@@ -49,14 +49,23 @@
       "advisory_tags": [
         "VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic violence",
+        "violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "source_advisory",
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual references"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -76,20 +85,25 @@
       ]
     },
     "Mature Content & Themes": {
-      "basis": "unknown",
+      "basis": "source_advisory",
       "advisory_tags": [],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic abuse"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 2,
+    "source_tagged_categories": 3,
     "thematic_categories": 1,
-    "unknown_categories": 3,
+    "unknown_categories": 2,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:38+00:00"
+  "checked_at": "2026-10-10T07:26:47+00:00"
 }

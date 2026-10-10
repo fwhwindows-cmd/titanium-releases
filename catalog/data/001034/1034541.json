@@ -59,12 +59,12 @@
     "sadistic horror"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
+    "Mature Content & Themes — Classification advice mentions self-harm."
   ],
   "category_evidence": {
     "Violence": {
@@ -76,6 +76,10 @@
         "murder",
         "gore",
         "bloody imagery"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -103,6 +107,10 @@
       "keywords": [
         "horror",
         "supernatural horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
@@ -110,10 +118,15 @@
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "self-harm"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -123,5 +136,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:27:00+00:00"
+  "checked_at": "2026-10-10T07:24:40+00:00"
 }

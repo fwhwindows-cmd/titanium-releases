@@ -40,7 +40,7 @@
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
   ],
@@ -67,7 +67,11 @@
       "advisory_tags": [
         "DRUG USE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "unknown",
@@ -81,6 +85,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -90,5 +95,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:51+00:00"
+  "checked_at": "2026-10-10T07:26:22+00:00"
 }

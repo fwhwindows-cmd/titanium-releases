@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.08,
+  "vote_average": 7.074,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Offensive language, Bloody violence",
@@ -35,9 +35,9 @@
     "loyalty conflict"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Classification advice mentions bloody violence.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
@@ -50,6 +50,10 @@
       ],
       "keywords": [
         "violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "bloody violence"
       ]
     },
     "Sex & Nudity": {
@@ -62,7 +66,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -81,6 +89,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -90,5 +99,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:30:49+00:00"
+  "checked_at": "2026-10-10T07:23:44+00:00"
 }

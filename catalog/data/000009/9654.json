@@ -6,7 +6,7 @@
   "year": "2003",
   "certification": "12A",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.801,
+  "vote_average": 6.802,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Sexual references",
@@ -43,7 +43,7 @@
   ],
   "content_descriptors": [
     "Violence — TMDB lists murder among this film's story themes; specific scenes are unverified.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Sex & Nudity — Classification advice mentions sexual references.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
@@ -62,7 +62,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual references"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -88,6 +92,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -97,5 +102,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:29:56+00:00"
+  "checked_at": "2026-10-10T07:27:41+00:00"
 }

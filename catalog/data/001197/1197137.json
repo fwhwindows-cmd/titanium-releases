@@ -6,7 +6,7 @@
   "year": "2025",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.629,
+  "vote_average": 6.6,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Horror, violence & offensive language",
@@ -50,9 +50,9 @@
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
     "Mature Content & Themes — TMDB lists child abuse among this film's story themes; specific scenes are unverified."
   ],
   "category_evidence": {
@@ -76,7 +76,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -92,6 +96,10 @@
         "supernatural horror",
         "psychological horror",
         "horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
@@ -103,6 +111,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -112,5 +121,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:18+00:00"
+  "checked_at": "2026-10-10T07:25:49+00:00"
 }

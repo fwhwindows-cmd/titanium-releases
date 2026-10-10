@@ -6,7 +6,7 @@
   "year": "2011",
   "certification": "12",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 5.2,
+  "vote_average": 5.202,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Fantasy violence",
@@ -67,6 +67,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -76,5 +77,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:27:32+00:00"
+  "checked_at": "2026-10-10T07:24:32+00:00"
 }

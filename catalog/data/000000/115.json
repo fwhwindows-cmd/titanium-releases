@@ -6,7 +6,7 @@
   "year": "1998",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.837,
+  "vote_average": 7.838,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
@@ -76,6 +76,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "unknown",
     "detailed_categories": 0,
@@ -85,5 +86,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:19+00:00"
+  "checked_at": "2026-10-10T07:24:19+00:00"
 }

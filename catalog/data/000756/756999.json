@@ -6,7 +6,7 @@
   "year": "2022",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.5,
+  "vote_average": 7.505,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Horror, violence, domestic violence, and offensive language",
@@ -39,12 +39,12 @@
     "supernatural horror"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Classification advice mentions domestic violence, violence.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
-    "Mature Content & Themes — TMDB lists child abuse, bullying among this film's story themes; specific scenes are unverified."
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
+    "Mature Content & Themes — Classification advice mentions domestic abuse."
   ],
   "category_evidence": {
     "Violence": {
@@ -54,6 +54,11 @@
       ],
       "keywords": [
         "abuse"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic violence",
+        "violence"
       ]
     },
     "Sex & Nudity": {
@@ -66,7 +71,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -80,26 +89,35 @@
       ],
       "keywords": [
         "supernatural horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
-      "basis": "tmdb_keywords",
+      "basis": "source_advisory",
       "advisory_tags": [],
       "keywords": [
         "child abuse",
         "bullying"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic abuse"
       ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 3,
-    "thematic_categories": 1,
+    "source_tagged_categories": 4,
+    "thematic_categories": 0,
     "unknown_categories": 2,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T07:28:54+00:00"
+  "checked_at": "2026-10-10T07:27:23+00:00"
 }

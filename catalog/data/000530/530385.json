@@ -6,7 +6,7 @@
   "year": "2019",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.1,
+  "vote_average": 7.146,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence, sex scenes, drug use & suicide",
@@ -43,12 +43,12 @@
     "violence"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Violence — Classification advice mentions graphic violence.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
     "Profanity — Information not available",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
     "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Mature Content & Themes — Classification advice mentions suicide."
   ],
   "category_evidence": {
     "Violence": {
@@ -58,6 +58,10 @@
       ],
       "keywords": [
         "violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -65,7 +69,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -77,7 +85,11 @@
       "advisory_tags": [
         "DRUG USE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "tmdb_keywords",
@@ -91,10 +103,15 @@
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "suicide"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -104,5 +121,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:30:45+00:00"
+  "checked_at": "2026-10-10T07:23:54+00:00"
 }
