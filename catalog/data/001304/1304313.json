@@ -9,10 +9,9 @@
   "vote_average": 7.8,
   "matched_advisory": true,
   "source": "nz_classification",
-  "consumer_advice": "Graphic violence, horror, gore & drug use",
+  "consumer_advice": "Graphic violence, horror & drug use",
   "advisory_tags": [
     "GRAPHIC VIOLENCE",
-    "GORE",
     "DRUG USE",
     "FRIGHTENING SCENES"
   ],
@@ -40,21 +39,24 @@
     "frightened"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
     "Mature Content & Themes — Information not available"
   ],
   "category_evidence": {
     "Violence": {
       "basis": "source_advisory",
       "advisory_tags": [
-        "GORE",
         "GRAPHIC VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "unknown",
@@ -71,7 +73,11 @@
       "advisory_tags": [
         "DRUG USE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "source_advisory",
@@ -80,6 +86,10 @@
       ],
       "keywords": [
         "supernatural horror",
+        "horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
         "horror"
       ]
     },
@@ -90,6 +100,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -99,5 +110,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:27:20+00:00"
+  "checked_at": "2026-10-10T01:26:48+00:00"
 }

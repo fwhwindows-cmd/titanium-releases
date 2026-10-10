@@ -6,7 +6,7 @@
   "year": "1985",
   "certification": "PG",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.331,
+  "vote_average": 8.3,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence & coarse language",
@@ -45,7 +45,7 @@
   "content_descriptors": [
     "Violence — The available classification advice identifies violent content.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions coarse language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — TMDB lists bullying among this film's story themes; specific scenes are unverified."
@@ -68,7 +68,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "coarse language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -89,6 +93,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -98,5 +103,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:27:31+00:00"
+  "checked_at": "2026-10-10T01:26:32+00:00"
 }

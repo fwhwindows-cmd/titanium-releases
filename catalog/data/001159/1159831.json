@@ -51,12 +51,12 @@
     "spirit possession"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Violence — Classification advice mentions sexual violence, violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — TMDB lists horror among this film's story themes; specific scenes are unverified.",
-    "Mature Content & Themes — TMDB lists corruption among this film's story themes; specific scenes are unverified."
+    "Mature Content & Themes — Classification advice mentions sexual violence."
   ],
   "category_evidence": {
     "Violence": {
@@ -66,6 +66,11 @@
       ],
       "keywords": [
         "murder"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "violence"
       ]
     },
     "Sex & Nudity": {
@@ -75,6 +80,10 @@
       ],
       "keywords": [
         "sexual assault"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
       ]
     },
     "Profanity": {
@@ -82,7 +91,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -97,22 +110,27 @@
       ]
     },
     "Mature Content & Themes": {
-      "basis": "tmdb_keywords",
+      "basis": "source_advisory",
       "advisory_tags": [],
       "keywords": [
         "corruption"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
       ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 3,
-    "thematic_categories": 2,
+    "source_tagged_categories": 4,
+    "thematic_categories": 1,
     "unknown_categories": 1,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:29:31+00:00"
+  "checked_at": "2026-10-10T01:29:25+00:00"
 }

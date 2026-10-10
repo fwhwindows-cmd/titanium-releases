@@ -6,15 +6,11 @@
   "year": "2026",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.025,
-  "matched_advisory": true,
-  "source": "nz_classification",
-  "consumer_advice": "Violence, sexual references & offensive language",
-  "advisory_tags": [
-    "VIOLENCE",
-    "SEXUAL CONTENT",
-    "LANGUAGE"
-  ],
+  "vote_average": 7.026,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
   "keywords": [
     "robbery",
     "based on novel or book",
@@ -33,33 +29,27 @@
     "antwerp diamonds"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
   ],
   "category_evidence": {
     "Violence": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "VIOLENCE"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Sex & Nudity": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "SEXUAL CONTENT"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Profanity": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "LANGUAGE"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Alcohol, Drugs & Smoking": {
@@ -79,14 +69,15 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
-    "grade": "advisory_summary",
+    "grade": "unknown",
     "detailed_categories": 0,
-    "source_tagged_categories": 3,
+    "source_tagged_categories": 0,
     "thematic_categories": 0,
-    "unknown_categories": 3,
+    "unknown_categories": 6,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:27:22+00:00"
+  "checked_at": "2026-10-10T01:27:06+00:00"
 }

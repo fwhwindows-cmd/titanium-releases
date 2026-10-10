@@ -19,6 +19,7 @@
     "elves",
     "dwarf",
     "magic",
+    "christianity",
     "obsession",
     "allegory",
     "bravery",
@@ -26,6 +27,7 @@
     "reincarnation",
     "sequel",
     "split personality",
+    "christ allegory",
     "fantasy world",
     "wizard",
     "epic battle",
@@ -36,9 +38,11 @@
     "high fantasy",
     "wraith",
     "sword and sorcery",
+    "christ figure",
     "trekking",
     "evil spell",
     "good versus evil",
+    "christian allegory",
     "winged creatures",
     "tolkien",
     "epic fantasy",
@@ -87,6 +91,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -96,5 +101,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:26:45+00:00"
+  "checked_at": "2026-10-10T01:26:17+00:00"
 }

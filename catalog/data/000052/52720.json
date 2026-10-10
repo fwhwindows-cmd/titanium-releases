@@ -6,7 +6,7 @@
   "year": "2004",
   "certification": "",
   "certification_source": "",
-  "vote_average": 4.8,
+  "vote_average": 4.4,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Sexual content",
@@ -18,7 +18,7 @@
   ],
   "content_descriptors": [
     "Violence — Information not available",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Sex & Nudity — Classification advice mentions sexual material.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
@@ -35,7 +35,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual material"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -59,6 +63,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -68,5 +73,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-08T19:28:19+00:00"
+  "checked_at": "2026-10-10T01:24:24+00:00"
 }

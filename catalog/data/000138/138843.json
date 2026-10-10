@@ -6,7 +6,7 @@
   "year": "2013",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.5,
+  "vote_average": 7.543,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Horror, violence and suicide",
@@ -39,8 +39,8 @@
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
+    "Mature Content & Themes — Classification advice mentions suicide."
   ],
   "category_evidence": {
     "Violence": {
@@ -70,17 +70,26 @@
       "advisory_tags": [
         "FRIGHTENING SCENES"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
+      ]
     },
     "Mature Content & Themes": {
       "basis": "source_advisory",
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "suicide"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -90,5 +99,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:25:59+00:00"
+  "checked_at": "2026-10-10T01:25:25+00:00"
 }

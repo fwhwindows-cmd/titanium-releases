@@ -6,7 +6,7 @@
   "year": "2010",
   "certification": "12",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.7,
+  "vote_average": 7.733,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "As dark forces threaten to tear his trio apart, Harry Potter is tasked with the dangerous and seemingly impossible task of locating and destroying Voldemort’s remaining Horcruxes.",
@@ -84,6 +84,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -93,5 +94,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:26:47+00:00"
+  "checked_at": "2026-10-10T01:26:11+00:00"
 }

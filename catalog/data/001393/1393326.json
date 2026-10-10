@@ -36,12 +36,12 @@
     "brutal"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Violence — Classification advice mentions graphic violence, sexual violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
-    "Mature Content & Themes — Information not available"
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
+    "Mature Content & Themes — Classification advice mentions sexual violence."
   ],
   "category_evidence": {
     "Violence": {
@@ -51,6 +51,11 @@
       ],
       "keywords": [
         "gore"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence",
+        "sexual violence"
       ]
     },
     "Sex & Nudity": {
@@ -58,7 +63,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -77,23 +86,32 @@
       ],
       "keywords": [
         "terror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
-      "basis": "unknown",
+      "basis": "source_advisory",
       "advisory_tags": [],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
-    "source_tagged_categories": 3,
+    "source_tagged_categories": 4,
     "thematic_categories": 0,
-    "unknown_categories": 3,
+    "unknown_categories": 2,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:28:38+00:00"
+  "checked_at": "2026-10-10T01:28:25+00:00"
 }

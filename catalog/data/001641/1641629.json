@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 5.557,
+  "vote_average": 5.556,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
@@ -59,6 +59,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "unknown",
     "detailed_categories": 0,
@@ -68,5 +69,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-08T19:28:43+00:00"
+  "checked_at": "2026-10-10T01:24:46+00:00"
 }

@@ -6,7 +6,7 @@
   "year": "2005",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.1,
+  "vote_average": 7.095,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Battle violence",
@@ -76,6 +76,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -85,5 +86,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:27:10+00:00"
+  "checked_at": "2026-10-10T01:26:36+00:00"
 }

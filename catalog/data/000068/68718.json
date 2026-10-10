@@ -6,7 +6,7 @@
   "year": "2012",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.2,
+  "vote_average": 8.193,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence & offensive language",
@@ -35,9 +35,9 @@
     "appreciative"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — TMDB lists revenge, racism among this film's story themes; specific scenes are unverified."
@@ -48,7 +48,11 @@
       "advisory_tags": [
         "GRAPHIC VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "unknown",
@@ -60,7 +64,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -82,6 +90,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -91,5 +100,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:27:17+00:00"
+  "checked_at": "2026-10-10T01:26:23+00:00"
 }

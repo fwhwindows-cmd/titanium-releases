@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.093,
+  "vote_average": 7.094,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Bloody violence, offensive language, drug use",
@@ -35,10 +35,10 @@
     "heavy firepower"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Classification advice mentions bloody violence.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
-    "Alcohol, Drugs & Smoking — The classification advice mentions drugs.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
   ],
@@ -48,7 +48,11 @@
       "advisory_tags": [
         "VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "bloody violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "unknown",
@@ -60,14 +64,22 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "source_advisory",
       "advisory_tags": [
         "DRUG USE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
     },
     "Frightening & Intense Scenes": {
       "basis": "unknown",
@@ -81,6 +93,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -90,5 +103,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:25:39+00:00"
+  "checked_at": "2026-10-10T01:25:12+00:00"
 }

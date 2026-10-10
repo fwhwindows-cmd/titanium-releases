@@ -6,7 +6,7 @@
   "year": "2023",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.963,
+  "vote_average": 6.962,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence and horror",
@@ -45,11 +45,11 @@
     "harsh"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Classification advice mentions horror.",
     "Mature Content & Themes — Information not available"
   ],
   "category_evidence": {
@@ -60,6 +60,10 @@
       ],
       "keywords": [
         "gore"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -85,6 +89,10 @@
       "keywords": [
         "supernatural horror",
         "horror"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "horror"
       ]
     },
     "Mature Content & Themes": {
@@ -94,6 +102,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -103,5 +112,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:28:48+00:00"
+  "checked_at": "2026-10-10T01:28:26+00:00"
 }

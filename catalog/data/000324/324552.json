@@ -36,12 +36,12 @@
     "continental hotel"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
+    "Violence — Classification advice mentions graphic violence.",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Mature Content & Themes — Classification advice mentions suicide."
   ],
   "category_evidence": {
     "Violence": {
@@ -51,6 +51,10 @@
       ],
       "keywords": [
         "shootings"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -80,10 +84,15 @@
       ],
       "keywords": [
         "revenge"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "suicide"
       ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -93,5 +102,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:30:28+00:00"
+  "checked_at": "2026-10-10T01:29:55+00:00"
 }

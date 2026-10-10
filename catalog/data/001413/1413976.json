@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.524,
+  "vote_average": 6.54,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Graphic violence, cruelty, rape & sex scenes",
@@ -32,8 +32,8 @@
     "graphic violence"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice reports graphic violence.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Violence — Classification advice mentions graphic violence.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
@@ -48,6 +48,10 @@
       "keywords": [
         "murder",
         "violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "graphic violence"
       ]
     },
     "Sex & Nudity": {
@@ -55,7 +59,11 @@
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -81,6 +89,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -90,5 +99,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:30:41+00:00"
+  "checked_at": "2026-10-10T01:29:20+00:00"
 }

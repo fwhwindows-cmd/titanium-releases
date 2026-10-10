@@ -6,7 +6,7 @@
   "year": "1960",
   "certification": "15",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 8.406,
+  "vote_average": 8.4,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence & content that may disturb",
@@ -42,10 +42,12 @@
     "private detective",
     "missing person",
     "split personality",
+    "psychotic",
     "psycho",
     "voyeurism",
     "voyeur",
     "oedipus complex",
+    "disturbed",
     "double identity",
     "abusive mother",
     "dual personality",
@@ -54,6 +56,7 @@
     "mother son relationship",
     "birds",
     "motel owner",
+    "suspenseful",
     "corruptibility",
     "confused identities",
     "human vulnerabilities",
@@ -106,6 +109,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -115,5 +119,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:29:55+00:00"
+  "checked_at": "2026-10-10T01:30:06+00:00"
 }

@@ -1,17 +1,28 @@
 {
   "schema": "titanium.content-guide.v3",
-  "tmdb_id": 1536756,
-  "imdb_id": "tt30342167",
-  "title": "Blood & Rust",
-  "year": "2026",
-  "certification": "",
-  "certification_source": "",
-  "vote_average": 0.0,
+  "tmdb_id": 26550,
+  "imdb_id": "tt0077682",
+  "title": "Little Lips",
+  "year": "1978",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 4.943,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
   "advisory_tags": [],
-  "keywords": [],
+  "keywords": [
+    "puberty",
+    "depression",
+    "lolita",
+    "war veteran",
+    "world war i",
+    "country estate",
+    "forbidden love",
+    "coming of age",
+    "wounded",
+    "voyeurism"
+  ],
   "content_descriptors": [
     "Violence — Information not available",
     "Sex & Nudity — Information not available",
@@ -63,5 +74,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-10T01:25:24+00:00"
+  "checked_at": "2026-10-10T01:25:39+00:00"
 }

@@ -37,12 +37,12 @@
     "social disparity"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
-    "Sex & Nudity — The available classification advice identifies sexual material or nudity.",
+    "Violence — Classification advice mentions domestic violence, sexual violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence, sex scenes.",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
-    "Mature Content & Themes — The classification advice identifies mature or sensitive themes."
+    "Mature Content & Themes — Classification advice mentions domestic abuse, sexual violence, self-harm."
   ],
   "category_evidence": {
     "Violence": {
@@ -50,14 +50,24 @@
       "advisory_tags": [
         "VIOLENCE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic violence",
+        "sexual violence"
+      ]
     },
     "Sex & Nudity": {
       "basis": "source_advisory",
       "advisory_tags": [
         "SEXUAL CONTENT"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "sex scenes"
+      ]
     },
     "Profanity": {
       "basis": "unknown",
@@ -79,10 +89,17 @@
       "advisory_tags": [
         "SELF-HARM"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic abuse",
+        "sexual violence",
+        "self-harm"
+      ]
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -92,5 +109,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T01:25:30+00:00"
+  "checked_at": "2026-10-10T01:24:54+00:00"
 }

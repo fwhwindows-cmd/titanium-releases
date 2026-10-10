@@ -1,17 +1,28 @@
 {
   "schema": "titanium.content-guide.v3",
-  "tmdb_id": 1536756,
-  "imdb_id": "tt30342167",
-  "title": "Blood & Rust",
-  "year": "2026",
+  "tmdb_id": 1470424,
+  "imdb_id": "tt37542920",
+  "title": "Virtual Assistant",
+  "year": "2025",
   "certification": "",
   "certification_source": "",
-  "vote_average": 0.0,
+  "vote_average": 6.316,
   "matched_advisory": false,
   "source": "none",
   "consumer_advice": "",
   "advisory_tags": [],
-  "keywords": [],
+  "keywords": [
+    "artificial intelligence (a.i.)",
+    "country house",
+    "flashback",
+    "group of friends",
+    "loudspeaker",
+    "mysterious",
+    "virtual assistant",
+    "death of friend",
+    "death game",
+    "secret"
+  ],
   "content_descriptors": [
     "Violence — Information not available",
     "Sex & Nudity — Information not available",
@@ -63,5 +74,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-10T01:25:24+00:00"
+  "checked_at": "2026-10-10T01:27:38+00:00"
 }

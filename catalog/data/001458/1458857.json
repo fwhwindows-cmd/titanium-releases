@@ -6,7 +6,7 @@
   "year": "2026",
   "certification": "",
   "certification_source": "",
-  "vote_average": 7.621,
+  "vote_average": 7.75,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Medium level violence",
@@ -63,6 +63,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -72,5 +73,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-08T19:28:19+00:00"
+  "checked_at": "2026-10-10T01:24:22+00:00"
 }
