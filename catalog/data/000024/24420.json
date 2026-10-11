@@ -66,6 +66,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "unknown",
     "detailed_categories": 0,
@@ -75,5 +76,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T13:33:15+00:00"
+  "checked_at": "2026-10-11T01:25:13+00:00"
 }

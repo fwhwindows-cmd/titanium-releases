@@ -1,0 +1,124 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 558915,
+  "imdb_id": "tt1200263",
+  "title": "The Color Purple",
+  "year": "2023",
+  "certification": "12",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.978,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "adultery",
+    "child abuse",
+    "based on novel or book",
+    "southern usa",
+    "faith",
+    "forgiveness",
+    "abusive father",
+    "slavery",
+    "georgia",
+    "musical",
+    "based on play or musical",
+    "child bride",
+    "memphis, tennessee",
+    "lesbian relationship",
+    "domestic abuse",
+    "religion",
+    "domestic violence",
+    "racism",
+    "older man younger woman relationship",
+    "incest",
+    "county jail",
+    "self esteem",
+    "hardship",
+    "lgbt",
+    "child marriage",
+    "estranged family member",
+    "pregnant teen",
+    "female empowerment",
+    "forced marriage",
+    "vexed",
+    "1920s",
+    "1940s",
+    "1910s",
+    "sisterhood",
+    "1930s",
+    "unwanted marriage",
+    "women's liberation",
+    "christian missionary",
+    "1900s",
+    "complex",
+    "sister sister relationship",
+    "race relations",
+    "resilience",
+    "soul music",
+    "child sexual abuse",
+    "20th century",
+    "bisexual woman",
+    "underage marriage",
+    "familial reconciliation"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists abuse, domestic violence among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists child abuse, domestic violence, racism among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "abuse",
+        "domestic violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "child abuse",
+        "domestic violence",
+        "racism"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 2,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:28:01+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 800939,
+  "imdb_id": "tt14109724",
+  "title": "Ticket to Paradise",
+  "year": "2022",
+  "certification": "12A",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.402,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Offensive language",
+  "advisory_tags": [
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "paradise",
+    "exotic island",
+    "architect",
+    "family relationships",
+    "indonesia",
+    "stranded",
+    "cultural difference",
+    "wedding",
+    "falling in love",
+    "american abroad",
+    "ex-husband ex-wife relationship",
+    "divorced parents",
+    "exotic locale",
+    "bali",
+    "drinking game",
+    "young lovers",
+    "airplane pilot",
+    "relationship sabotage",
+    "father daughter relationship",
+    "mother daughter relationship",
+    "memories",
+    "competitive",
+    "disapproving parent",
+    "balinese culture",
+    "daughter's wedding",
+    "romantic",
+    "amused",
+    "college graduation",
+    "bali, indonesia",
+    "wedding customs",
+    "art gallery owner"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — TMDB lists drinking among this film's story themes; specific scenes are unverified.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "drinking"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:27:46+00:00"
+}

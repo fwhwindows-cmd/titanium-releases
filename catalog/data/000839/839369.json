@@ -1,0 +1,122 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 839369,
+  "imdb_id": "tt13651794",
+  "title": "May December",
+  "year": "2023",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.567,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Sex scenes, offensive language, nudity & drug use",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "NUDITY",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "infidelity",
+    "sexual abuse",
+    "dark comedy",
+    "based on true story",
+    "statutory rape",
+    "pedophile",
+    "boundary violations",
+    "older woman younger man relationship",
+    "existentialism",
+    "dramedy",
+    "candid",
+    "baker",
+    "method acting",
+    "reflective",
+    "savannah georgia",
+    "complex",
+    "father son relationship",
+    "grand",
+    "melodrama",
+    "provocative",
+    "actress",
+    "tense",
+    "audacious",
+    "inflammatory",
+    "melodramatic",
+    "scathing",
+    "wry"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists abuse among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Classification advice mentions sex scenes, nudity.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY",
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes",
+        "nudity"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 1,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:27:53+00:00"
+}

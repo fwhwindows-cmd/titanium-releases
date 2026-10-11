@@ -1,0 +1,131 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1923,
+  "imdb_id": "tt0105665",
+  "title": "Twin Peaks: Fire Walk with Me",
+  "year": "1992",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.438,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, offensive language & drug use",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "high school",
+    "small town",
+    "double life",
+    "sexual abuse",
+    "detective",
+    "fbi",
+    "drug addiction",
+    "orgy",
+    "investigation",
+    "supernatural",
+    "surrealism",
+    "prequel",
+    "tragedy",
+    "murder",
+    "rural area",
+    "serial killer",
+    "teenage girl",
+    "prostitution",
+    "brutality",
+    "drugs",
+    "incest",
+    "psychotronic",
+    "washington state",
+    "underage sex",
+    "disturbed teenager",
+    "underage prostitution ring",
+    "1990s",
+    "semi-prequel",
+    "mysterious events",
+    "demonic",
+    "supernatural horror",
+    "based on tv series",
+    "fbi agent",
+    "mysterious disappearance",
+    "father and daughter",
+    "secret"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — TMDB lists sex work among this film's story themes; specific scenes are unverified.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — TMDB lists supernatural horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "abuse",
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "sex work"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [
+        "drug addiction"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 3,
+    "thematic_categories": 2,
+    "unknown_categories": 1,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:26:13+00:00"
+}

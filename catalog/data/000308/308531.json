@@ -6,14 +6,11 @@
   "year": "2016",
   "certification": "12A",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 6.1,
-  "matched_advisory": true,
-  "source": "nz_classification",
-  "consumer_advice": "Violence & scary scenes",
-  "advisory_tags": [
-    "VIOLENCE",
-    "FRIGHTENING SCENES"
-  ],
+  "vote_average": 6.062,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
   "keywords": [
     "sibling relationship",
     "turtle",
@@ -24,19 +21,17 @@
     "excited"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Information not available",
     "Sex & Nudity — Information not available",
     "Profanity — Information not available",
     "Alcohol, Drugs & Smoking — Information not available",
-    "Frightening & Intense Scenes — The classification advice reports frightening or distressing material.",
+    "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — Information not available"
   ],
   "category_evidence": {
     "Violence": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "VIOLENCE"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Sex & Nudity": {
@@ -55,10 +50,8 @@
       "keywords": []
     },
     "Frightening & Intense Scenes": {
-      "basis": "source_advisory",
-      "advisory_tags": [
-        "FRIGHTENING SCENES"
-      ],
+      "basis": "unknown",
+      "advisory_tags": [],
       "keywords": []
     },
     "Mature Content & Themes": {
@@ -68,14 +61,15 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
-    "grade": "advisory_summary",
+    "grade": "unknown",
     "detailed_categories": 0,
-    "source_tagged_categories": 2,
+    "source_tagged_categories": 0,
     "thematic_categories": 0,
-    "unknown_categories": 4,
+    "unknown_categories": 6,
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:27:34+00:00"
+  "checked_at": "2026-10-11T01:29:28+00:00"
 }

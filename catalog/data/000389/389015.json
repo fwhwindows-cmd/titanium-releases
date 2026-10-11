@@ -1,0 +1,120 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 389015,
+  "imdb_id": "tt5580036",
+  "title": "I, Tonya",
+  "year": "2017",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.465,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Domestic violence, sexual violence, sex scenes & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "sports",
+    "competition",
+    "olympic games",
+    "portland, oregon",
+    "biography",
+    "based on true story",
+    "rivalry",
+    "figure skating",
+    "domestic violence",
+    "poverty",
+    "overbearing mother",
+    "ice skating",
+    "1990s",
+    "winter sport",
+    "abusive mother",
+    "emotional abuse",
+    "mother daughter relationship",
+    "toxic parents"
+  ],
+  "content_descriptors": [
+    "Violence — Classification advice mentions domestic violence, sexual violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence, sex scenes.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Classification advice mentions domestic abuse, sexual violence."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "domestic violence",
+        "abuse"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic violence",
+        "sexual violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "sex scenes"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [],
+      "keywords": [
+        "domestic violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "domestic abuse",
+        "sexual violence"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 4,
+    "thematic_categories": 0,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:25:55+00:00"
+}

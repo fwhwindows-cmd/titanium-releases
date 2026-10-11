@@ -1,0 +1,119 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 638,
+  "imdb_id": "tt0116922",
+  "title": "Lost Highway",
+  "year": "1997",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.554,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & sex scenes",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT"
+  ],
+  "keywords": [
+    "prison",
+    "pornography",
+    "jealousy",
+    "dreams",
+    "dual identity",
+    "nightmare",
+    "police",
+    "sexual frustration",
+    "gangster",
+    "insanity",
+    "paranoia",
+    "prison cell",
+    "eroticism",
+    "bedroom",
+    "violent husband",
+    "headache",
+    "motel",
+    "transformation",
+    "death row",
+    "jazz singer or musician",
+    "highway",
+    "car mechanic",
+    "hallucination",
+    "suspicion",
+    "identity crisis",
+    "surrealism",
+    "car crash",
+    "murder",
+    "psychological thriller",
+    "los angeles, california",
+    "doppelgänger",
+    "videotape",
+    "fugue state",
+    "ambiguous"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists nightmares among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — TMDB lists gangster crime among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "nightmares"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "gangster crime"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 2,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:28:22+00:00"
+}

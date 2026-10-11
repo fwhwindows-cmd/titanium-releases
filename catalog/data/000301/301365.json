@@ -1,0 +1,102 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 301365,
+  "imdb_id": "tt1974419",
+  "title": "The Neon Demon",
+  "year": "2016",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.5,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "jealousy",
+    "photographer",
+    "psychopath",
+    "obsession",
+    "necrophilia",
+    "motel",
+    "narcissism",
+    "manipulation",
+    "seduction",
+    "surrealism",
+    "swimming pool",
+    "rivalry",
+    "murder",
+    "fame",
+    "teenage girl",
+    "los angeles, california",
+    "bathtub",
+    "lust",
+    "model",
+    "cannibal",
+    "fashion",
+    "eyeball",
+    "mortuary",
+    "body image",
+    "neon light",
+    "disturbed",
+    "shocking",
+    "complex",
+    "violence",
+    "bold",
+    "exuberant"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists murder, violence among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "murder",
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:26:48+00:00"
+}

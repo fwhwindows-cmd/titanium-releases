@@ -1,0 +1,100 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 691,
+  "imdb_id": "tt0076752",
+  "title": "The Spy Who Loved Me",
+  "year": "1977",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.8,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "sea",
+    "egypt",
+    "assassination",
+    "based on novel or book",
+    "cairo",
+    "submarine",
+    "england",
+    "tanker",
+    "spy",
+    "mass murder",
+    "secret intelligence service",
+    "pyramid",
+    "villain",
+    "kgb",
+    "nuclear missile",
+    "sphinx",
+    "sardinia, italy",
+    "warhead",
+    "jet ski",
+    "utopia",
+    "secret agent",
+    "murder",
+    "terrorism",
+    "shark",
+    "killer",
+    "british secret service",
+    "snow skiing",
+    "james bond",
+    "excited"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists assassination, murder among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "assassination",
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 1,
+    "unknown_categories": 5,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:28:58+00:00"
+}

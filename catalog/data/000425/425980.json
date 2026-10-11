@@ -1,0 +1,121 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 425980,
+  "imdb_id": "tt5884230",
+  "title": "Brad's Status",
+  "year": "2017",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.279,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Drug use & offensive language",
+  "advisory_tags": [
+    "LANGUAGE",
+    "DRUG USE"
+  ],
+  "keywords": [
+    "regret",
+    "jealousy",
+    "musician",
+    "midlife crisis",
+    "boston, massachusetts",
+    "married couple",
+    "mentor",
+    "harvard university",
+    "dark comedy",
+    "orchestra",
+    "respect",
+    "family",
+    "high school student",
+    "envy",
+    "child's point of view",
+    "sacramento",
+    "pov (point of view)",
+    "self reflection",
+    "college friends",
+    "rich family",
+    "perspective",
+    "revisited past",
+    "father son relationship",
+    "jealous of someone's success",
+    "privilege",
+    "college girls",
+    "imagination",
+    "rules and regulations",
+    "college admissions",
+    "possibilities",
+    "inner thoughts",
+    "college visit",
+    "non-profit organization",
+    "rich friends",
+    "glory days",
+    "worthlessness",
+    "tufts university",
+    "alma mater"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Classification advice mentions drug use.",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "DRUG USE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "drug use"
+      ]
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 0,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:27:54+00:00"
+}

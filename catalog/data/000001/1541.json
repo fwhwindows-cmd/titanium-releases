@@ -1,0 +1,129 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1541,
+  "imdb_id": "tt0103074",
+  "title": "Thelma & Louise",
+  "year": "1991",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.593,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence & offensive language",
+  "advisory_tags": [
+    "VIOLENCE",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "robbery",
+    "waitress",
+    "southern usa",
+    "self-defense",
+    "highway",
+    "housewife",
+    "female friendship",
+    "arkansas",
+    "grand canyon",
+    "road trip",
+    "thief",
+    "sexual harassment",
+    "murder",
+    "betrayal",
+    "on the run",
+    "hitchhiker",
+    "buddy",
+    "desert",
+    "attempted rape",
+    "wild west",
+    "wiretapping",
+    "road movie",
+    "neo-western",
+    "sexual assault",
+    "philosophical",
+    "fleeing",
+    "accidental crime",
+    "female outlaw",
+    "roadtrip",
+    "loving",
+    "runaway woman",
+    "playful",
+    "cautionary",
+    "intimate",
+    "provocative",
+    "sexual oppression",
+    "bold",
+    "celebratory",
+    "euphoric",
+    "excited",
+    "exhilarated",
+    "informative",
+    "joyful",
+    "powerful",
+    "female emancipation",
+    "oppressive home"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — TMDB lists sexual assault among this film's story themes; specific scenes are unverified.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "sexual assault"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:25:43+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1182047,
+  "imdb_id": "tt8368368",
+  "title": "The Apprentice",
+  "year": "2024",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.836,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Rape, sex scenes, offensive language",
+  "advisory_tags": [
+    "SEXUAL CONTENT",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "new york city",
+    "rape",
+    "corruption",
+    "aids",
+    "funeral",
+    "politics",
+    "blackmail",
+    "1970s",
+    "biography",
+    "based on true story",
+    "atlantic city",
+    "lawyer",
+    "debt",
+    "bribery",
+    "misogyny",
+    "death of brother",
+    "character study",
+    "marital rape",
+    "wiretapping",
+    "mentor protégé relationship",
+    "real estate",
+    "discrimination",
+    "degenerate",
+    "1980s",
+    "closeted homosexual",
+    "father son relationship",
+    "brother brother relationship",
+    "absurd",
+    "malfeasance"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Classification advice mentions sex scenes.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists corruption, discrimination among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sex scenes"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "corruption",
+        "discrimination"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 2,
+    "thematic_categories": 1,
+    "unknown_categories": 3,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:25:15+00:00"
+}

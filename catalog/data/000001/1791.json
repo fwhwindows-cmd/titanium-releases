@@ -1,0 +1,110 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 1791,
+  "imdb_id": "tt0254686",
+  "title": "The Piano Teacher",
+  "year": "2001",
+  "certification": "",
+  "certification_source": "",
+  "vote_average": 7.258,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "concert",
+    "based on novel or book",
+    "music teacher",
+    "fetish",
+    "conservatory",
+    "masochism",
+    "victim",
+    "piano lessons",
+    "teacher",
+    "perversion",
+    "loneliness",
+    "female protagonist",
+    "pianist",
+    "attraction",
+    "vienna, austria",
+    "sexual repression",
+    "desire",
+    "cutter",
+    "domineering mother",
+    "self mutilation",
+    "older woman younger man relationship",
+    "cutting",
+    "bdsm",
+    "character study",
+    "voyeurism",
+    "abuse",
+    "searching for love",
+    "repression",
+    "self-harm",
+    "mother daughter relationship",
+    "disturbed individual",
+    "sexual fetish",
+    "piano recital",
+    "age-gap relationship",
+    "kink",
+    "power dynamics",
+    "sardonic"
+  ],
+  "content_descriptors": [
+    "Violence — TMDB lists mutilation, abuse among this film's story themes; specific scenes are unverified.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — TMDB lists self-harm among this film's story themes; specific scenes are unverified."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "mutilation",
+        "abuse"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "self-harm"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "thematic",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 2,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:26:56+00:00"
+}

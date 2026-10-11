@@ -1,0 +1,102 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 433,
+  "imdb_id": "tt0058331",
+  "title": "Mary Poppins",
+  "year": "1964",
+  "certification": "PG",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.5,
+  "matched_advisory": false,
+  "source": "none",
+  "consumer_advice": "",
+  "advisory_tags": [],
+  "keywords": [
+    "banker",
+    "london, england",
+    "sibling relationship",
+    "based on novel or book",
+    "parent child relationship",
+    "magic",
+    "nanny",
+    "musical",
+    "family",
+    "umbrella",
+    "governess",
+    "kite flying",
+    "mischievous children",
+    "live action and animation",
+    "1910s",
+    "chimney sweep",
+    "suffragettes",
+    "wonder",
+    "penguins",
+    "dancing men",
+    "music and dance",
+    "magic world",
+    "lighthearted",
+    "joyous",
+    "bank president",
+    "happiness",
+    "adoring",
+    "awestruck",
+    "cheerful",
+    "joyful",
+    "optimistic",
+    "sympathetic",
+    "vibrant",
+    "dance musical"
+  ],
+  "content_descriptors": [
+    "Violence — Information not available",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "unknown",
+    "detailed_categories": 0,
+    "source_tagged_categories": 0,
+    "thematic_categories": 0,
+    "unknown_categories": 6,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:26:30+00:00"
+}

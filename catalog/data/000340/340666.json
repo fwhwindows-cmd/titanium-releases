@@ -1,0 +1,128 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 340666,
+  "imdb_id": "tt4550098",
+  "title": "Nocturnal Animals",
+  "year": "2016",
+  "certification": "15",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 7.399,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence, sexual violence, offensive language & nudity",
+  "advisory_tags": [
+    "VIOLENCE",
+    "SEXUAL CONTENT",
+    "NUDITY",
+    "LANGUAGE"
+  ],
+  "keywords": [
+    "based on novel or book",
+    "cheating",
+    "parent child relationship",
+    "hostage",
+    "insomnia",
+    "cowardice",
+    "flashback",
+    "revenge",
+    "murder",
+    "cancer",
+    "writer",
+    "rape and murder",
+    "overbearing mother",
+    "art",
+    "novelist",
+    "ex-husband ex-wife relationship",
+    "carjacking",
+    "story within the story",
+    "sexual assault",
+    "abortion",
+    "art exhibition",
+    "ambiguity",
+    "ambiguous",
+    "ambivalent"
+  ],
+  "content_descriptors": [
+    "Violence — Classification advice mentions sexual violence, violence.",
+    "Sex & Nudity — Classification advice mentions sexual violence, nudity.",
+    "Profanity — Classification advice mentions offensive language.",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — Information not available",
+    "Mature Content & Themes — Classification advice mentions sexual violence."
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "violence"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "NUDITY",
+        "SEXUAL CONTENT"
+      ],
+      "keywords": [
+        "sexual assault"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence",
+        "nudity"
+      ]
+    },
+    "Profanity": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "LANGUAGE"
+      ],
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Mature Content & Themes": {
+      "basis": "source_advisory",
+      "advisory_tags": [],
+      "keywords": [
+        "revenge"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "sexual violence"
+      ]
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 4,
+    "thematic_categories": 0,
+    "unknown_categories": 2,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:23:59+00:00"
+}

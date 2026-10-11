@@ -1,0 +1,108 @@
+{
+  "schema": "titanium.content-guide.v3",
+  "tmdb_id": 9946,
+  "imdb_id": "tt0146675",
+  "title": "End of Days",
+  "year": "1999",
+  "certification": "18",
+  "certification_source": "tmdb_uk_release_dates",
+  "vote_average": 6.102,
+  "matched_advisory": true,
+  "source": "nz_classification",
+  "consumer_advice": "Violence",
+  "advisory_tags": [
+    "VIOLENCE"
+  ],
+  "keywords": [
+    "new year's eve",
+    "new york city",
+    "nightmare",
+    "faith",
+    "christianity",
+    "pastor",
+    "bible",
+    "satanist",
+    "ex-cop",
+    "atheist",
+    "anti-christ",
+    "millenium",
+    "priest",
+    "hospital",
+    "explosion",
+    "church",
+    "devil",
+    "ritual murder",
+    "macabre",
+    "hard",
+    "meditative",
+    "stigmata",
+    "paranoid",
+    "philosophical",
+    "supernatural horror",
+    "dreary",
+    "good versus evil",
+    "security agent",
+    "absurd",
+    "exhilarated",
+    "frustrated"
+  ],
+  "content_descriptors": [
+    "Violence — The available classification advice identifies violent content.",
+    "Sex & Nudity — Information not available",
+    "Profanity — Information not available",
+    "Alcohol, Drugs & Smoking — Information not available",
+    "Frightening & Intense Scenes — TMDB lists nightmares, supernatural horror among this film's story themes; specific scenes are unverified.",
+    "Mature Content & Themes — Information not available"
+  ],
+  "category_evidence": {
+    "Violence": {
+      "basis": "source_advisory",
+      "advisory_tags": [
+        "VIOLENCE"
+      ],
+      "keywords": [
+        "murder"
+      ]
+    },
+    "Sex & Nudity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Profanity": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Alcohol, Drugs & Smoking": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    },
+    "Frightening & Intense Scenes": {
+      "basis": "tmdb_keywords",
+      "advisory_tags": [],
+      "keywords": [
+        "nightmares",
+        "supernatural horror"
+      ]
+    },
+    "Mature Content & Themes": {
+      "basis": "unknown",
+      "advisory_tags": [],
+      "keywords": []
+    }
+  },
+  "guide_revision": 1,
+  "guide_enrichment_revision": 1,
+  "guide_quality": {
+    "grade": "advisory_summary",
+    "detailed_categories": 0,
+    "source_tagged_categories": 1,
+    "thematic_categories": 1,
+    "unknown_categories": 4,
+    "complete": false
+  },
+  "matched_url": "",
+  "checked_at": "2026-10-11T01:27:56+00:00"
+}

@@ -6,7 +6,7 @@
   "year": "2024",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 5.8,
+  "vote_average": 5.762,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Bloody violence and offensive language",
@@ -34,9 +34,9 @@
     "extreme violence"
   ],
   "content_descriptors": [
-    "Violence — The available classification advice identifies violent content.",
+    "Violence — Classification advice mentions bloody violence.",
     "Sex & Nudity — Information not available",
-    "Profanity — The available classification advice reports some language concerns.",
+    "Profanity — Classification advice mentions offensive language.",
     "Alcohol, Drugs & Smoking — Information not available",
     "Frightening & Intense Scenes — Information not available",
     "Mature Content & Themes — TMDB lists revenge among this film's story themes; specific scenes are unverified."
@@ -51,6 +51,10 @@
         "gore",
         "murder",
         "violence"
+      ],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "bloody violence"
       ]
     },
     "Sex & Nudity": {
@@ -63,7 +67,11 @@
       "advisory_tags": [
         "LANGUAGE"
       ],
-      "keywords": []
+      "keywords": [],
+      "classification_source": "nz_classification",
+      "advice_fragments": [
+        "offensive language"
+      ]
     },
     "Alcohol, Drugs & Smoking": {
       "basis": "unknown",
@@ -84,6 +92,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -93,5 +102,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:26:25+00:00"
+  "checked_at": "2026-10-11T01:24:07+00:00"
 }

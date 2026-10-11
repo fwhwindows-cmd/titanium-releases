@@ -6,7 +6,7 @@
   "year": "1981",
   "certification": "18",
   "certification_source": "tmdb_uk_release_dates",
-  "vote_average": 7.4,
+  "vote_average": 7.39,
   "matched_advisory": true,
   "source": "nz_classification",
   "consumer_advice": "Violence",
@@ -96,6 +96,7 @@
     }
   },
   "guide_revision": 1,
+  "guide_enrichment_revision": 1,
   "guide_quality": {
     "grade": "advisory_summary",
     "detailed_categories": 0,
@@ -105,5 +106,5 @@
     "complete": false
   },
   "matched_url": "",
-  "checked_at": "2026-10-09T19:25:27+00:00"
+  "checked_at": "2026-10-11T01:26:18+00:00"
 }
